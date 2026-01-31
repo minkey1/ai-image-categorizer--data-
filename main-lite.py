@@ -165,7 +165,13 @@ def process_image(image_path, api_key, model_name):
             print("\n" + "="*60)
             print("VERBOSE API RESPONSE")
             print("="*60)
+            print(f"Status Code: {response.status_code}")
+            print(f"\nResponse Headers:")
+            print(json.dumps(dict(response.headers), indent=2))
+            print(f"\nResponse Body:")
             print(json.dumps(response_json, indent=2))
+            print(f"\nRaw Response Text:")
+            print(response.text)
             print("="*60 + "\n")
         
         # Extract text from response
