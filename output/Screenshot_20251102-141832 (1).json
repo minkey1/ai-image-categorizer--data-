@@ -1,0 +1,40 @@
+{
+  "filename": "Screenshot_20251102-141832 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "comment",
+    "url",
+    "ai",
+    "animation",
+    "huggingface",
+    "social-media",
+    "technology",
+    "pinned"
+  ],
+  "raw_text": "raj_patel_here 5w\nhttps://huggingface.co/spaces/Wan-AI/Wan2.2-Animate\nReply\n9776\nView 220 more replies\nhzsaad 5w",
+  "structured_data": {
+    "comments": [
+      {
+        "author": "raj_patel_here",
+        "timestamp": "5w",
+        "is_pinned": true,
+        "content": "https://huggingface.co/spaces/Wan-AI/Wan2.2-Animate",
+        "likes": 9776,
+        "replies_count_indicated": 220
+      },
+      {
+        "author": "hzsaad",
+        "timestamp": "5w"
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "urls": [
+      "https://huggingface.co/spaces/Wan-AI/Wan2.2-Animate"
+    ],
+    "hashtags": [],
+    "platform": "Instagram"
+  }
+}

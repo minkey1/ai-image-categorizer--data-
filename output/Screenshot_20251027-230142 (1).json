@@ -1,0 +1,62 @@
+{
+  "filename": "Screenshot_20251027-230142 (1).webp",
+  "tags": [
+    "screenshot",
+    "google-meet",
+    "video-call",
+    "presentation",
+    "painting",
+    "collaboration",
+    "technology",
+    "remote-work",
+    "meeting",
+    "software"
+  ],
+  "raw_text": "11:01\njxe-vtwa-wya\nUntitled - Paint\nFile Edit View\nSelection Image Tools Brushes Shapes Colours Copilot Layers\n500, 195px 1238 x 644px 100%\n27°C Clear\n23:01\nENG IN\n27-10-2023\nMAINAK is presenting\nRudra\nMAINAK\n156 KB/S\nVoLTE\n5G\n25",
+  "structured_data": {
+    "meeting_platform": "Google Meet",
+    "meeting_id": "jxe-vtwa-wya",
+    "presenter": "MAINAK",
+    "participants": [
+      {
+        "name": "MAINAK",
+        "is_presenting": true,
+        "is_speaking": true
+      },
+      {
+        "name": "Rudra",
+        "is_presenting": false
+      },
+      {
+        "name": "Unknown Person (Left)",
+        "is_presenting": false
+      }
+    ],
+    "application_shared": {
+      "name": "Microsoft Paint",
+      "window_title": "Untitled - Paint",
+      "canvas_content": "A black outline of a six-sided polygon"
+    },
+    "system_info": {
+      "time": "23:01",
+      "date": "27-10-2023",
+      "language": "ENG IN",
+      "weather": "27°C Clear"
+    },
+    "mobile_status_bar": {
+      "time": "11:01",
+      "network": "5G VoLTE",
+      "data_speed": "156 KB/S",
+      "battery": "25%"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "meeting_url_code": "jxe-vtwa-wya",
+    "date": "27-10-2023",
+    "timestamps": [
+      "23:01",
+      "11:01"
+    ]
+  }
+}

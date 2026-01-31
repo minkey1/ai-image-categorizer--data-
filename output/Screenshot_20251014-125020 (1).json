@@ -1,0 +1,47 @@
+{
+  "filename": "Screenshot_20251014-125020 (1).webp",
+  "tags": [
+    "screenshot",
+    "google",
+    "search",
+    "politician",
+    "profile",
+    "india",
+    "telangana",
+    "education",
+    "university",
+    "wikipedia",
+    "instagram",
+    "politics"
+  ],
+  "raw_text": "12:50\nkomatireddy gopal reddy\nKomatireddy Raj Gopal Reddy\nMember of the Telangana Legislative Assembly\nSource: Telangana Today\nAge\n58 years\n1 June 1967\nEducation\nOsmania University\n1992\nOverview\nKomatireddy Raj Gopal Reddy is an Indian politician and a former Member of Legislative Assembly of Munugode of Telangana state, ex Member of Legislative Council and ex member of the 15th Lok Sabha. He was former Bharatiya Janata Party leader till October 2023. Wikipedia >\nWikipedia\n1:19\n@komatireddy.rajgopalre...\nInstagram\nHome Search Notifications Activity\n1.39 KB/s VoLTE 5G+ 99",
+  "structured_data": {
+    "person_info": {
+      "name": "Komatireddy Raj Gopal Reddy",
+      "current_role": "Member of the Telangana Legislative Assembly",
+      "age": "58 years",
+      "birth_date": "1 June 1967",
+      "education": {
+        "institution": "Osmania University",
+        "year": "1992"
+      }
+    },
+    "career_summary": "Komatireddy Raj Gopal Reddy is an Indian politician and a former Member of Legislative Assembly of Munugode of Telangana state, ex Member of Legislative Council and ex member of the 15th Lok Sabha. He was former Bharatiya Janata Party leader till October 2023.",
+    "social_media": {
+      "instagram_handle": "@komatireddy.rajgopalre..."
+    }
+  },
+  "profile_mentions": [
+    "@komatireddy.rajgopalre..."
+  ],
+  "additional_metadata": {
+    "search_query": "komatireddy gopal reddy",
+    "information_sources": [
+      "Wikipedia",
+      "Telangana Today",
+      "Instagram"
+    ],
+    "device_time": "12:50",
+    "video_duration_visible": "1:19"
+  }
+}

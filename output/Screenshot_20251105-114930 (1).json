@@ -1,0 +1,32 @@
+{
+  "filename": "Screenshot_20251105-114930 (1).webp",
+  "tags": [
+    "screenshot",
+    "product_label",
+    "medicine",
+    "ayurveda",
+    "health",
+    "healthcare",
+    "dosage",
+    "instructions",
+    "pharmaceutical",
+    "herbal"
+  ],
+  "raw_text": "Contains self generated alcohol not more than 6%v/v\n\nDose : 1 measuring cup (7ml) Hempushpa with 1\ntablet Hemtab twice a day with water or as\ndirected by the physician.\n\nमात्रा : 1 मापक (7 मि.लि.) हेमपुष्प्या तथा 1 गोली हेमटेब दिन में\nदो बार पानी के साथ या चिकित्सक के निर्देशानुसार\n\nStore in a cool, dry place, away from direct sunlight.\nSHAKE WELL BEFORE USE",
+  "structured_data": {
+    "document_type": "Product dosage and storage label",
+    "alcohol_content": "not more than 6% v/v (self-generated)",
+    "dosage_instructions": {
+      "english": "1 measuring cup (7ml) Hempushpa with 1 tablet Hemtab twice a day with water or as directed by the physician",
+      "hindi": "1 मापक (7 मि.लि.) हेमपुष्प्या तथा 1 गोली हेमटेब दिन में दो बार पानी के साथ या चिकित्सक के निर्देशानुसार"
+    },
+    "storage_conditions": "Store in a cool, dry place, away from direct sunlight.",
+    "usage_warning": "SHAKE WELL BEFORE USE",
+    "products_mentioned": [
+      "Hempushpa",
+      "Hemtab"
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {}
+}

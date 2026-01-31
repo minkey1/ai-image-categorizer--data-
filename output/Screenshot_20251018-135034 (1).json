@@ -1,0 +1,86 @@
+{
+  "filename": "Screenshot_20251018-135034 (1).webp",
+  "tags": [
+    "screenshot",
+    "whatsapp",
+    "chat",
+    "conversation",
+    "business",
+    "finance",
+    "payment",
+    "hindi",
+    "smartphone",
+    "mobile",
+    "messaging",
+    "communication",
+    "dhanteras"
+  ],
+  "raw_text": "1:50\n2.87 KB/s\nVoLTE\n4.5G\n73\n←\nDebobrato Akash\nHYPER MEDIA SOLUTIO...\nYou\nPhoto\nReceived bhai\n10:14 PM\nYesterday\nHello Sir\n12:22 PM\nYou\nBhai aapka abhi JIMS ka 14 and Satish IMDb ka 2.5 baaki hai ..\nAny update\n12:22 PM\nYes aaj kardunga bhai\n12:37 PM\nNo worries at all\n12:37 PM\nok bhai\n2:18 PM\nBhai any update\n10:57 PM\nToday\nHello Bhai Happy Dhanteras\n1:48 PM\nBhai payment ka update dekh lo clear karna ha aage\n1:48 PM\nDebobrato Akash\nHello Bhai Happy Dhanteras\nHello bhai aapko bhi\n1:50 PM\nDebobrato Akash\nBhai payment ka update dekh lo clear karna ha aage\nJi pakka\n1:50 PM\nMessage",
+  "structured_data": {
+    "chat_context": {
+      "platform": "WhatsApp",
+      "contact_name": "Debobrato Akash",
+      "associated_company": "HYPER MEDIA SOLUTIONS...",
+      "chat_history": [
+        {
+          "timestamp": "10:14 PM",
+          "sender": "Debobrato Akash",
+          "message": "Received bhai",
+          "note": "Response to a photo/payment receipt"
+        },
+        {
+          "timestamp": "12:22 PM (Yesterday)",
+          "sender": "Debobrato Akash",
+          "message": "Hello Sir"
+        },
+        {
+          "timestamp": "12:22 PM (Yesterday)",
+          "sender": "User (Self)",
+          "message": "Bhai aapka abhi JIMS ka 14 and Satish IMDb ka 2.5 baaki hai .. Any update"
+        },
+        {
+          "timestamp": "12:37 PM (Yesterday)",
+          "sender": "User (Self)",
+          "message": "Yes aaj kardunga bhai. No worries at all"
+        },
+        {
+          "timestamp": "2:18 PM (Yesterday)",
+          "sender": "Debobrato Akash",
+          "message": "ok bhai"
+        },
+        {
+          "timestamp": "10:57 PM (Yesterday)",
+          "sender": "Debobrato Akash",
+          "message": "Bhai any update"
+        },
+        {
+          "timestamp": "1:48 PM (Today)",
+          "sender": "Debobrato Akash",
+          "message": "Hello Bhai Happy Dhanteras. Bhai payment ka update dekh lo clear karna ha aage"
+        },
+        {
+          "timestamp": "1:50 PM (Today)",
+          "sender": "User (Self)",
+          "message": "Hello bhai aapko bhi. Ji pakka"
+        }
+      ]
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "current_phone_time": "1:50",
+    "battery_level": "73%",
+    "network_status": "4.5G, VoLTE",
+    "holiday_mentioned": "Dhanteras",
+    "noted_amounts": [
+      {
+        "item": "JIMS",
+        "value": "14"
+      },
+      {
+        "item": "Satish IMDb",
+        "value": "2.5"
+      }
+    ]
+  }
+}

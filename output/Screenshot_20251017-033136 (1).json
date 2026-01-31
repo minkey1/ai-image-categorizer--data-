@@ -1,0 +1,55 @@
+{
+  "filename": "Screenshot_20251017-033136 (1).webp",
+  "tags": [
+    "screenshot",
+    "text",
+    "wiki",
+    "instructions",
+    "guidelines",
+    "writing",
+    "education",
+    "encyclopedia",
+    "biology",
+    "documentation"
+  ],
+  "raw_text": "Create a stub article\nThe important thing when creating an article is that it contains basic information, otherwise the draft may be deleted without having had a chance to be improved.\n• Start with a definition or description of the topic, which can then serve as an introduction to the article.\n• Identify the boundaries, for example by dates of birth and death, if it is a biography, or location, if it is a place.\n• Add categories to article creation to increase its visibility for project members.\nThen we can:\n• expand on this basic information. Research should provide an outline of the topic. The most important thing is to give, in a few clear and concise sentences, a general overview of the topic and/or the issues it raises;\n• create some links to other articles, which will help the reader to contextualize the subject, failing to have a complete treatment.\nSince a stub is an article like any other in terms of facts, it must respect the founding principles of the encyclopedia, in particular neutrality of point of view . To get started, see also the standard article outlines in Category:Article template , including the example below:\nDetailed help: Project:Biology/Draft taxon plan .\nA section of an existing article can be flagged as empty, insufficiently detailed, or incomplete using the {{...}} template .\nHow to improve a draft?\nRelated article: Help:How to write a good article .\n1. Establish a simple plan that covers the subject: for example, cover the history, how it works, a description of its characteristics (geographical, social, economic), its consequences, etc .;\n2. Find sources to fill each section with content.",
+  "structured_data": {
+    "document_type": "Instructional/Help Guide",
+    "main_headers": [
+      "Create a stub article",
+      "How to improve a draft?"
+    ],
+    "guidelines_for_stub": [
+      "Start with a definition or description of the topic",
+      "Identify boundaries (e.g., dates for biography, location for places)",
+      "Add categories to increase visibility"
+    ],
+    "expansion_steps": [
+      "Expand on basic information with research-based outline",
+      "Create links to other articles for context"
+    ],
+    "draft_improvement_steps": [
+      "Establish a simple plan (history, characteristics, consequences, etc.)",
+      "Find sources to fill sections"
+    ],
+    "noted_templates_and_principles": [
+      "founding principles",
+      "neutrality of point of view",
+      "{{...}} template for flagging incomplete sections"
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "internal_links": [
+      "founding principles",
+      "neutrality of point of view",
+      "Category:Article template",
+      "Project:Biology/Draft taxon plan",
+      "Help:How to write a good article",
+      "sources"
+    ],
+    "special_characters": [
+      "{{...}}"
+    ]
+  }
+}

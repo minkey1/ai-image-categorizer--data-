@@ -1,0 +1,33 @@
+{
+  "filename": "Screenshot_20251024-182219 (1).webp",
+  "tags": [
+    "photo",
+    "document",
+    "contract",
+    "text",
+    "relationships",
+    "slang",
+    "meme",
+    "humor",
+    "hand",
+    "paper"
+  ],
+  "raw_text": "SIDE BITCH CONTRACT\nI ____________ X promise to keep my mouth shut about our\nbusiness at ALL times. I promise NEVER to converse with your main. As\na side bitch i will respect the hours of calling. I also understand i must\nreply to your text. I should know my place and remain as a side bitch. I\nwill not get jealous, i will pretend to be a friend in public but fuck you\nlike a animal in private.",
+  "structured_data": {
+    "document_title": "SIDE BITCH CONTRACT",
+    "fields": {
+      "name_placeholder": "I ____________ X"
+    },
+    "clauses": [
+      "Keep mouth shut about our business at ALL times.",
+      "NEVER to converse with your main.",
+      "Respect the hours of calling.",
+      "Must reply to your text.",
+      "Should know my place and remain as a side bitch.",
+      "Will not get jealous.",
+      "Will pretend to be a friend in public but fuck you like a animal in private."
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {}
+}

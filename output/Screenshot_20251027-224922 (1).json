@@ -1,0 +1,52 @@
+{
+  "filename": "Screenshot_20251027-224922 (1).webp",
+  "tags": [
+    "screenshot",
+    "mobile",
+    "video-call",
+    "google-meet",
+    "communication",
+    "people",
+    "technology",
+    "interface"
+  ],
+  "raw_text": "10:49\n272 KB/s\nVoLTE\n5G\n27\njxe-vtwa-wya\nRudra\nMAINAK",
+  "structured_data": {
+    "application": "Google Meet",
+    "meeting_code": "jxe-vtwa-wya",
+    "participants": [
+      {
+        "name": "Rudra",
+        "position": "top video tile"
+      },
+      {
+        "name": "MAINAK",
+        "position": "bottom video tile"
+      }
+    ],
+    "status_bar_info": {
+      "time": "10:49",
+      "data_speed": "272 KB/s",
+      "network_type": "5G",
+      "features": "VoLTE",
+      "battery_level": "27%"
+    },
+    "call_controls": [
+      "camera toggle",
+      "microphone toggle",
+      "emoji reactions",
+      "more options",
+      "end call"
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "potential_meeting_url": "https://meet.google.com/jxe-vtwa-wya",
+    "visible_icons": [
+      "WhatsApp notification",
+      "Bluetooth",
+      "WiFi signal",
+      "network signal strength"
+    ]
+  }
+}

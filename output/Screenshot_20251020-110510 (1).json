@@ -1,0 +1,64 @@
+{
+  "filename": "Screenshot_20251020-110510 (1).webp",
+  "tags": [
+    "memorial",
+    "invitation",
+    "tamil",
+    "christian",
+    "obituary",
+    "announcement",
+    "funeral",
+    "religious",
+    "prayer meeting"
+  ],
+  "raw_text": "கிறிஸ்து எனக்கு ஜீவன், சாவு எனக்கு ஆதாயம்.\nபிலிப்பியர் 1: 21\nநினைவில்\nசை. சாந்தி\nM.A, B. Lit., B.Sc, B. Ed.\n16 June, 1972 - 13 Oct, 2025\nஅவரின் நினைவு ஜெபக்கூட்டம் நடைபெறும் நாள்\n25 - 10 - 2025\nசனிக்கிழமை மாலை 05:30 மணி\nஇடம் : ராஜாமணி மஹால்\nதென்னிந்திய திருச்சபை எதிரில், சித்தூர்\nசாலை சோளிங்கர்\nதொடர்புக்கு : 95004 27955\nஇப்படிக்கு\nகணவர்: J. ஸ்டேன்லி தேவபிரியம்\nமகன்: S. எபினேசர்\nமகள்: S. பிரைஸ்லின் கிஃப்டி\nகுடும்பத்தினர், உறவினர்கள் & நண்பர்கள்",
+  "structured_data": {
+    "document_type": "Memorial Invitation",
+    "subject": {
+      "name": "Sai. Shanthi (சை. சாந்தி)",
+      "qualifications": [
+        "M.A",
+        "B. Lit.",
+        "B.Sc",
+        "B. Ed."
+      ],
+      "birth_date": "16 June, 1972",
+      "death_date": "13 Oct, 2025"
+    },
+    "event_details": {
+      "event_type": "Memorial Prayer Meeting (நினைவு ஜெபக்கூட்டம்)",
+      "date": "25 - 10 - 2025",
+      "day": "Saturday (சனிக்கிழமை)",
+      "time": "05:30 PM (மாலை 05:30 மணி)",
+      "location": "Rajamani Mahal (ராஜாமணி மஹால்)",
+      "address": "Opposite CSI Church, Chittoor Road, Sholinghur (தென்னிந்திய திருச்சபை எதிரில், சித்தூர் சாலை சோளிங்கர்)"
+    },
+    "family_information": {
+      "husband": "J. Stanley Devapriyam (J. ஸ்டேன்லி தேவபிரியம்)",
+      "son": "S. Ebenezer (S. எபினேசர்)",
+      "daughter": "S. Pricelin Gifty (S. பிரைஸ்லின் கிஃப்டி)",
+      "others": "Family, Relatives & Friends (குடும்பத்தினர், உறவினர்கள் & நண்பர்கள்)"
+    },
+    "religious_reference": {
+      "scripture": "Philippians 1:21 (பிலிப்பியர் 1: 21)",
+      "text": "Christ is my life, death is my gain (கிறிஸ்து எனக்கு ஜீவன், சாவு எனக்கு ஆதாயம்.)"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "phone_numbers": [
+      "95004 27955"
+    ],
+    "dates": [
+      "16 June, 1972",
+      "13 Oct, 2025",
+      "25 - 10 - 2025"
+    ],
+    "language": "Tamil",
+    "symbols_present": [
+      "Star of David",
+      "Menorah",
+      "Olive branches"
+    ]
+  }
+}

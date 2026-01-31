@@ -1,0 +1,91 @@
+{
+  "filename": "Screenshot_20251112-113035 (1).webp",
+  "tags": [
+    "screenshot",
+    "whatsapp",
+    "messaging",
+    "communication",
+    "smartphone",
+    "finance",
+    "mobile",
+    "chat"
+  ],
+  "raw_text": "11:30\n44.8 KB/s\nVOLTE\n5G\n83\nDeepika Amyu\nSaturday\nTomorrow I will sent the details da 6:28 PM\nAlso u need money it seems.. 6:28 PM\nIs everything alright? 6:28 PM\nYou\nAlso u need money it seems..\nYes da 6:29 PM\nYou\nIs everything alright?\nNo really bad situation da 6:30 PM\nDeepika Amyu\nNo really bad situation da\nWt happened 6:43 PM\nU send voice note no problem 6:43 PM\nI am in temple da once I will reach the home sent the voice note ok va da?? 6:47 PM\nSure 6:59 PM\nDeepika Amyu\nI am in temple da once I will reach the home sent the voice note ok va da??\nHello 👋 9:12 PM\nMonday\nHii da 6:35 PM\nOnce you free means u can call me da 6:36 PM\nMessage",
+  "structured_data": {
+    "platform": "WhatsApp",
+    "contact_name": "Deepika Amyu",
+    "conversation_log": [
+      {
+        "timestamp": "Saturday, 6:28 PM",
+        "sender": "Deepika Amyu",
+        "message": "Tomorrow I will sent the details da"
+      },
+      {
+        "timestamp": "Saturday, 6:28 PM",
+        "sender": "User",
+        "message": "Also u need money it seems.."
+      },
+      {
+        "timestamp": "Saturday, 6:28 PM",
+        "sender": "User",
+        "message": "Is everything alright?"
+      },
+      {
+        "timestamp": "Saturday, 6:29 PM",
+        "sender": "Deepika Amyu",
+        "message": "Yes da",
+        "reply_to": "Also u need money it seems.."
+      },
+      {
+        "timestamp": "Saturday, 6:30 PM",
+        "sender": "Deepika Amyu",
+        "message": "No really bad situation da",
+        "reply_to": "Is everything alright?"
+      },
+      {
+        "timestamp": "Saturday, 6:43 PM",
+        "sender": "User",
+        "message": "Wt happened",
+        "reply_to": "No really bad situation da"
+      },
+      {
+        "timestamp": "Saturday, 6:43 PM",
+        "sender": "User",
+        "message": "U send voice note no problem"
+      },
+      {
+        "timestamp": "Saturday, 6:47 PM",
+        "sender": "Deepika Amyu",
+        "message": "I am in temple da once I will reach the home sent the voice note ok va da??"
+      },
+      {
+        "timestamp": "Saturday, 6:59 PM",
+        "sender": "User",
+        "message": "Sure"
+      },
+      {
+        "timestamp": "Saturday, 9:12 PM",
+        "sender": "User",
+        "message": "Hello 👋",
+        "reply_to": "I am in temple da once I will reach the home sent the voice note ok va da??"
+      },
+      {
+        "timestamp": "Monday, 6:35 PM",
+        "sender": "Deepika Amyu",
+        "message": "Hii da"
+      },
+      {
+        "timestamp": "Monday, 6:36 PM",
+        "sender": "Deepika Amyu",
+        "message": "Once you free means u can call me da"
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "system_time": "11:30",
+    "battery_percentage": "83%",
+    "network_status": "5G, VoLTE",
+    "data_speed": "44.8 KB/s"
+  }
+}

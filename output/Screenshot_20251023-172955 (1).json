@@ -1,0 +1,36 @@
+{
+  "filename": "Screenshot_20251023-172955 (1).webp",
+  "tags": [
+    "screenshot",
+    "selfie",
+    "woman",
+    "face",
+    "closeup",
+    "music",
+    "instagram",
+    "story",
+    "makeup",
+    "hair"
+  ],
+  "raw_text": "5:29\n646 KB/S\nVoLTE\n5G\n100\nBESHARAM\nDil Kaa Jo Haal Hai\nijeet Bhattacharya, Shreya Ghoshal\ntoo close?",
+  "structured_data": {
+    "device_status": {
+      "time": "5:29",
+      "data_speed": "646 KB/S",
+      "network": "5G, VoLTE",
+      "battery": "100%",
+      "bluetooth": "enabled"
+    },
+    "instagram_story_details": {
+      "song_title": "Dil Kaa Jo Haal Hai",
+      "artists": [
+        "Abhijeet Bhattacharya",
+        "Shreya Ghoshal"
+      ],
+      "album": "Besharam",
+      "overlay_text": "too close?"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": []
+}

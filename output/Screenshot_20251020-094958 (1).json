@@ -1,0 +1,88 @@
+{
+  "filename": "Screenshot_20251020-094958 (1).webp",
+  "tags": [
+    "recipe",
+    "maggi",
+    "masala",
+    "spices",
+    "cooking",
+    "indian",
+    "food",
+    "ingredients",
+    "handmade",
+    "homemade"
+  ],
+  "raw_text": "Dry red chilli\n🌶 Handmade Maggi Masala Recipe (Market Wala Taste)\nAthena Lounge & Bar\n🛒 Ingredients (Masala Powder ke liye):\n1. Coriander Powder (धनिया पाउडर) – 2 tsp\n2. Red Chilli Powder (लाल मिर्च पाउडर) – 1 tsp\n3. Turmeric Powder (हल्दी) – ½ tsp\n4. Cumin Powder (जीरा पाउडर) – ½ tsp\n5. Black Pepper Powder (काली मिर्च पाउडर) – ½ tsp\n6. Dry Mango Powder (अमचूर) – 1 tsp\n7. Garam Masala – 1 tsp\n8. Kasuri Methi (dry) – 1 tsp (lightly crushed)\n9. Salt (नमक) – as per taste\n10. Sugar (थोड़ा मीठापन) – ½ tsp (optional, but gives Maggi jaisa balance)\n11. Onion Powder (प्याज़ पाउडर) – ½ tsp (optional)\n12. Garlic Powder (लहसुन पाउडर) – ½ tsp (optional)",
+  "structured_data": {
+    "recipe_title": "Handmade Maggi Masala Recipe (Market Wala Taste)",
+    "category": "Masala Powder",
+    "ingredients": [
+      {
+        "index": 1,
+        "name": "Coriander Powder (धनिया पाउडर)",
+        "quantity": "2 tsp"
+      },
+      {
+        "index": 2,
+        "name": "Red Chilli Powder (लाल मिर्च पाउडर)",
+        "quantity": "1 tsp"
+      },
+      {
+        "index": 3,
+        "name": "Turmeric Powder (हल्दी)",
+        "quantity": "½ tsp"
+      },
+      {
+        "index": 4,
+        "name": "Cumin Powder (जीरा पाउडर)",
+        "quantity": "½ tsp"
+      },
+      {
+        "index": 5,
+        "name": "Black Pepper Powder (काली मिर्च पाउडर)",
+        "quantity": "½ tsp"
+      },
+      {
+        "index": 6,
+        "name": "Dry Mango Powder (अमचूर)",
+        "quantity": "1 tsp"
+      },
+      {
+        "index": 7,
+        "name": "Garam Masala",
+        "quantity": "1 tsp"
+      },
+      {
+        "index": 8,
+        "name": "Kasuri Methi (dry)",
+        "quantity": "1 tsp (lightly crushed)"
+      },
+      {
+        "index": 9,
+        "name": "Salt (नमक)",
+        "quantity": "as per taste"
+      },
+      {
+        "index": 10,
+        "name": "Sugar (थोड़ा मीठापन)",
+        "quantity": "½ tsp",
+        "notes": "optional, but gives Maggi jaisa balance"
+      },
+      {
+        "index": 11,
+        "name": "Onion Powder (प्याज़ पाउडर)",
+        "quantity": "½ tsp",
+        "notes": "optional"
+      },
+      {
+        "index": 12,
+        "name": "Garlic Powder (लहसुन पाउडर)",
+        "quantity": "½ tsp",
+        "notes": "optional"
+      }
+    ],
+    "location_branding": "Athena Lounge & Bar"
+  },
+  "profile_mentions": [],
+  "additional_metadata": {}
+}

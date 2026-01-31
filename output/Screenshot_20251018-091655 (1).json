@@ -1,0 +1,71 @@
+{
+  "filename": "Screenshot_20251018-091655 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "reel",
+    "photography",
+    "art",
+    "composition",
+    "tutorial",
+    "drawing",
+    "infographic",
+    "guide",
+    "sketch",
+    "educational"
+  ],
+  "raw_text": "9:16\n0.00 KB/S VoLTE 5G 96\nReels Friends\nComposition examples\nRule of thirds\ngolden spiral\ndiagonal\nV-shape\npyramid\ns-curve\nL-shape\ndouble diagonal\nRadiating\ntunnel\ngolden triangle\nGolden section\ncircular\ngolden section\ncross\nbalance\nC-shape\nunbalanced\n@mitchleeuwe\ngiovannii.jpeg\nFollow\nCore fundamentals of Photography 👇🚨 ...\nFollowed by john_paulpj\n53\n56",
+  "structured_data": {
+    "platform": "Instagram",
+    "content_type": "Reel",
+    "author": {
+      "username": "giovannii.jpeg",
+      "follow_status": "Follow",
+      "followed_by": "john_paulpj"
+    },
+    "post_content": {
+      "caption": "Core fundamentals of Photography 👇🚨 ...",
+      "image_content": "Infographic titled 'Composition examples' showing 18 different composition techniques with diagrams and illustrative sketches.",
+      "composition_techniques": [
+        "Rule of thirds",
+        "Golden spiral",
+        "Diagonal",
+        "V-shape",
+        "Pyramid",
+        "S-curve",
+        "L-shape",
+        "Double diagonal",
+        "Radiating",
+        "Tunnel",
+        "Golden triangle",
+        "Golden section",
+        "Circular",
+        "Cross",
+        "Balance",
+        "C-shape",
+        "Unbalanced"
+      ]
+    },
+    "engagement": {
+      "comments_count": "53",
+      "shares_count": "56"
+    },
+    "device_status": {
+      "time": "9:16",
+      "battery_percentage": "96%",
+      "network": "5G",
+      "data_speed": "0.00 KB/S"
+    }
+  },
+  "profile_mentions": [
+    "@mitchleeuwe",
+    "@giovannii.jpeg",
+    "@john_paulpj"
+  ],
+  "additional_metadata": {
+    "emojis": [
+      "👇",
+      "🚨"
+    ]
+  }
+}

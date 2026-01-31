@@ -1,0 +1,90 @@
+{
+  "filename": "Screenshot_20251024-171113 (1).webp",
+  "tags": [
+    "screenshot",
+    "mobile",
+    "flipkart",
+    "ecommerce",
+    "shopping",
+    "smartphone",
+    "finance",
+    "technology",
+    "oppo",
+    "deal",
+    "price",
+    "emi",
+    "bank",
+    "offer",
+    "5g",
+    "storage",
+    "battery",
+    "charger"
+  ],
+  "raw_text": "5:11\nflipkart.com/oppo-k13-5g-\n05:48\nVOLTE 5G 58\nVariant: 256 GB + 8 GB\n128 GB + 8 GB\n↓22% 22,999\n₹17,999\n256 GB + 8 GB\n↓20% 24,999\n₹19,999\n3 left\nOPPO Visit store\nK13 5G with 7000mAh and 80W SUPERVOOC Charger\nIn-The-Box (Prism B...more\n↓20% 24,999 ₹19,999\n+₹79 Protect Promise Fee >\nWOW! DEAL Apply offers for maximum savings\n₹18,999\nLowest price for you\nOR\n₹6,667 x 3m\nPay ₹19,999 • No Cost EMI\nExchange offer Pincode not Serviceable\nUp to ₹15,100\nChange pincode to exchange item >\nBank offers View EMI offers\nBest value for you\n₹1,000 off\nFlipkart Axis\nApply\nCredit Card\n₹1,000 off\nFlipkart SBI\nCredit Card\nBuy with EMI\nFrom ₹6,667/m\nBuy now\nat ₹19,999",
+  "structured_data": {
+    "product_details": {
+      "brand": "OPPO",
+      "model": "K13 5G",
+      "key_specs": [
+        "7000mAh battery",
+        "80W SUPERVOOC Charger"
+      ]
+    },
+    "selected_variant": {
+      "storage": "256 GB",
+      "ram": "8 GB",
+      "current_price": "₹19,999",
+      "original_price": "₹24,999",
+      "discount": "20% off",
+      "availability": "3 left"
+    },
+    "other_variants": [
+      {
+        "storage": "128 GB",
+        "ram": "8 GB",
+        "current_price": "₹17,999",
+        "original_price": "22,999",
+        "discount": "22% off"
+      }
+    ],
+    "offers": {
+      "lowest_price_with_offers": "₹18,999",
+      "emi_options": {
+        "no_cost_emi": "₹6,667 x 3 months",
+        "total_payable": "₹19,999"
+      },
+      "exchange_offer": {
+        "max_value": "Up to ₹15,100",
+        "status": "Pincode not Serviceable"
+      },
+      "bank_offers": [
+        {
+          "bank": "Flipkart Axis",
+          "discount": "₹1,000 off",
+          "payment_method": "Credit Card"
+        },
+        {
+          "bank": "Flipkart SBI",
+          "discount": "₹1,000 off",
+          "payment_method": "Credit Card"
+        }
+      ]
+    },
+    "additional_fees": {
+      "protect_promise_fee": "₹79"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "url": "https://www.flipkart.com/oppo-k13-5g-",
+    "status_bar_info": {
+      "time": "5:11",
+      "call_duration": "05:48",
+      "battery": "58%",
+      "network": [
+        "VOLTE",
+        "5G"
+      ]
+    }
+  }
+}

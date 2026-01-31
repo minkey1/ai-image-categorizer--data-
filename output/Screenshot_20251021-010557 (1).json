@@ -1,0 +1,59 @@
+{
+  "filename": "Screenshot_20251021-010557 (1).webp",
+  "tags": [
+    "screenshot",
+    "software",
+    "technology",
+    "ai",
+    "avatar",
+    "video",
+    "interface",
+    "chat",
+    "web",
+    "marketing",
+    "infographic"
+  ],
+  "raw_text": "1. D-ID.COM\nMake any image talk\nUpload a face. Add text. It speaks like a real person.\n< Agents Appearance Agent details knowledge Chat settings Back Next\nAppearance\nAll My Avatars Standard Premium+\nUpload\nYou're in preview mode. sound and face animations won't show\nChat\nHey there! I'm Dr. Khayla. Welcome to my practice. Would you like to know anything?\nWhen are your appointments?\nHi there\nfrom the workspace home section.",
+  "structured_data": {
+    "header": {
+      "ranking": "1.",
+      "platform_name": "D-ID.COM",
+      "main_headline": "Make any image talk",
+      "sub_headline": "Upload a face. Add text. It speaks like a real person."
+    },
+    "interface_details": {
+      "navigation_tabs": [
+        "Appearance",
+        "Agent details",
+        "knowledge",
+        "Chat settings"
+      ],
+      "actions": [
+        "Agents",
+        "Back",
+        "Next",
+        "Upload"
+      ],
+      "avatar_filters": [
+        "All",
+        "My Avatars",
+        "Standard",
+        "Premium+"
+      ]
+    },
+    "chat_preview": {
+      "status_message": "You're in preview mode. sound and face animations won't show",
+      "agent_name": "Dr. Khayla",
+      "agent_message": "Hey there! I'm Dr. Khayla. Welcome to my practice. Would you like to know anything?",
+      "user_message": "When are your appointments?",
+      "input_field": "Hi there"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "urls": [
+      "D-ID.COM"
+    ],
+    "footer_text": "from the workspace home section."
+  }
+}

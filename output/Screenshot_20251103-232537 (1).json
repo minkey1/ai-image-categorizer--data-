@@ -1,0 +1,30 @@
+{
+  "filename": "Screenshot_20251103-232537 (1).webp",
+  "tags": [
+    "screenshot",
+    "text",
+    "recruitment",
+    "music",
+    "classical",
+    "instruments",
+    "education",
+    "management",
+    "hiring",
+    "magenta",
+    "purple"
+  ],
+  "raw_text": "Looking for a person to manage online musical classes, will be paid well, probably someone with exposure to instruments/ classical music.\n\nIf you know a person. Kindly dm.",
+  "structured_data": {
+    "job_posting": {
+      "role": "manager for online musical classes",
+      "compensation": "paid well",
+      "requirements": [
+        "exposure to instruments",
+        "exposure to classical music"
+      ],
+      "call_to_action": "dm if you know a person"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": []
+}

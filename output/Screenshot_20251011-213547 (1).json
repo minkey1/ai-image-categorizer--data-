@@ -1,0 +1,49 @@
+{
+  "filename": "Screenshot_20251011-213547 (1).webp",
+  "tags": [
+    "screenshot",
+    "imdb",
+    "film",
+    "cinematography",
+    "entertainment",
+    "app",
+    "ui",
+    "production",
+    "editing",
+    "request"
+  ],
+  "raw_text": "Satish Ray\nProducer\nCinematographer\nAkshat Aman\nEditor\nOmkar Bhalerao\nContribute to this page >\nSuggest an edit or add missing content\nLearn more about contributing\nReplace Akshat Aman with “Magnality Films”\n9:33 PM",
+  "structured_data": {
+    "page_header": "Satish Ray",
+    "crew_credits": [
+      {
+        "role": "Producer",
+        "name": null
+      },
+      {
+        "role": "Cinematographer",
+        "name": "Akshat Aman"
+      },
+      {
+        "role": "Editor",
+        "name": "Omkar Bhalerao"
+      }
+    ],
+    "ui_elements": [
+      "Contribute to this page",
+      "Suggest an edit or add missing content",
+      "Learn more about contributing"
+    ],
+    "chat_caption": "Replace Akshat Aman with “Magnality Films”",
+    "timestamp": "9:33 PM"
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "platform": "IMDb Mobile App",
+    "highlighted_action": "Editing Cinematographer credit",
+    "requested_change": {
+      "old_value": "Akshat Aman",
+      "new_value": "Magnality Films"
+    }
+  }
+}

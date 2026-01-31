@@ -1,0 +1,71 @@
+{
+  "filename": "Screenshot_20251107-153212 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "profile",
+    "artist",
+    "art",
+    "painting",
+    "socialmedia",
+    "reels",
+    "followers",
+    "verified",
+    "oilpainting",
+    "course"
+  ],
+  "raw_text": "3:32\n1.09 KB/s\nVoLTE\n5G\n83%\nyashinss\nVlad Yashin\n70 posts\n692K followers\n731 following\nArtist\n🔥 Oil Painting Course is coming soon\n👇 Join the waitlist now! 👇\nyashinss.substack.com/p/build-my-painting-course-with-me\nFollow\nMessage\nSubscribe\nArt Course\nProcess\n417K\n1.2M\n1M\nTRIGGER WARNING\nWe had 2 weeks to learn my oil painting techniques\nWho knew that a random guy in cafe could became a muse for a series of paintings...",
+  "structured_data": {
+    "profile": {
+      "name": "Vlad Yashin",
+      "username": "yashinss",
+      "is_verified": true,
+      "post_count": "70",
+      "follower_count": "692K",
+      "following_count": "731",
+      "category": "Artist",
+      "bio": "🔥 Oil Painting Course is coming soon\n👇 Join the waitlist now! 👇",
+      "website_link": "yashinss.substack.com/p/build-my-painting-course-with-me",
+      "highlights": [
+        "Art Course",
+        "Process"
+      ],
+      "active_tab": "Reels"
+    },
+    "reels": [
+      {
+        "status": "pinned",
+        "view_count": "417K",
+        "description": "Painting of a face with red paint/blood"
+      },
+      {
+        "status": "pinned",
+        "view_count": "1.2M",
+        "description": "Blue-toned painting of two figures"
+      },
+      {
+        "status": "pinned",
+        "view_count": "1M",
+        "text_on_video": "TRIGGER WARNING"
+      },
+      {
+        "text_on_video": "We had 2 weeks to learn my oil painting techniques"
+      },
+      {
+        "text_on_video": "Who knew that a random guy in cafe could became a muse for a series of paintings..."
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "urls": [
+      "https://yashinss.substack.com/p/build-my-painting-course-with-me"
+    ],
+    "device_info": {
+      "time": "3:32",
+      "battery": "83%",
+      "network": "5G",
+      "connection": "VoLTE"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "filename": "Screenshot_20251012-142029 (1).webp",
+  "tags": [
+    "screenshot",
+    "mobile",
+    "android",
+    "chrome",
+    "google",
+    "imdb",
+    "tvf",
+    "entertainment",
+    "series",
+    "podcast",
+    "education",
+    "drama",
+    "comedy",
+    "multitasking"
+  ],
+  "raw_text": "2:20\n0.00 KB/S\nVoLTE\n5G\n55\nChrome\nGoogle\nTVF | ORIGINALS\nunacademy PRESENTS\nKOTA FACTORY\nEPISODE 2\nASSEMBLY LINE\nTOP-RATED\nS1.E2 · Assembly Line\nTue, Apr 23, 2019\nVaibhav is part of the pack but 'studying' isn't\nthe only hurdle he faces. When Meena, Uday\nand Shivangi fail to help him, Jeetu\nvolunteers. Will Jeetu be able to save\nVaibhav from the horrors of mess-food,\ninsomnia and constipation?\n8.6/10 (1.6K) Rate\nWatch options\nTVF | ORIGINALS\nunacademy PRESENTS\nKOTA FACTORY\nEPISODE 3\nOPTIMIZATION\nTOP-RATED\nS1.E3 · Optimization\nFake Podcast (...\nm.imdb.com\nS1.E1 · Paranormal Activist EP\nTue, Nov 28, 2023\nAdd a plot\nRate\nS1.E2 · Fake Podcast with Bab...\n02\nSun, Jun 16, 2024\nAdd a plot\nRate",
+  "structured_data": {
+    "app_windows": [
+      {
+        "app_name": "Chrome",
+        "content_type": "IMDb Page",
+        "show_title": "Kota Factory",
+        "production": "TVF Originals",
+        "sponsor": "Unacademy",
+        "episodes": [
+          {
+            "season_episode": "S1.E2",
+            "title": "Assembly Line",
+            "air_date": "Tue, Apr 23, 2019",
+            "description": "Vaibhav is part of the pack but 'studying' isn't the only hurdle he faces. When Meena, Uday and Shivangi fail to help him, Jeetu volunteers. Will Jeetu be able to save Vaibhav from the horrors of mess-food, insomnia and constipation?",
+            "rating": "8.6/10 (1.6K reviews)",
+            "status": "TOP-RATED"
+          },
+          {
+            "season_episode": "S1.E3",
+            "title": "Optimization",
+            "status": "TOP-RATED"
+          }
+        ]
+      },
+      {
+        "app_name": "Google",
+        "url": "m.imdb.com",
+        "content_type": "IMDb Page",
+        "show_title": "Fake Podcast",
+        "episodes": [
+          {
+            "season_episode": "S1.E1",
+            "title": "Paranormal Activist EP",
+            "air_date": "Tue, Nov 28, 2023"
+          },
+          {
+            "season_episode": "S1.E2",
+            "title": "Fake Podcast with Bab... 02",
+            "air_date": "Sun, Jun 16, 2024"
+          }
+        ]
+      }
+    ],
+    "system_info": {
+      "time": "2:20",
+      "network": "5G, VoLTE",
+      "battery": "55%",
+      "data_speed": "0.00 KB/s"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "urls": [
+      "m.imdb.com"
+    ],
+    "dates": [
+      "Apr 23, 2019",
+      "Nov 28, 2023",
+      "Jun 16, 2024"
+    ],
+    "hashtags": []
+  }
+}

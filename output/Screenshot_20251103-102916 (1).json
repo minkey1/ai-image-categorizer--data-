@@ -1,0 +1,71 @@
+{
+  "filename": "Screenshot_20251103-102916 (1).webp",
+  "tags": [
+    "screenshot",
+    "mobile",
+    "wikipedia",
+    "userpage",
+    "userbox",
+    "anime",
+    "death-note",
+    "ghost-in-the-shell",
+    "monster",
+    "legend-of-the-galactic-heroes",
+    "geography",
+    "atheism",
+    "rpg",
+    "gaming",
+    "music",
+    "punk",
+    "heavy-metal",
+    "rock",
+    "ramones",
+    "black-sabbath",
+    "the-doors",
+    "foo-fighters",
+    "iron-maiden",
+    "judas-priest",
+    "metallica"
+  ],
+  "raw_text": "10:29\nen.wikipedia.org/wiki/User\nアニメ sub\nThis user prefers to watch\nhis anime subbed.\nThis user will take a potato chip... AND EAT IT!\nGITS\nThis user's cyberbrain was hacked.\nThis user is a fan of Monster.\nモンスター\nLOGH\nThis user is a fan of the Legend of the\nGalactic Heroes 1988–2001 series.\nThis user is interested in\nGeography.\nThis user is an atheist.\nThis user is a fan of Role-\nplaying video games.\nRAMONES This user is a fan of\nThe Ramones.\nBLACK SABBATH\nThis user is a Black Sabbath fan.\nThis user is a fan of\nThe Doors.\nEverlong This user is a Foo Fighters fan.\nIRON MAIDEN This user is a fan of Iron Maiden.\nThis user is a fan of Judas Priest.\nMETALLICA This user is a fan of Metallica.",
+  "structured_data": {
+    "platform": "Wikipedia",
+    "content_type": "Userboxes",
+    "user_preferences": {
+      "anime_format": "Subtitled"
+    },
+    "interests": {
+      "anime_manga": [
+        "Death Note (Potato chip reference)",
+        "Ghost in the Shell",
+        "Monster",
+        "Legend of the Galactic Heroes (1988-2001)"
+      ],
+      "academic_hobby": [
+        "Geography"
+      ],
+      "beliefs": [
+        "Atheism"
+      ],
+      "gaming": [
+        "Role-playing video games"
+      ],
+      "music_bands": [
+        "The Ramones",
+        "Black Sabbath",
+        "The Doors",
+        "Foo Fighters",
+        "Iron Maiden",
+        "Judas Priest",
+        "Metallica"
+      ]
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "url": "https://en.wikipedia.org/wiki/User",
+    "timestamp": "10:29",
+    "battery_level": "82%",
+    "network_type": "5G/VoLTE"
+  }
+}

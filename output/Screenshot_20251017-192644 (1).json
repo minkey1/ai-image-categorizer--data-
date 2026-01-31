@@ -1,0 +1,47 @@
+{
+  "filename": "Screenshot_20251017-192644 (1).webp",
+  "tags": [
+    "screenshot",
+    "advertisement",
+    "man",
+    "smartphone",
+    "electronics",
+    "retail",
+    "Xiaomi",
+    "Diwali",
+    "discount",
+    "offer",
+    "shop",
+    "person"
+  ],
+  "raw_text": "DIWALI WITH XIAOMI\n01st SEP - 17th OCT\nוח\nELITE\nLOUIS VUITTON\nUP TO 45% OFF ON SMARTPHONES\nUP TO 30% OFF ON TABLETS\n3 YEARS COMPREHENSIVE WARRANTY ON CineMagiQLED TVs\n*T&C Apply",
+  "structured_data": {
+    "campaign": {
+      "title": "Diwali with Xiaomi",
+      "duration": "01st September - 17th October"
+    },
+    "promotions": [
+      {
+        "category": "Smartphones",
+        "offer": "Up to 45% OFF"
+      },
+      {
+        "category": "Tablets",
+        "offer": "Up to 30% OFF"
+      },
+      {
+        "category": "CineMagiQLED TVs",
+        "offer": "3 Years Comprehensive Warranty"
+      }
+    ],
+    "branding": {
+      "logo": "Xiaomi",
+      "visible_brand_on_shirt": "Louis Vuitton"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "dates": "01st SEP - 17th OCT",
+    "legal_notice": "*T&C Apply"
+  }
+}

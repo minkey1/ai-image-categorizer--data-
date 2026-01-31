@@ -1,0 +1,73 @@
+{
+  "filename": "Screenshot_20251013-154439 (1).webp",
+  "tags": [
+    "screenshot",
+    "youtube",
+    "marketing",
+    "advertising",
+    "tutorial",
+    "google-ads",
+    "profile",
+    "social-media",
+    "video",
+    "education",
+    "analytics"
+  ],
+  "raw_text": "3:44 3.26 KB/s VoLTE 5G 64\nMake every marketing dollar you spend SMARTER\nXYZ Lab\nwww.xyzlab.com\nXYZ Lab\n@xyzl\n6.91K subscribers • 452 videos\nNew Digital Marketing Tutorials Published Daily! ...more\nbuymeacoffee.com/sotirios/e/345434 and 5 more links\nSubscribe\nHome Videos Playlists\nPopular videos\nHow to Delete a Google Ads Account\n43K views • 2 years ago\n2:37\nHow to Switch to Google Ads Expert Mode\n38K views • 2 years ago\n4:23\nHow to create a Google Ads Report in Looker Studio\n33:06\nMLM FINAL BOSS\nQueue • 2/3\nHome Shorts Subscriptions You",
+  "structured_data": {
+    "profile": {
+      "name": "XYZ Lab",
+      "username": "@xyzl",
+      "subscriber_count": "6.91K",
+      "video_count": 452,
+      "bio": "New Digital Marketing Tutorials Published Daily!",
+      "external_links": "buymeacoffee.com/sotirios/e/345434 and 5 more links",
+      "official_website": "www.xyzlab.com"
+    },
+    "popular_videos": [
+      {
+        "title": "How to Delete a Google Ads Account",
+        "views": "43K",
+        "time_ago": "2 years ago",
+        "duration": "2:37"
+      },
+      {
+        "title": "How to Switch to Google Ads Expert Mode",
+        "views": "38K",
+        "time_ago": "2 years ago",
+        "duration": "4:23"
+      },
+      {
+        "title": "How to create a Google Ads Report in Looker Studio",
+        "duration": "33:06"
+      }
+    ],
+    "app_interface": {
+      "active_tab": "Home",
+      "bottom_navigation": [
+        "Home",
+        "Shorts",
+        "Subscriptions",
+        "You"
+      ],
+      "mini_player": {
+        "text": "MLM FINAL BOSS",
+        "queue_position": "2/3"
+      }
+    }
+  },
+  "profile_mentions": [
+    "@xyzl"
+  ],
+  "additional_metadata": {
+    "urls": [
+      "www.xyzlab.com",
+      "buymeacoffee.com/sotirios/e/345434"
+    ],
+    "system_info": {
+      "time": "3:44",
+      "connection": "5G",
+      "battery": "64%"
+    }
+  }
+}

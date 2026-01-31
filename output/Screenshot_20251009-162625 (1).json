@@ -1,0 +1,41 @@
+{
+  "filename": "Screenshot_20251009-162625 (1).webp",
+  "tags": [
+    "photo",
+    "man",
+    "retail",
+    "electronics",
+    "smartphone",
+    "Redmi",
+    "Oppo",
+    "Realme",
+    "shop",
+    "indoors"
+  ],
+  "raw_text": "Note 14 Note 14 Redmi 15 Note 14 Note 14 Note 14 Note 14 Note 14 Note 14 REDMI A3 realme",
+  "structured_data": {
+    "products_visible": [
+      "Redmi Note 14 series boxes",
+      "Redmi 15 box",
+      "Redmi A3 box",
+      "Oppo smartphone boxes"
+    ],
+    "accessories": [
+      "Realme wireless microphone"
+    ],
+    "subject_description": "A man in a brown collared shirt standing in front of shelves stocked with mobile phone boxes."
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "brands_identified": [
+      "Redmi",
+      "Oppo",
+      "Realme"
+    ],
+    "phone_models_visible": [
+      "Note 14",
+      "Redmi 15",
+      "Redmi A3"
+    ]
+  }
+}

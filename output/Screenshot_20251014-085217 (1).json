@@ -1,0 +1,44 @@
+{
+  "filename": "Screenshot_20251014-085217 (1).webp",
+  "tags": [
+    "screenshot",
+    "transportation",
+    "travel",
+    "train",
+    "schedule",
+    "app",
+    "navigation",
+    "India",
+    "logistics"
+  ],
+  "raw_text": "1:38 PM\n1:42 PM\n1:40 PM\n1:44 PM\nTiruttani\n681 km\nADD\n2:03 PM\n2:07 PM\n2:05 PM\n2:09 PM\nArakkonam Junction\n695 km\nADD\nView directions in Google Maps",
+  "structured_data": {
+    "train_stops": [
+      {
+        "station_name": "Tiruttani",
+        "distance_km": 681,
+        "scheduled_arrival": "1:38 PM",
+        "actual_arrival": "1:42 PM",
+        "scheduled_departure": "1:40 PM",
+        "actual_departure": "1:44 PM"
+      },
+      {
+        "station_name": "Arakkonam Junction",
+        "distance_km": 695,
+        "scheduled_arrival": "2:03 PM",
+        "actual_arrival": "2:07 PM",
+        "scheduled_departure": "2:05 PM",
+        "actual_departure": "2:09 PM"
+      }
+    ],
+    "app_features": [
+      "View directions in Google Maps",
+      "Add notes/edit"
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "delay_indication": "The orange text likely indicates actual or delayed arrival/departure times compared to the scheduled white text.",
+    "google_maps_integration": true
+  }
+}

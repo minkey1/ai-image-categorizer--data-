@@ -1,0 +1,74 @@
+{
+  "filename": "Screenshot_20251021-010539 (1).webp",
+  "tags": [
+    "advertisement",
+    "screenshot",
+    "instagram",
+    "whatsapp",
+    "technology",
+    "app",
+    "security",
+    "communication",
+    "phone",
+    "messaging",
+    "prank",
+    "deception",
+    "software"
+  ],
+  "raw_text": "3. FAKEWHATS.COM\nFake full WhatsApp conversations\nBuild realistic chat threads that look 100% real.\nWhatsApp FAKE CHAT\nBLACKTEL WHATS SIM FAKE RECEIVE FREE HOW-TO GENERATOR\nSEND FAKE WHATSAPP MESSAGES\nWe provide an online generator for Fake WhatsApp Chat Messages. You are able to set any real or made up sender number and send fake WhatsApp Messages. We would point out the big security gaps for sending texts via the WhatsApp Messenger App.\nWHATS SIM\nFAKE WHATSAPP MESSAGES\nWHATSAPP CHAT GENERATOR\nGENERATE EASILY AND ANONIMOUSLY FAKE WHATSAPP CHAT MESSAGES!\nLike\n...oo Vodafone\n4:21 PM\n25%\n< Chats Michelle's WhatsApp\nRobert writes a fake WhatsApp Message with the number of Paul.\nHey Michelle, I'm in love with you! Paul\n21:36\nMichelle reads the fake WhatsApp text and is happy.\nThu, Sep 19, 1:26 PM\n:-) Let's meet for a coffee or something?\n21:37",
+  "structured_data": {
+    "title": "3. FAKEWHATS.COM",
+    "headline": "Fake full WhatsApp conversations",
+    "subheadline": "Build realistic chat threads that look 100% real.",
+    "website_navigation": [
+      "BLACKTEL",
+      "WHATS SIM",
+      "FAKE",
+      "RECEIVE",
+      "FREE",
+      "HOW-TO",
+      "GENERATOR"
+    ],
+    "main_call_to_action": "SEND FAKE WHATSAPP MESSAGES",
+    "service_description": "We provide an online generator for Fake WhatsApp Chat Messages. You are able to set any real or made up sender number and send fake WhatsApp Messages. We would point out the big security gaps for sending texts via the WhatsApp Messenger App.",
+    "buttons": [
+      "WHATS SIM",
+      "FAKE WHATSAPP MESSAGES",
+      "WHATSAPP CHAT GENERATOR"
+    ],
+    "footer_banner_text": "GENERATE EASILY AND ANONIMOUSLY FAKE WHATSAPP CHAT MESSAGES!",
+    "phone_screen_simulation": {
+      "carrier": "Vodafone",
+      "time": "4:21 PM",
+      "battery": "25%",
+      "chat_name": "Michelle's WhatsApp",
+      "messages": [
+        {
+          "type": "sent",
+          "text": "Hey Michelle, I'm in love with you! Paul",
+          "timestamp": "21:36"
+        },
+        {
+          "type": "received",
+          "text": ":-) Let's meet for a coffee or something?",
+          "timestamp": "21:37"
+        }
+      ],
+      "contextual_notes": [
+        "Robert writes a fake WhatsApp Message with the number of Paul.",
+        "Michelle reads the fake WhatsApp text and is happy."
+      ],
+      "chat_date": "Thu, Sep 19, 1:26 PM"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "url": "FAKEWHATS.COM",
+    "typos": [
+      "ANONIMOUSLY"
+    ],
+    "dates": [
+      "Thu, Sep 19"
+    ]
+  }
+}

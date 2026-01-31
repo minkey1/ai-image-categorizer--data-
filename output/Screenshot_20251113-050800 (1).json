@@ -1,0 +1,65 @@
+{
+  "filename": "Screenshot_20251113-050800 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "post",
+    "video",
+    "comments",
+    "social-media",
+    "microphone",
+    "person",
+    "glasses",
+    "politics",
+    "modi",
+    "teleprompter",
+    "scripts",
+    "editing",
+    "india"
+  ],
+  "raw_text": "5:07\n0.00 KB/S\nVoLTE\n5G\n49\nFORGET SCRIPTS?\nSHURE\nComments\nkadakcontent\n11w • Author\nThis option in camera available on \"EDITS APP\"\nby Instagram\nReply\n208\nView 10 more replies\nbeyourbesht 10w\nTeleprompter sunte hi Modiji ki yaad aa gyi\nReply\nSee translation\n516\nView 4 more replies\nrectanglecube 8w\n37\nAdd a comment for kadakcontent...",
+  "structured_data": {
+    "post_details": {
+      "author": "kadakcontent",
+      "is_verified": true,
+      "video_overlay_text": "FORGET SCRIPTS?"
+    },
+    "comments": [
+      {
+        "username": "kadakcontent",
+        "is_author": true,
+        "is_verified": true,
+        "timestamp": "11w",
+        "comment_text": "This option in camera available on \"EDITS APP\" by Instagram",
+        "likes": "208"
+      },
+      {
+        "username": "beyourbesht",
+        "timestamp": "10w",
+        "comment_text": "Teleprompter sunte hi Modiji ki yaad aa gyi😂",
+        "likes": "516"
+      },
+      {
+        "username": "rectanglecube",
+        "timestamp": "8w",
+        "content": "Image of Narendra Modi",
+        "likes": "37"
+      }
+    ],
+    "device_status": {
+      "time": "5:07",
+      "network": "5G VoLTE",
+      "data_speed": "0.00 KB/S",
+      "battery": "49%"
+    }
+  },
+  "profile_mentions": [
+    "@kadakcontent"
+  ],
+  "additional_metadata": {
+    "app_mentioned": "EDITS APP",
+    "person_mentioned": "Narendra Modi",
+    "platform": "Instagram",
+    "equipment_visible": "Shure Microphone"
+  }
+}

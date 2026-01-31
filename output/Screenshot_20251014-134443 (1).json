@@ -1,0 +1,56 @@
+{
+  "filename": "Screenshot_20251014-134443 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "reel",
+    "socialmedia",
+    "bihar",
+    "government",
+    "theft",
+    "infrastructure",
+    "news",
+    "reporting",
+    "man",
+    "flyover",
+    "politics"
+  ],
+  "raw_text": "1:44\nVoLTE 5G\n96\nSuggested\n@indians\nSource: X/thebiharoffice\nनई बिहार तेजस्वी सरकार\nBIHAR CONTENT CREATOR\nEXPOSES ONGOING THEFT OF ROAD\nAND FLYOVER LIGHTS DESPITE\nGOVERNMENT SECURITY MEASURES\n640K\n8,477\n4,609\nindians\nA content creator from Bihar has shed light on the persiste ...\nLiked by aviral_samdaria and 640,080 others\n254K\nSend to chat\nStart a blend",
+  "structured_data": {
+    "platform": "Instagram",
+    "post_type": "Suggested Reel",
+    "author": {
+      "username": "indians",
+      "is_verified": true
+    },
+    "engagement": {
+      "likes_count": 640080,
+      "comments_count": 8477,
+      "shares_count": 4609,
+      "audio_usage_or_views": "254K"
+    },
+    "content": {
+      "headline": "BIHAR CONTENT CREATOR EXPOSES ONGOING THEFT OF ROAD AND FLYOVER LIGHTS DESPITE GOVERNMENT SECURITY MEASURES",
+      "caption_start": "A content creator from Bihar has shed light on the persiste ...",
+      "source_attribution": "X/thebiharoffice"
+    }
+  },
+  "profile_mentions": [
+    "@indians",
+    "@thebiharoffice",
+    "@aviral_samdaria"
+  ],
+  "additional_metadata": {
+    "timestamp_on_device": "1:44",
+    "network_status": "5G VoLTE",
+    "battery_level": "96%",
+    "visual_details": "The image shows a man in a green cap and glasses pointing at an empty electrical box on a flyover. In the background, a political banner for 'Tejashwi Bihar' is visible.",
+    "ui_elements": [
+      "Volume slider overlay",
+      "Notification bell icon",
+      "Like, Comment, Share icons",
+      "Send to chat button",
+      "Start a blend button"
+    ]
+  }
+}

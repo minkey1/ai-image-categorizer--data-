@@ -1,0 +1,59 @@
+{
+  "filename": "Screenshot_20251017-192609 (1).webp",
+  "tags": [
+    "screenshot",
+    "retail",
+    "shop",
+    "man",
+    "electronics",
+    "Xiaomi",
+    "Diwali",
+    "sale",
+    "discount",
+    "smartphone",
+    "tablet",
+    "TV",
+    "advertising",
+    "marketing",
+    "promotion"
+  ],
+  "raw_text": "DIWALI WITH XIAOMI\n20th SEP - 11th OCT\nוח\nUP TO 45% OFF ON SMARTPHONES*\nUP TO 30% OFF ON TABLETS*\n3 YEARS COMPREHENSIVE WARRANTY ON CineMagiQLED TVs\n*T&C Apply",
+  "structured_data": {
+    "promotion_details": {
+      "campaign_name": "DIWALI WITH XIAOMI",
+      "valid_dates": "20th September to 11th October",
+      "brand": "Xiaomi",
+      "discounts": [
+        {
+          "product_category": "Smartphones",
+          "offer": "Up to 45% Off"
+        },
+        {
+          "product_category": "Tablets",
+          "offer": "Up to 30% Off"
+        }
+      ],
+      "warranty_offers": [
+        {
+          "product_category": "CineMagiQLED TVs",
+          "offer": "3 Years Comprehensive Warranty"
+        }
+      ],
+      "terms_and_conditions": "T&C Apply"
+    },
+    "scene_description": {
+      "location": "Mobile retail store",
+      "subject": "Store employee or owner in front of mobile accessories"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "dates": [
+      "20th SEP - 11th OCT"
+    ],
+    "logos": [
+      "Xiaomi (mi logo)",
+      "Diwali with Xiaomi logo"
+    ]
+  }
+}

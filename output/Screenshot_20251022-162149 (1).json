@@ -1,0 +1,39 @@
+{
+  "filename": "Screenshot_20251022-162149 (1).webp",
+  "tags": [
+    "screenshot",
+    "text",
+    "business",
+    "investment",
+    "finance",
+    "manufacturing",
+    "railway",
+    "shipping",
+    "advice",
+    "opportunities"
+  ],
+  "raw_text": "Defence Sector\n\nHigh end Agriculture implements\n\nPackaging Industry\n\nToys\n\nElectrical equipment\n\nGovernment had big plans for railway upgradation for next 30-40 years\n\nRailway di koi item labh lo\n\nShip manufacturing waleya to koi choti regular item le sakde ho\n\nThere are many opportunities",
+  "structured_data": {
+    "suggested_sectors": [
+      "Defence Sector",
+      "High end Agriculture implements",
+      "Packaging Industry",
+      "Toys",
+      "Electrical equipment"
+    ],
+    "business_insights": [
+      {
+        "topic": "Railway",
+        "detail": "Government had big plans for railway upgradation for next 30-40 years",
+        "advice": "Railway di koi item labh lo"
+      },
+      {
+        "topic": "Ship manufacturing",
+        "advice": "waleya to koi choti regular item le sakde ho"
+      }
+    ],
+    "conclusion": "There are many opportunities"
+  },
+  "profile_mentions": [],
+  "additional_metadata": {}
+}

@@ -1,0 +1,50 @@
+{
+  "filename": "Screenshot_20251031-093210 (1).webp",
+  "tags": [
+    "screenshot",
+    "finance",
+    "transaction",
+    "payment",
+    "history",
+    "banking",
+    "app",
+    "rupee"
+  ],
+  "raw_text": "Paid to\nYadav DOP\n₹2,000\n15 Oct 2025\nDebited from\nPaid to\nYadav DOP\n₹500\n06 Oct 2025\nDebited from\nPaid to\nYadav DOP\n₹1,000\n03 Oct 2025\nDebited from",
+  "structured_data": {
+    "transactions": [
+      {
+        "status": "Paid to",
+        "recipient": "Yadav DOP",
+        "amount": "₹2,000",
+        "date": "15 Oct 2025",
+        "source_bank_logo": "State Bank of India"
+      },
+      {
+        "status": "Paid to",
+        "recipient": "Yadav DOP",
+        "amount": "₹500",
+        "date": "06 Oct 2025",
+        "source_bank_logo": "State Bank of India"
+      },
+      {
+        "status": "Paid to",
+        "recipient": "Yadav DOP",
+        "amount": "₹1,000",
+        "date": "03 Oct 2025",
+        "source_bank_logo": "State Bank of India"
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "currency": "INR (₹)",
+    "dates": [
+      "15 Oct 2025",
+      "06 Oct 2025",
+      "03 Oct 2025"
+    ],
+    "bank_icon_identity": "State Bank of India (SBI)",
+    "potential_organization": "Department of Posts (DOP)"
+  }
+}

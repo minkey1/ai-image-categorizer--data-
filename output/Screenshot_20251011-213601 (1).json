@@ -1,0 +1,71 @@
+{
+  "filename": "Screenshot_20251011-213601 (1).webp",
+  "tags": [
+    "screenshot",
+    "messaging",
+    "telegram",
+    "IMDb",
+    "editing",
+    "correction",
+    "cinema",
+    "writers",
+    "cast",
+    "Satish Ray",
+    "Nitesh Tiwari"
+  ],
+  "raw_text": "Satish Ray\nIMDbPro See agents for this cast & crew on IMDbPro\n| Director\n| Writers\nPrabal Bhat\nSatish Ray\nAbhishek Singh\n| Cast\nSatish Ray Self\nAbhishek Singh\nReplace this name with “Nitesh Tiwari” ( not nitesh tiwari the director)\nAnd keep him on 3rd\n9:34 PM\n@Utkarsh hey utkarsh can you please change this wrong info\n9:34 PM\nDirector: Satish Ray\n9:34 PM",
+  "structured_data": {
+    "platform": "Telegram",
+    "content_type": "IMDb cast and crew listing screenshot within a chat",
+    "imdb_listing_details": {
+      "writers": [
+        "Prabal Bhat",
+        "Satish Ray",
+        "Abhishek Singh"
+      ],
+      "cast": [
+        {
+          "name": "Satish Ray",
+          "role": "Self"
+        },
+        {
+          "name": "Abhishek Singh",
+          "role": ""
+        }
+      ]
+    },
+    "chat_instructions": {
+      "target_name": "Prabal Bhat",
+      "replacement_name": "Nitesh Tiwari",
+      "note": "not nitesh tiwari the director",
+      "ordering_request": "keep him on 3rd",
+      "recipient": "@Utkarsh"
+    },
+    "messages": [
+      {
+        "sender": "Unknown",
+        "text": "Replace this name with “Nitesh Tiwari” ( not nitesh tiwari the director) And keep him on 3rd",
+        "timestamp": "9:34 PM"
+      },
+      {
+        "sender": "Unknown",
+        "text": "@Utkarsh hey utkarsh can you please change this wrong info",
+        "timestamp": "9:34 PM"
+      },
+      {
+        "sender": "Unknown",
+        "text": "Director: Satish Ray",
+        "timestamp": "9:34 PM"
+      }
+    ]
+  },
+  "profile_mentions": [
+    "@Utkarsh"
+  ],
+  "additional_metadata": {
+    "timestamps": [
+      "9:34 PM"
+    ],
+    "context": "A request to correct writer credits on an IMDb page for a project involving Satish Ray."
+  }
+}

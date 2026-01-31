@@ -1,0 +1,205 @@
+{
+  "filename": "Screenshot_20251112-113057 (1).webp",
+  "tags": [
+    "screenshot",
+    "WhatsApp",
+    "chat",
+    "conversation",
+    "messaging",
+    "LinkedIn",
+    "mobile",
+    "employment",
+    "money",
+    "professional",
+    "meeting"
+  ],
+  "raw_text": "11:30\nDeepika Amyu\nFriday\nHii da 9:06 PM\nHii 9:11 PM\nTell me 9:11 PM\nCan I call da ?? 9:15 PM\nYes no problem 9:15 PM\nNormal call pls 9:15 PM\nLinkedIn profile link and details betu 10:11 PM\nWill sent da wait 10:33 PM\nDeepika M - Associate at DHL Global Forwarding | L...\nAssociate at DHL Global Forwarding...\nlinkedin.com\n10:37 PM\nSaturday\nDetails u forgot budd 5:35 AM\nYes da 6:28 PM\nYa me waiting.. 6:28 PM\nTomorrow I will sent the details da 6:28 PM\nAlso u need money it seems.. 6:28 PM\nIs everything alright? 6:28 PM\nYou\nAlso u need money it seems..\nYes da 6:29 PM\nYou\nIs everything alright?\nNo really bad situation da 6:30 PM\nDeepika Amyu\nNo really bad situation da\nWt happened 6:43 PM\nU send voice note no problem 6:43 PM\nI am in temple da once I will reach the home sent the voice note ok va da?? 6:47 PM\nSure 6:59 PM\nDeepika Amyu\nI am in temple da once I will reach the home sent the voice note ok va da??\nHello 9:12 PM\nMonday\nHii da 6:35 PM\nOnce you free means u can call me da 6:36 PM\nSure 6:40 PM\nGive me some time 6:41 PM\nOk da 6:53 PM\nSo sorry 6:54 PM\nHey 6:54 PM\nNo problem da 6:54 PM\nYesterday\nSorry da 12:56 AM\nWhat are you doing 12:56 AM\nNothing u say 1:00 AM\nTomorrow Mrng shall we connect ok u and Amurtha 1:02 AM\nOkay 1:02 AM\nOk da 1:02 AM\nMessage",
+  "structured_data": {
+    "platform": "WhatsApp",
+    "chat_partner": {
+      "name": "Deepika Amyu",
+      "job_title_from_link": "Associate at DHL Global Forwarding"
+    },
+    "conversation_log": [
+      {
+        "date": "Friday",
+        "messages": [
+          {
+            "sender": "Deepika Amyu",
+            "text": "Hii da",
+            "time": "9:06 PM"
+          },
+          {
+            "sender": "Self",
+            "text": "Hii. Tell me",
+            "time": "9:11 PM"
+          },
+          {
+            "sender": "Deepika Amyu",
+            "text": "Can I call da ??",
+            "time": "9:15 PM"
+          },
+          {
+            "sender": "Self",
+            "text": "Yes no problem. Normal call pls",
+            "time": "9:15 PM"
+          },
+          {
+            "sender": "Self",
+            "text": "LinkedIn profile link and details betu",
+            "time": "10:11 PM"
+          },
+          {
+            "sender": "Deepika Amyu",
+            "text": "Will sent da wait",
+            "time": "10:33 PM"
+          },
+          {
+            "sender": "Deepika Amyu",
+            "text": "[LinkedIn profile link: Deepika M - Associate at DHL Global Forwarding]",
+            "time": "10:37 PM"
+          }
+        ]
+      },
+      {
+        "date": "Saturday",
+        "messages": [
+          {
+            "sender": "Self",
+            "text": "Details u forgot budd",
+            "time": "5:35 AM"
+          },
+          {
+            "sender": "Deepika Amyu",
+            "text": "Yes da",
+            "time": "6:28 PM"
+          },
+          {
+            "sender": "Self",
+            "text": "Ya me waiting..",
+            "time": "6:28 PM"
+          },
+          {
+            "sender": "Deepika Amyu",
+            "text": "Tomorrow I will sent the details da",
+            "time": "6:28 PM"
+          },
+          {
+            "sender": "Self",
+            "text": "Also u need money it seems.. Is everything alright?",
+            "time": "6:28 PM"
+          },
+          {
+            "sender": "Deepika Amyu",
+            "text": "Yes da [Reply to 'Also u need money it seems..']",
+            "time": "6:29 PM"
+          },
+          {
+            "sender": "Deepika Amyu",
+            "text": "No really bad situation da [Reply to 'Is everything alright?']",
+            "time": "6:30 PM"
+          },
+          {
+            "sender": "Self",
+            "text": "Wt happened. U send voice note no problem",
+            "time": "6:43 PM"
+          },
+          {
+            "sender": "Deepika Amyu",
+            "text": "I am in temple da once I will reach the home sent the voice note ok va da??",
+            "time": "6:47 PM"
+          },
+          {
+            "sender": "Self",
+            "text": "Sure",
+            "time": "6:59 PM"
+          },
+          {
+            "sender": "Self",
+            "text": "Hello 👋",
+            "time": "9:12 PM"
+          }
+        ]
+      },
+      {
+        "date": "Monday",
+        "messages": [
+          {
+            "sender": "Deepika Amyu",
+            "text": "Hii da",
+            "time": "6:35 PM"
+          },
+          {
+            "sender": "Deepika Amyu",
+            "text": "Once you free means u can call me da",
+            "time": "6:36 PM"
+          },
+          {
+            "sender": "Self",
+            "text": "Sure. Give me some time",
+            "time": "6:40 PM"
+          },
+          {
+            "sender": "Deepika Amyu",
+            "text": "Ok da",
+            "time": "6:53 PM"
+          },
+          {
+            "sender": "Self",
+            "text": "[Image of a video meeting]. So sorry",
+            "time": "6:54 PM"
+          },
+          {
+            "sender": "Deepika Amyu",
+            "text": "Hey. No problem da",
+            "time": "6:54 PM"
+          }
+        ]
+      },
+      {
+        "date": "Yesterday/Tuesday",
+        "messages": [
+          {
+            "sender": "Deepika Amyu",
+            "text": "Sorry da. What are you doing",
+            "time": "12:56 AM"
+          },
+          {
+            "sender": "Self",
+            "text": "Nothing u say",
+            "time": "1:00 AM"
+          },
+          {
+            "sender": "Deepika Amyu",
+            "text": "Tomorrow Mrng shall we connect ok u and Amurtha",
+            "time": "1:02 AM"
+          },
+          {
+            "sender": "Self",
+            "text": "Okay 👌",
+            "time": "1:02 AM"
+          },
+          {
+            "sender": "Deepika Amyu",
+            "text": "Ok da",
+            "time": "1:02 AM"
+          }
+        ]
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "url": "https://www.linkedin.com",
+    "mentioned_company": "DHL Global Forwarding",
+    "third_party_mentioned": "Amurtha",
+    "meeting_participants_visible": [
+      "Nitin Ingale",
+      "Santosh Badar",
+      "Abhishek",
+      "Anand",
+      "Prathiba Sharma",
+      "Aakash"
+    ]
+  }
+}

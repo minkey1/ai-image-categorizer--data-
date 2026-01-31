@@ -1,0 +1,30 @@
+{
+  "filename": "Screenshot_20251111-181637 (1).webp",
+  "tags": [
+    "screenshot",
+    "whatsapp",
+    "status",
+    "advertising",
+    "marketing",
+    "media",
+    "package",
+    "turkey",
+    "turkish",
+    "price",
+    "finance"
+  ],
+  "raw_text": "Enes Köseler Turkey\nToday, 4:12 PM\nTÜM BU\nMEDYA PAKETİ\n25.000₺\nDetaylar için bize ulaşın!\nReply",
+  "structured_data": {
+    "post_type": "WhatsApp Status",
+    "author_name": "Enes Köseler Turkey",
+    "timestamp": "Today, 4:12 PM",
+    "ad_title": "TÜM BU MEDYA PAKETİ",
+    "price": "25.000₺",
+    "call_to_action": "Detaylar için bize ulaşın!"
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "currency": "₺ (Turkish Lira)",
+    "language": "Turkish"
+  }
+}

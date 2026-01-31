@@ -1,0 +1,47 @@
+{
+  "filename": "Screenshot_20251031-171930 (1).webp",
+  "tags": [
+    "advertisement",
+    "sports",
+    "football",
+    "soccer",
+    "derby",
+    "Turkish",
+    "Besiktas",
+    "Fenerbahce",
+    "poster",
+    "announcement",
+    "marketing",
+    "media"
+  ],
+  "raw_text": "DEV DERBİ HEYECANI\nSAHA KENARI LED REKLAMLARDA YERİNİZİ ALIN\nBJK 1903\nBEŞİKTAŞ\nFENERBAHÇE SPOR KULÜBÜ 1907\nFENERBAHÇE\n02 KASIM PAZAR\nSAAT: 20.00\nbeIN SPORTS\nbeko\nOtakoç\nobilet obilet obilet obilet obilet obilet obilet obilet\nSAHA KENARI LED EKRANLARA\nREKLAM VERMEK İÇİN\nBİZİMLE İLETİŞİME GEÇEBİLİRSİNİZ",
+  "structured_data": {
+    "event_title": "DEV DERBİ HEYECANI",
+    "teams": [
+      "BEŞİKTAŞ",
+      "FENERBAHÇE"
+    ],
+    "date": "02 KASIM PAZAR",
+    "time": "20:00",
+    "broadcaster": "beIN SPORTS",
+    "advertisement_purpose": "SAHA KENARI LED REKLAMLARDA YERİNİZİ ALIN (Take your place in pitch-side LED advertisements)",
+    "visible_sponsors": [
+      "beko",
+      "Otakoç",
+      "obilet"
+    ],
+    "call_to_action": "SAHA KENARI LED EKRANLARA REKLAM VERMEK İÇİN BİZİMLE İLETİŞİME GEÇEBİLİRSİNİZ"
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "dates_mentioned": [
+      "02 KASIM"
+    ],
+    "times_mentioned": [
+      "20:00"
+    ],
+    "languages": [
+      "Turkish"
+    ]
+  }
+}

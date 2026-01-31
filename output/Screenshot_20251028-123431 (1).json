@@ -1,0 +1,99 @@
+{
+  "filename": "Screenshot_20251028-123431 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "social-media",
+    "business",
+    "ecommerce",
+    "machinery",
+    "vehicles",
+    "cars",
+    "electric-bikes",
+    "food-equipment",
+    "uzbekistan",
+    "marketing"
+  ],
+  "raw_text": "12:34\n12.1 KB/S\nVoLTE 5G\n100\nvodiyuskunalari\nFollow\nMessage\nContact\nДўконимиз\nЗавод Wechatlar\nМижозларимиз\nУскуналар видео\nBYD SEAGUL\n9900$\n1.7M\n238K\nНархи 200$\n+998882080577\n651K\n邦普机械\nБуюртма асосида келади Под заказ\n19.8K\nVODIY USKUNALARI\n6,810\nVODIY USKUNALARI\nБуюртма учун: +99890 777-05 77 +99888 208-05-77 +99833 277-05-77 +99833 333-05-77\n9,299\nVODIY USKUNALARI\nVODIY USKUNALARI\nVODIY USKUNALARI\nELECTRIC DECK OVEN",
+  "structured_data": {
+    "profile_info": {
+      "username": "vodiyuskunalari",
+      "is_verified": true,
+      "current_tab": "Reels"
+    },
+    "story_highlights": [
+      "Дўконимиз (Our Store)",
+      "Завод Wechatlar (Factory Wechats)",
+      "Мижозларимиз (Our Customers)",
+      "Ускуналар видео (Equipment videos)"
+    ],
+    "reels_feed": [
+      {
+        "content_description": "BYD Seagull car",
+        "price": "9900$",
+        "view_count": "1.7M",
+        "is_pinned": true
+      },
+      {
+        "content_description": "Electric bicycle",
+        "view_count": "238K",
+        "is_pinned": true
+      },
+      {
+        "content_description": "Orange electric scooter",
+        "price": "200$",
+        "phone_number": "+998882080577",
+        "view_count": "651K",
+        "is_pinned": true
+      },
+      {
+        "content_description": "Beverage making machine",
+        "text": "Made to order",
+        "view_count": "19.8K"
+      },
+      {
+        "content_description": "Potato chip/fry cutter machine",
+        "view_count": "6,810"
+      },
+      {
+        "content_description": "Spiral potato machine",
+        "view_count": "9,299",
+        "contact_numbers": [
+          "+99890 777-05 77",
+          "+99888 208-05-77",
+          "+99833 277-05-77",
+          "+99833 333-05-77"
+        ]
+      },
+      {
+        "content_description": "Factory tour/customer visit",
+        "label": "VODIY USKUNALARI"
+      },
+      {
+        "content_description": "Food processing machine (carrots)",
+        "label": "VODIY USKUNALARI"
+      },
+      {
+        "content_description": "Electric deck oven",
+        "label": "VODIY USKUNALARI"
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "phone_numbers": [
+      "+998882080577",
+      "+99890 777-05 77",
+      "+99888 208-05-77",
+      "+99833 277-05-77",
+      "+99833 333-05-77"
+    ],
+    "currency": "USD ($)",
+    "languages": [
+      "Uzbek",
+      "Russian",
+      "Chinese",
+      "English"
+    ]
+  }
+}

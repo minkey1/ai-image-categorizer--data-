@@ -1,0 +1,42 @@
+{
+  "filename": "Screenshot_20251013-233106 (1).webp",
+  "tags": [
+    "screenshot",
+    "text",
+    "list",
+    "movies",
+    "finance",
+    "business",
+    "entertainment",
+    "wealth"
+  ],
+  "raw_text": "Movie List\n1.Margin Call\n2.Billions\n3.Gafla\n4.Big Short\n5.Undercover Billionaire\nReply",
+  "structured_data": {
+    "list_title": "Movie List",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Margin Call"
+      },
+      {
+        "rank": 2,
+        "title": "Billions"
+      },
+      {
+        "rank": 3,
+        "title": "Gafla"
+      },
+      {
+        "rank": 4,
+        "title": "Big Short"
+      },
+      {
+        "rank": 5,
+        "title": "Undercover Billionaire"
+      }
+    ],
+    "context": "social media comment or post"
+  },
+  "profile_mentions": [],
+  "additional_metadata": []
+}

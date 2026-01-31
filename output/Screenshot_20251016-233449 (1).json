@@ -1,0 +1,61 @@
+{
+  "filename": "Screenshot_20251016-233449 (1).webp",
+  "tags": [
+    "screenshot",
+    "whatsapp",
+    "chat",
+    "messaging",
+    "communication",
+    "contact",
+    "business",
+    "mobile",
+    "hindi",
+    "telugu"
+  ],
+  "raw_text": "September 17, 2025\n9848004700\nMahesh\nVenkateshwara mobiles chegunta\n3:41 PM\nHrithik Photographer\n9848004700\nMahesh\nVenkateshwara mobiles chegunta\nIsko kya bolna hai bhai 4:00 PM",
+  "structured_data": {
+    "chat_platform": "WhatsApp",
+    "date": "September 17, 2025",
+    "messages": [
+      {
+        "sender": "Hrithik Photographer",
+        "content": "9848004700\nMahesh\nVenkateshwara mobiles chegunta",
+        "timestamp": "3:41 PM",
+        "type": "received"
+      },
+      {
+        "sender": "User",
+        "content": "Isko kya bolna hai bhai",
+        "timestamp": "4:00 PM",
+        "type": "sent",
+        "reply_to": {
+          "sender": "Hrithik Photographer",
+          "content": "9848004700\nMahesh\nVenkateshwara mobiles chegunta"
+        }
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "phone_numbers": [
+      "9848004700"
+    ],
+    "names": [
+      "Mahesh",
+      "Hrithik Photographer"
+    ],
+    "location": "Chegunta",
+    "business_name": "Venkateshwara mobiles",
+    "dates": [
+      "September 17, 2025"
+    ],
+    "times": [
+      "3:41 PM",
+      "4:00 PM"
+    ],
+    "language": [
+      "Hindi",
+      "English"
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "filename": "Screenshot_20251014-235559 (1).webp",
+  "tags": [
+    "screenshot",
+    "whatsapp",
+    "mobile",
+    "communication",
+    "messaging",
+    "darkmode",
+    "phone",
+    "technology",
+    "app",
+    "chat"
+  ],
+  "raw_text": "11:55\n0.00 KB/S VOLTE 5G+ 71\nWhatsApp\nSearch or ask business assistant\nArchived 45\nUtkarsh (You)\nYesterday\nPhoto\nDebobrato Akash\n1:11 PM\nok\n+91 70758 91691\nYesterday\n01/06 amthakur\nSushree ADHD\n11:42 PM\nTu rehne de\nVenkat DOP\n11:21 PM\nI don't ask for madam\nChandrika Annavarapu\n11:17 PM\nI'll ask him\nAbheeshek AR Chaturvedi\nVoice call\nAmruta ADHD\nArey koi ni\nChats\n4\nCalls\nUpdates\nTools",
+  "structured_data": {
+    "app_name": "WhatsApp",
+    "current_time": "11:55",
+    "unread_chats_count": 4,
+    "archived_chats_count": 45,
+    "chat_list": [
+      {
+        "name": "Utkarsh (You)",
+        "last_message_summary": "Photo",
+        "timestamp": "Yesterday",
+        "is_pinned": true
+      },
+      {
+        "name": "Debobrato Akash",
+        "last_message_summary": "ok",
+        "timestamp": "1:11 PM",
+        "is_pinned": true
+      },
+      {
+        "name": "+91 70758 91691",
+        "last_message_summary": "01/06 amthakur",
+        "timestamp": "Yesterday",
+        "is_pinned": true
+      },
+      {
+        "name": "Sushree ADHD",
+        "last_message_summary": "Tu rehne de",
+        "timestamp": "11:42 PM",
+        "is_pinned": false
+      },
+      {
+        "name": "Venkat DOP",
+        "last_message_summary": "I don't ask for madam",
+        "timestamp": "11:21 PM",
+        "is_pinned": false
+      },
+      {
+        "name": "Chandrika Annavarapu",
+        "last_message_summary": "I'll ask him",
+        "timestamp": "11:17 PM",
+        "is_pinned": false
+      },
+      {
+        "name": "Abheeshek AR Chaturvedi",
+        "last_activity": "Voice call",
+        "timestamp": null,
+        "is_pinned": false
+      },
+      {
+        "name": "Amruta ADHD",
+        "last_message_summary": "Arey koi ni",
+        "timestamp": null,
+        "is_pinned": false
+      }
+    ],
+    "navigation_tabs": [
+      "Chats",
+      "Calls",
+      "Updates",
+      "Tools"
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "phone_numbers": [
+      "+91 70758 91691"
+    ],
+    "status_bar_info": {
+      "battery_percentage": "71",
+      "network": "5G+",
+      "data_speed": "0.00 KB/S",
+      "volte_status": "enabled"
+    },
+    "chat_timestamps": [
+      "Yesterday",
+      "1:11 PM",
+      "11:42 PM",
+      "11:21 PM",
+      "11:17 PM"
+    ]
+  }
+}

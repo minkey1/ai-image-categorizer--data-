@@ -1,0 +1,71 @@
+{
+  "filename": "Screenshot_20251111-001430 (1).webp",
+  "tags": [
+    "screenshot",
+    "video-call",
+    "google-meet",
+    "birthday",
+    "celebration",
+    "people",
+    "faces",
+    "communication",
+    "mobile-app",
+    "android",
+    "smartphone"
+  ],
+  "raw_text": "12:14\nddm-vjaf-rsk\nSiddhesh\nKhushi\nDishi\nRinson\nSakshi\nYou\nprince9305\n263 KB/s\nVoLTE\n5G\n56\nAPPY BDAY",
+  "structured_data": {
+    "app_name": "Google Meet",
+    "meeting_code": "ddm-vjaf-rsk",
+    "participants": [
+      {
+        "name": "Siddhesh",
+        "is_speaking": false
+      },
+      {
+        "name": "Khushi",
+        "is_speaking": false
+      },
+      {
+        "name": "Dishi",
+        "is_speaking": false
+      },
+      {
+        "name": "Rinson",
+        "is_speaking": false
+      },
+      {
+        "name": "Sakshi",
+        "is_speaking": false
+      },
+      {
+        "name": "You",
+        "is_speaking": false
+      },
+      {
+        "name": "prince9305",
+        "is_speaking": false
+      }
+    ],
+    "status_bar": {
+      "time": "12:14",
+      "network_speed": "263 KB/s",
+      "network_type": "5G VoLTE",
+      "battery_percentage": "56"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "theme": "Birthday celebration visible in the top participant's background with balloons and 'HAPPY BDAY' text.",
+    "emojis_visible": [
+      "sparkling_heart",
+      "thumbs_up",
+      "party_popper",
+      "clapping_hands",
+      "face_with_tears_of_joy",
+      "astonished_face",
+      "crying_face",
+      "thinking_face"
+    ]
+  }
+}

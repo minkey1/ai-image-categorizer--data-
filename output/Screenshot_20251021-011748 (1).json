@@ -1,0 +1,73 @@
+{
+  "filename": "Screenshot_20251021-011748 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "profile",
+    "person",
+    "plants",
+    "pineapple",
+    "beets",
+    "gardening",
+    "horticulture",
+    "nature",
+    "video",
+    "thumbnails",
+    "socialmedia"
+  ],
+  "raw_text": "1:17\nshawngrows\nShawn Grows\n79 posts\n266K followers\n82 following\nThe Plant Guy | Host of “The Pretty Insane” Talk Show\nbeacons.ai/shawngrows\nFollowed by anantsharmafit\nFollow\nMessage\n31.2K\n34.6K\n171K\nFRENCH CONFECTIONERS TURNED\nGREATEST THINGS EVER\nTHE FRUIT ON\n106K\n285K\n81.8K\npolis\nFree\nHOT FUDGE ON TABLE\n17.4 KB/S\nVoLTE 5G\n28",
+  "structured_data": {
+    "profile": {
+      "username": "shawngrows",
+      "display_name": "Shawn Grows",
+      "post_count": 79,
+      "follower_count": "266K",
+      "following_count": 82,
+      "bio": "The Plant Guy | Host of “The Pretty Insane” Talk Show",
+      "link": "beacons.ai/shawngrows",
+      "followed_by": [
+        "anantsharmafit"
+      ]
+    },
+    "reels_feed": [
+      {
+        "views": "31.2K",
+        "overlay_text": ""
+      },
+      {
+        "views": "34.6K",
+        "overlay_text": ""
+      },
+      {
+        "views": "171K",
+        "overlay_text": ""
+      },
+      {
+        "views": "106K",
+        "overlay_text": "FRENCH CONFECTIONERS TURNED"
+      },
+      {
+        "views": "285K",
+        "overlay_text": "GREATEST THINGS EVER"
+      },
+      {
+        "views": "81.8K",
+        "overlay_text": "THE FRUIT ON"
+      }
+    ]
+  },
+  "profile_mentions": [
+    "anantsharmafit",
+    "shawngrows"
+  ],
+  "additional_metadata": {
+    "urls": [
+      "beacons.ai/shawngrows"
+    ],
+    "status_bar": {
+      "time": "1:17",
+      "network": "5G",
+      "battery": "28%"
+    }
+  }
+}

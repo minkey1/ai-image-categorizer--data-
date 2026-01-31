@@ -1,0 +1,76 @@
+{
+  "filename": "Screenshot_20251021-010549 (1).webp",
+  "tags": [
+    "screenshot",
+    "advertisement",
+    "software",
+    "website",
+    "AI",
+    "technology",
+    "voice-cloning",
+    "text-to-speech",
+    "face-swap",
+    "video-editing",
+    "multimedia",
+    "creativity",
+    "celebrity",
+    "YouTuber"
+  ],
+  "raw_text": "2. VOICEMY.AI\nMake real voice calls that sound like celebrities, YouTubers, or anyone you want. Just type yourscript - and it speaks over the phone.\nVideo\nVideo To Sound NEW\nText To Video NEW\nVideo To Style SOON\nCloning\nVoice Cloning\nText To Voice\nFaceSwap Vidéo NEW\nTraining\nTrain Voice\nUpload Model\nCommunity\nList of models\nYour creations\nMy Account\nPricing\nEdit profile\nUPGRADE\nGenerate your voice cloning\nThe principle is simple, record your voice or select an audio file / a youtube video and choose from the available voice models of the voicemy.ai community and start cloning.\nDiscover\nVideo To Sound Effect\nNow you can turn silent clips into sound-filled scenes effortlessly.\nDiscover\nGenerate your FaceSwap Video\nFaceSwap Video allows you to replace a face in a video. It's simple! Choose a video, then a front-facing face photo, and then generate.\nDiscover\nTT Text to Speech\nTo use text to speech, enter your chosen text, select the language & the model of your choice.\nDiscover\nTrain and create your voice\nTraining a voice is very simple. Use an audio file containing the voice to be cloned, select a training quality, wait for the indicated time, and refresh the page.\nDiscover\nTrain and create your voice\nTraining a voice is very simple. Use an audio file containing the voice to be cloned, select a training quality, wait for the indicated time, and refresh the page.\nDiscover",
+  "structured_data": {
+    "title": "2. VOICEMY.AI",
+    "headline": "Make real voice calls that sound like celebrities, YouTubers, or anyone you want.",
+    "sub_headline": "Just type yourscript - and it speaks over the phone.",
+    "sidebar_navigation": {
+      "video": [
+        "Video To Sound (NEW)",
+        "Text To Video (NEW)",
+        "Video To Style (SOON)"
+      ],
+      "cloning": [
+        "Voice Cloning",
+        "Text To Voice",
+        "FaceSwap Vidéo (NEW)"
+      ],
+      "training": [
+        "Train Voice",
+        "Upload Model"
+      ],
+      "community": [
+        "List of models",
+        "Your creations"
+      ],
+      "account": [
+        "Pricing",
+        "Edit profile",
+        "UPGRADE"
+      ]
+    },
+    "feature_cards": [
+      {
+        "title": "Generate your voice cloning",
+        "description": "The principle is simple, record your voice or select an audio file / a youtube video and choose from the available voice models of the voicemy.ai community and start cloning."
+      },
+      {
+        "title": "Video To Sound Effect",
+        "description": "Now you can turn silent clips into sound-filled scenes effortlessly."
+      },
+      {
+        "title": "Generate your FaceSwap Video",
+        "description": "FaceSwap Video allows you to replace a face in a video. It's simple! Choose a video, then a front-facing face photo, and then generate."
+      },
+      {
+        "title": "Text to Speech",
+        "description": "To use text to speech, enter your chosen text, select the language & the model of your choice."
+      },
+      {
+        "title": "Train and create your voice",
+        "description": "Training a voice is very simple. Use an audio file containing the voice to be cloned, select a training quality, wait for the indicated time, and refresh the page."
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "url": "VOICEMY.AI"
+  }
+}

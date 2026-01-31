@@ -1,0 +1,53 @@
+{
+  "filename": "Screenshot_20251028-134250 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "reel",
+    "meme",
+    "superman",
+    "movie",
+    "cinema",
+    "android",
+    "social-media",
+    "film"
+  ],
+  "raw_text": "1:42\n2.34 KB/S\nVoLTE 4G 92\nReels Friends\nNONCHALANT.MP4\nsame writer and same director btw\n😭✌️🥀\n2\ngoateed.meme\nFollow\n👉S2 E34 🍿 ...\nAdd comment...",
+  "structured_data": {
+    "platform": "Instagram",
+    "content_type": "Reel",
+    "author": {
+      "username": "goateed.meme",
+      "action": "Follow"
+    },
+    "post_engagement": {
+      "likes": "2",
+      "comments_count": "0",
+      "shares": "not specified"
+    },
+    "caption": "👉S2 E34 🍿 ...",
+    "text_overlay": "same writer and same director btw 😭✌️🥀",
+    "interface_elements": {
+      "time": "1:42",
+      "data_speed": "2.34 KB/S",
+      "battery_percentage": "92",
+      "network_status": "VoLTE, 4G",
+      "tabs": [
+        "Reels",
+        "Friends"
+      ]
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "watermark": "NONCHALANT.MP4",
+    "subject": "Henry Cavill as Superman",
+    "emoji_usage": [
+      "😭",
+      "✌️",
+      "🥀",
+      "👉",
+      "🍿"
+    ]
+  }
+}

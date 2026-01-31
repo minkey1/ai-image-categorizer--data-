@@ -1,0 +1,49 @@
+{
+  "filename": "Screenshot_20251104-090341 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "photo",
+    "dog",
+    "woman",
+    "husky",
+    "pets",
+    "lifestyle",
+    "cafe",
+    "animal",
+    "cuddling"
+  ],
+  "raw_text": "srawsta to you now\nMessage...",
+  "structured_data": {
+    "message_info": {
+      "sender_username": "srawsta",
+      "recipient": "you",
+      "timestamp": "now",
+      "platform": "Instagram"
+    },
+    "visual_content": {
+      "primary_subjects": [
+        "woman",
+        "Siberian Husky dog"
+      ],
+      "activity": "A woman is holding a large husky dog in her arms and smiling at it.",
+      "setting": "Indoor environment, likely a cafe or library with wooden walls and shelves holding books.",
+      "dog_details": {
+        "breed": "Siberian Husky",
+        "color": "Black and white",
+        "accessories": "Red harness"
+      },
+      "woman_details": {
+        "clothing": "Brown top/dress",
+        "accessories": [
+          "Plaid headband",
+          "Rings"
+        ]
+      }
+    }
+  },
+  "profile_mentions": [
+    "srawsta"
+  ],
+  "additional_metadata": {}
+}

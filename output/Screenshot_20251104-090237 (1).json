@@ -1,0 +1,33 @@
+{
+  "filename": "Screenshot_20251104-090237 (1).webp",
+  "tags": [
+    "screenshot",
+    "photo",
+    "instagram",
+    "dog",
+    "husky",
+    "woman",
+    "hug",
+    "pet",
+    "animal",
+    "cafe",
+    "lifestyle",
+    "indoor"
+  ],
+  "raw_text": "9:02 in 2.76 KB/S VoLTE 5G 95 @pefeteria",
+  "structured_data": {
+    "post_type": "Instagram Story",
+    "content_description": "A woman is smiling and hugging a large black and white Siberian Husky dog in what appears to be a pet-friendly cafe.",
+    "status_bar_info": {
+      "time": "9:02",
+      "notifications": "LinkedIn",
+      "network_speed": "2.76 KB/S",
+      "network_type": "5G VoLTE",
+      "battery_percentage": "95%"
+    }
+  },
+  "profile_mentions": [
+    "@pefeteria"
+  ],
+  "additional_metadata": {}
+}

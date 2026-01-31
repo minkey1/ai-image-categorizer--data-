@@ -1,0 +1,66 @@
+{
+  "filename": "Screenshot_20251008-214748 (1).webp",
+  "tags": [
+    "advertisement",
+    "seo",
+    "marketing",
+    "services",
+    "digital",
+    "business",
+    "pricing",
+    "infographic",
+    "website",
+    "technology"
+  ],
+  "raw_text": "SUMIT DIGITECH\nComplete SEO Solution\nGuaranteed 1st page Ranking\nSilver Plan\n10-15 Keywords\nCompetitor Analysis\nComplete ON-Page SEO\n4 Blog Content\n4 Do Follow Guest Post\n300+ Backlinks on 30+ DA\nOn Page + Off Page SEO\n₹ 8,000/- Monthly\nGold Plan\n20-30 Keywords\nCompetitor Analysis\nComplete ON-Page SEO\n08 Blog Content\n4 Do Follow Guest Post\n500+ Backlinks on 30+ DA\nOn Page + Off Page + Technical SEO + Website Content & Maintinance\n₹ 10,000/- Monthly\nContact Us\n+91 772 804 2788\n24/7 CUSTOMER SERVICE\nVERIFIED\n1 YEAR MAINTENANCE\nMore Information\nwww.sumitdigitech.com",
+  "structured_data": {
+    "company_details": {
+      "name": "SUMIT DIGITECH",
+      "services_offered": "Complete SEO Solution",
+      "tagline": "Guaranteed 1st page Ranking"
+    },
+    "pricing_plans": [
+      {
+        "plan_name": "Silver Plan",
+        "monthly_price": "₹ 8,000/-",
+        "seo_types": "On Page + Off Page SEO",
+        "features": [
+          "10-15 Keywords",
+          "Competitor Analysis",
+          "Complete ON-Page SEO",
+          "4 Blog Content",
+          "4 Do Follow Guest Post",
+          "300+ Backlinks on 30+ DA"
+        ]
+      },
+      {
+        "plan_name": "Gold Plan",
+        "monthly_price": "₹ 10,000/-",
+        "seo_types": "On Page + Off Page + Technical SEO + Website Content & Maintenance",
+        "features": [
+          "20-30 Keywords",
+          "Competitor Analysis",
+          "Complete ON-Page SEO",
+          "08 Blog Content",
+          "4 Do Follow Guest Post",
+          "500+ Backlinks on 30+ DA"
+        ]
+      }
+    ],
+    "service_badges": [
+      "24/7 CUSTOMER SERVICE",
+      "VERIFIED",
+      "1 YEAR MAINTENANCE"
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "phone_numbers": [
+      "+91 772 804 2788"
+    ],
+    "urls": [
+      "www.sumitdigitech.com"
+    ],
+    "currency": "INR (₹)"
+  }
+}

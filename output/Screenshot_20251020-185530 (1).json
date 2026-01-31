@@ -1,0 +1,71 @@
+{
+  "filename": "Screenshot_20251020-185530 (1).webp",
+  "tags": [
+    "advertisement",
+    "marketing",
+    "services",
+    "branding",
+    "wikipedia",
+    "biography",
+    "digital_presence",
+    "business",
+    "promotion",
+    "turkish",
+    "media"
+  ],
+  "raw_text": "Markanızı Prestijli Platformlarda Görünür Kılıyoruz\nHizmet Başlığı:\n• ✓ Wikipedia başlangıç içerikleri\n• ✓ \"Kimdir?\" biyografi siteleri\n• ✓ Dijital görünürlük ve prestij artırıcı girişler\n🚀 Başlangıca Özel\n💪 50 Paketle Sınırlı\n💪 %50 İndirim\n✨ Web'te Güçlü İmaj Sizlerle\nSizi dijital dünyada güçlü ve prestijli gösteriyoruz.\nwww.pyravismedia.com\n10.000 TL (Ödeme iş tesliminde)\nwikigenius.org\nEnes Köseler\nBirth date: April 22, 1996 (age 28)\nBirth place: Kadıköy, İstanbul, Turkey\nNationality: Turkish\nOccupation: Businessman, Entrepreneur, PR Consultant, TV Producer, Urban Transformation Specialist\nWebsite: eneskoseler.com\nPatronsan\nEnes Köseler | Başarı Hikayesi\nMeslek: CEO, Cinsiyet: Erkek, Doğum tarihi: Apr 22, 1996 (29 yaşında), Doğum Yeri: Zonguldak\nfounderswiki.org\nEnes Köseler (born 22 April 1996) is a Turkish entrepreneur and communication professional. He works in the fields of public relations, media production, urban transformation, and marketing. Köseler is known as the founder of Pyravis Media Production Academy Ltd.\nBiyografya\nEnes Köseler: Yazar, İletişimci, Reklamcı, Kent Bilimci\nDoğum: 22 Nisan 1996 İstanbul\nEğitim: Yakın Doğu Üniversitesi AB İlişkileri ve İşletme",
+  "structured_data": {
+    "service_offer": {
+      "headline": "Markanızı Prestijli Platformlarda Görünür Kılıyoruz",
+      "services": [
+        "Wikipedia başlangıç içerikleri",
+        "\"Kimdir?\" biyografi siteleri",
+        "Dijital görünürlük ve prestij artırıcı girişler"
+      ],
+      "promotion_details": {
+        "price": "10.000 TL",
+        "payment_condition": "Ödeme iş tesliminde",
+        "limit": "50 Paketle Sınırlı",
+        "discount": "%50 İndirim"
+      },
+      "company": "Pyravis Media",
+      "website": "www.pyravismedia.com"
+    },
+    "example_case_study": {
+      "name": "Enes Köseler",
+      "birth_date": "April 22, 1996",
+      "nationality": "Turkish",
+      "occupations": [
+        "Businessman",
+        "Entrepreneur",
+        "PR Consultant",
+        "TV Producer",
+        "Urban Transformation Specialist",
+        "CEO",
+        "Author",
+        "Communicator",
+        "Advertiser",
+        "Urban Scientist"
+      ],
+      "education": "Yakın Doğu Üniversitesi (AB İlişkileri ve İşletme)",
+      "associated_company": "Pyravis Media Production Academy Ltd.",
+      "personal_website": "eneskoseler.com"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "urls": [
+      "www.pyravismedia.com",
+      "wikigenius.org",
+      "profil.patronsan.com",
+      "founderswiki.org",
+      "biyografya.com",
+      "eneskoseler.com"
+    ],
+    "price": "10.000 TL",
+    "language": "Turkish",
+    "dates": [
+      "April 22, 1996"
+    ]
+  }
+}

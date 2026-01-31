@@ -1,0 +1,49 @@
+{
+  "filename": "Screenshot_20251106-132449 (1).webp",
+  "tags": [
+    "screenshot",
+    "messaging",
+    "chat",
+    "text",
+    "phishing",
+    "scam",
+    "urgency",
+    "email",
+    "links",
+    "socialmedia",
+    "whatsapp"
+  ],
+  "raw_text": "Please take care\nI got the feedback that this page would be deleted in the coming 3-4 days , if not taken seriously.\n\nSo Need to up vote by editors\n1:13 PM\n\nI am sharing an email regarding some links\nKindly share with your editors\n1:14 PM\n\n👍\n\nShared an email\nPlease check your inbox\n1:17 PM",
+  "structured_data": {
+    "messages": [
+      {
+        "content": "Please take care I got the feedback that this page would be deleted in the coming 3-4 days , if not taken seriously. So Need to up vote by editors",
+        "timestamp": "1:13 PM"
+      },
+      {
+        "content": "I am sharing an email regarding some links Kindly share with your editors",
+        "timestamp": "1:14 PM"
+      },
+      {
+        "reaction": "👍"
+      },
+      {
+        "content": "Shared an email Please check your inbox",
+        "timestamp": "1:17 PM"
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "potential_scam_indicators": [
+      "creates a sense of urgency (deleted in 3-4 days)",
+      "requests a specific action (up vote, check email for links)",
+      "vague source of information (got the feedback)"
+    ],
+    "timestamps": [
+      "1:13 PM",
+      "1:14 PM",
+      "1:17 PM"
+    ]
+  }
+}

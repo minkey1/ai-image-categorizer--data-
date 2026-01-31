@@ -1,0 +1,58 @@
+{
+  "filename": "Screenshot_20251021-160223 (1).webp",
+  "tags": [
+    "screenshot",
+    "whatsapp",
+    "chat",
+    "conversation",
+    "real-estate",
+    "business",
+    "communication",
+    "diwali",
+    "professional"
+  ],
+  "raw_text": "Today\nVoice call\nNo answer 10:45 AM\nHello Sagar ji ,\nHappy Diwali belated and good morning. A new buyer messaged me today morning regarding if he can purchase the land.\nHe seems quite interested and wants to know your availability for tomorrow evening (while you travel back to home from your hospital), he wants to have a meeting at his office.\nHis office is near Irrum manzil metro station. Kindly acknowledge\n10:48 AM\nNo\n3:37 PM",
+  "structured_data": {
+    "platform": "WhatsApp",
+    "chat_participants": [
+      "User",
+      "Sagar ji"
+    ],
+    "messages": [
+      {
+        "type": "call_notification",
+        "content": "Voice call",
+        "status": "No answer",
+        "timestamp": "10:45 AM"
+      },
+      {
+        "type": "outgoing_message",
+        "sender_placeholder": "User",
+        "text": "Hello Sagar ji , Happy Diwali belated and good morning. A new buyer messaged me today morning regarding if he can purchase the land. He seems quite interested and wants to know your availability for tomorrow evening (while you travel back to home from your hospital), he wants to have a meeting at his office. His office is near Irrum manzil metro station. Kindly acknowledge",
+        "timestamp": "10:48 AM",
+        "status": "read"
+      },
+      {
+        "type": "incoming_message",
+        "sender": "Sagar ji",
+        "text": "No",
+        "timestamp": "3:37 PM"
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "locations_mentioned": [
+      "hospital",
+      "Irrum manzil metro station"
+    ],
+    "key_topics": [
+      "Land purchase",
+      "Meeting request",
+      "Diwali greetings"
+    ],
+    "names_mentioned": [
+      "Sagar ji"
+    ]
+  }
+}

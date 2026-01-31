@@ -1,0 +1,79 @@
+{
+  "filename": "Screenshot_20251022-120131 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "profile",
+    "homesteading",
+    "nature",
+    "woodworking",
+    "animals",
+    "retreats",
+    "workshops",
+    "agriculture",
+    "outdoor",
+    "lifestyle",
+    "yorkshire",
+    "socialmedia"
+  ],
+  "raw_text": "12:01\n1.06 MB/s\nVoLTE\n4G\n81\nnourish.hq\nCharlotte\n334 posts\n556K followers\n1,392 following\nhomesteading in the Yorkshire Dales with @markoliveradams\ngrowing medicine, tending animals, woodworking, & feeding people\nworkshops & ret... more\nlinktr.ee/nourishhq\nFollowed by ncisheckingawesome\nFollow\nMessage\nContact\nJudah\nAutumn 25\nRETREATS\nDonkeys\n35.9M\n5M\n7M\nJust watched",
+  "structured_data": {
+    "profile_information": {
+      "username": "nourish.hq",
+      "display_name": "Charlotte",
+      "verification_status": "Verified",
+      "post_count": "334",
+      "follower_count": "556K",
+      "following_count": "1,392",
+      "bio": "homesteading in the Yorkshire Dales with @markoliveradams growing medicine, tending animals, woodworking, & feeding people workshops & ret... more",
+      "link": "linktr.ee/nourishhq",
+      "social_context": "Followed by ncisheckingawesome"
+    },
+    "story_highlights": [
+      "Judah",
+      "Autumn 25",
+      "RETREATS",
+      "Donkeys"
+    ],
+    "reels_content": [
+      {
+        "views": "35.9M",
+        "pinned": true
+      },
+      {
+        "views": "5M",
+        "pinned": true
+      },
+      {
+        "views": "7M",
+        "pinned": false
+      },
+      {
+        "status": "Just watched"
+      }
+    ]
+  },
+  "profile_mentions": [
+    "@markoliveradams",
+    "@ncisheckingawesome"
+  ],
+  "additional_metadata": {
+    "urls": [
+      "https://linktr.ee/nourishhq"
+    ],
+    "status_bar": {
+      "time": "12:01",
+      "data_speed": "1.06 MB/s",
+      "connection_type": "VoLTE 4G",
+      "battery_level": "81%"
+    },
+    "topics_mentioned": [
+      "homesteading",
+      "Yorkshire Dales",
+      "medicine",
+      "woodworking",
+      "workshops",
+      "retreats"
+    ]
+  }
+}

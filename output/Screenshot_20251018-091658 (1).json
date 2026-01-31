@@ -1,0 +1,56 @@
+{
+  "filename": "Screenshot_20251018-091658 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "photography",
+    "education",
+    "tutorial",
+    "lens",
+    "camera",
+    "tractor",
+    "compression",
+    "optics"
+  ],
+  "raw_text": "9:16\n0.00 KB/s VoLTE 5G 96\nReels\nFriends\nTelephoto Compression\n35mm\n100mm\n200mm\nTelephoto Compression\nThe tractor appears closer to Jasmine when I increased the focal length of the lens.\nThis simple diagram is showing that the only 2 variables were, my distance from Jasmine as I increased the focal length, and the increase in focal length itself.\nThree very different outcomes from the subject.\nLikes\n53\n56\ngiovannii.jpeg\nFollow\nCore fundamentals of Photography 👇🚨...\nFollowed by john_paulpj",
+  "structured_data": {
+    "platform": "Instagram",
+    "content_type": "Reel",
+    "author": {
+      "username": "giovannii.jpeg",
+      "verification_status": null
+    },
+    "post_details": {
+      "caption": "Core fundamentals of Photography 👇🚨...",
+      "comments_count": 53,
+      "shares_count": 56,
+      "followed_by": "john_paulpj"
+    },
+    "educational_content": {
+      "topic": "Telephoto Compression",
+      "focal_lengths_shown": [
+        "35mm",
+        "100mm",
+        "200mm"
+      ],
+      "key_takeaway": "The tractor appears closer to Jasmine when focal length is increased and camera distance from subject changes."
+    }
+  },
+  "profile_mentions": [
+    "@giovannii.jpeg",
+    "@john_paulpj"
+  ],
+  "additional_metadata": {
+    "device_status": {
+      "time": "9:16",
+      "network": "5G",
+      "volte": true,
+      "battery_percentage": "96%"
+    },
+    "hashtags": [],
+    "emojis": [
+      "👇",
+      "🚨"
+    ]
+  }
+}

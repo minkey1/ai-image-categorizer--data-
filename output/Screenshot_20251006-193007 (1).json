@@ -1,0 +1,64 @@
+{
+  "filename": "Screenshot_20251006-193007 (1).webp",
+  "tags": [
+    "screenshot",
+    "mobile",
+    "app",
+    "finance",
+    "credit",
+    "score",
+    "CIBIL",
+    "Experian",
+    "banking",
+    "loan",
+    "dashboard",
+    "money"
+  ],
+  "raw_text": "7:30\n3.56 KB/s VoLTE 5G 100\nHello, Utkarsh!\nPowered by CIBIL\n742\nGood\nNext update in 32 days\nexperian\n790\nExcellent\nNext update in 32 days\nDid You Know?\nYou have 1 credit enquiry in the last 30 days\nCheck For More Info\nExciting offers for you!\nPERSONAL LOAN By OneScore\nNeed quick funds?\nPersonal loans up to ₹ 5 lakh\nGet Started\nNo Documention\nInstant Disbursal\nActions For You\nHome\nMy Loans\nInsights\nOffers",
+  "structured_data": {
+    "app_name": "OneScore",
+    "user_greeting": "Hello, Utkarsh!",
+    "credit_scores": [
+      {
+        "provider": "CIBIL",
+        "score": 742,
+        "rating": "Good",
+        "next_update": "32 days"
+      },
+      {
+        "provider": "Experian",
+        "score": 790,
+        "rating": "Excellent",
+        "next_update": "32 days"
+      }
+    ],
+    "notifications": {
+      "title": "Did You Know?",
+      "content": "You have 1 credit enquiry in the last 30 days"
+    },
+    "promotional_offers": {
+      "offer_type": "Personal Loan",
+      "provider": "By OneScore",
+      "loan_amount": "up to ₹ 5 lakh",
+      "features": [
+        "No Documentation",
+        "Instant Disbursal"
+      ]
+    },
+    "navigation_menu": [
+      "Home",
+      "My Loans",
+      "Insights",
+      "Offers"
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "system_time": "7:30",
+    "network_status": "5G VoLTE",
+    "battery_percentage": "100%",
+    "data_speed": "3.56 KB/s",
+    "currency_symbol": "₹",
+    "user_name": "Utkarsh"
+  }
+}

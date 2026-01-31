@@ -1,0 +1,53 @@
+{
+  "filename": "Screenshot_20251011-170037 (1).webp",
+  "tags": [
+    "screenshot",
+    "transportation",
+    "railway",
+    "travel",
+    "schedule",
+    "train",
+    "India"
+  ],
+  "raw_text": "VSKP - Visakhapatnam Junction -> GTL - Guntakal Junction\n18463 1:05 PM — 15h15m — 4:20 AM\nPrashanti Express Runs Daily\n18047 1:15 PM — 14h35m — 3:50 AM\nVasco-da-Gama Amaravati Express S M T W T F S",
+  "structured_data": {
+    "route": {
+      "origin": "Visakhapatnam Junction (VSKP)",
+      "destination": "Guntakal Junction (GTL)"
+    },
+    "train_listings": [
+      {
+        "train_number": "18463",
+        "train_name": "Prashanti Express",
+        "departure_time": "1:05 PM",
+        "arrival_time": "4:20 AM",
+        "duration": "15h15m",
+        "frequency": "Runs Daily"
+      },
+      {
+        "train_number": "18047",
+        "train_name": "Vasco-da-Gama Amaravati Express",
+        "departure_time": "1:15 PM",
+        "arrival_time": "3:50 AM",
+        "duration": "14h35m",
+        "operating_days": [
+          "Sunday",
+          "Tuesday",
+          "Wednesday",
+          "Friday"
+        ]
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "station_codes": [
+      "VSKP",
+      "GTL"
+    ],
+    "train_numbers": [
+      "18463",
+      "18047"
+    ]
+  }
+}

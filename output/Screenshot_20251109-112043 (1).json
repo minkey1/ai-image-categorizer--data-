@@ -1,0 +1,70 @@
+{
+  "filename": "Screenshot_20251109-112043 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "profile",
+    "vfx",
+    "ai",
+    "studio",
+    "hollywood",
+    "marketing",
+    "social-media",
+    "wizard",
+    "video",
+    "founder"
+  ],
+  "raw_text": "11:20\n79.5 KB/S\nVOLTE\n5G\n78\n←\nwizardvfx_official\n:\nLendon Bracewell\n69\nposts\n49.6K\nfollowers\n444\nfollowing\n📍 Hollywood, LA\n🪄 Viral Ai Brand Videos\n🎬 Wizard VFX studio founder\n🔗 skool.com/wizard and 3 more\n@ wizardvfx_official\nFollowed by virsaini, art_by_shyzi and itsreallytun\nFollow\nMessage\nI'M OUT\nLITERALLY\nLearn more\nGo to website\n$5,000",
+  "structured_data": {
+    "profile": {
+      "name": "Lendon Bracewell",
+      "username": "wizardvfx_official",
+      "is_verified": true,
+      "posts_count": "69",
+      "followers_count": "49.6K",
+      "following_count": "444",
+      "location": "Hollywood, LA",
+      "bio": "Viral Ai Brand Videos\nWizard VFX studio founder",
+      "links": [
+        "skool.com/wizard"
+      ],
+      "secondary_handle": "wizardvfx_official",
+      "mutual_followers": [
+        "virsaini",
+        "art_by_shyzi",
+        "itsreallytun"
+      ]
+    },
+    "post_grid_preview": [
+      "Man riding a dolphin in wizard costume",
+      "Close up of woman's face with red petals",
+      "Hairy creature sitting in a chair",
+      "Man shouting/screaming",
+      "Mark Cuban with 'I'M OUT' caption",
+      "Man in wizard hat on a platform with 'LITERALLY' caption",
+      "Illustration of a cockpit",
+      "Man lifting weights with dumbbells in a chandelier room",
+      "Woman in pink outfit"
+    ],
+    "ad_banner": {
+      "text": "Learn more",
+      "subtext": "Go to website",
+      "cta": "Learn more"
+    }
+  },
+  "profile_mentions": [
+    "wizardvfx_official",
+    "virsaini",
+    "art_by_shyzi",
+    "itsreallytun"
+  ],
+  "additional_metadata": {
+    "urls": [
+      "skool.com/wizard"
+    ],
+    "time": "11:20",
+    "battery_level": "78%",
+    "network_info": "5G, VoLTE",
+    "data_speed": "79.5 KB/S"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "filename": "Screenshot_20251101-183302 (1).webp",
+  "tags": [
+    "screenshot",
+    "music",
+    "streaming",
+    "app",
+    "smartphone",
+    "audio",
+    "player",
+    "artist",
+    "song",
+    "qawwali",
+    "entertainment"
+  ],
+  "raw_text": "6:33\n0.00 KB/s\nVOLTE\n5G\n51\nSong\nVideo\nKHALID KHAN QAWAL PRESENTS\nRAAT GAYI BAAT GAYI\nRAAT GAYI BAAT GAYI\nKHALID KHAN QAWAL\nRaat Gayi Baat Gayi\nKhalid Khan Qawal\n182\nSave\n73\n3:16\n3:54\nUP NEXT\nLYRICS\nRELATED",
+  "structured_data": {
+    "app_interface": "YouTube Music",
+    "current_track": {
+      "title": "Raat Gayi Baat Gayi",
+      "artist": "Khalid Khan Qawal",
+      "duration": "3:54",
+      "current_position": "3:16"
+    },
+    "interaction_metrics": {
+      "likes": "182",
+      "shares": "73"
+    },
+    "device_status": {
+      "time": "6:33",
+      "data_speed": "0.00 KB/s",
+      "network": "5G VoLTE",
+      "battery": "51%"
+    },
+    "available_tabs": [
+      "UP NEXT",
+      "LYRICS",
+      "RELATED"
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {}
+}

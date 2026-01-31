@@ -1,0 +1,79 @@
+{
+  "filename": "Screenshot_20251012-171212 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "profile",
+    "agriculture",
+    "farming",
+    "social-media",
+    "goat",
+    "biogas",
+    "hydroponics",
+    "pomegranate",
+    "turmeric",
+    "poultry"
+  ],
+  "raw_text": "5:12\n3.58 KB/s VOLTE 5G 36\nhellokisaan\nHello Kisaan\n217 posts\n539K followers\n6 following\nAgricultural Service\nDiscover Agriculture and show its Richness 🌾\n1.7 Million+ YouTube\n590K + Facebook\nhellokisaan.com/ and 2 more\nhellokisaan\nHello Kisaan\nFollowed by civicsense.india\nFollow\nMessage\nSubscribe\nAgro Tourism\nGoat Farming 🐐\nBiogas\nHydroponic\nJust watched\n366K\n57.5K\n154K\n@hellokisaan\nBLUE HALDI",
+  "structured_data": {
+    "profile": {
+      "username": "hellokisaan",
+      "display_name": "Hello Kisaan",
+      "category": "Agricultural Service",
+      "bio": "Discover Agriculture and show its Richness 🌾\n1.7 Million+ YouTube\n590K + Facebook",
+      "posts_count": 217,
+      "follower_count": "539K",
+      "following_count": 6,
+      "website": "hellokisaan.com/",
+      "linked_accounts": [
+        "hellokisaan (Threads)",
+        "Hello Kisaan (Facebook)"
+      ],
+      "followed_by": "civicsense.india"
+    },
+    "story_highlights": [
+      "Agro Tourism",
+      "Goat Farming",
+      "Biogas",
+      "Hydroponic"
+    ],
+    "content_feed": {
+      "reels_stats": [
+        {
+          "views": "366K",
+          "label": "Just watched"
+        },
+        {
+          "views": "57.5K"
+        },
+        {
+          "views": "154K",
+          "text_overlay": "BLUE HALDI"
+        }
+      ]
+    }
+  },
+  "profile_mentions": [
+    "@hellokisaan"
+  ],
+  "additional_metadata": {
+    "urls": [
+      "http://hellokisaan.com/"
+    ],
+    "phone_status_bar": {
+      "time": "5:12",
+      "connection_speed": "3.58 KB/s",
+      "network": "5G, VOLTE",
+      "battery_level": "36%"
+    },
+    "topics_mentioned": [
+      "Agro Tourism",
+      "Goat Farming",
+      "Biogas",
+      "Hydroponic",
+      "Blue Haldi (Turmeric)",
+      "Pomegranate",
+      "Poultry"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "filename": "Screenshot_20251011-181350 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "webpage",
+    "event",
+    "hyderabad",
+    "marketing",
+    "ai",
+    "business",
+    "finance",
+    "education",
+    "razorpay",
+    "offer"
+  ],
+  "raw_text": "6:13\nInstagram\npages.razorpay.com\n1 PERCENT GROUP\nLaunch Funnels With AI Agents - Hyderabad\nGet Your Offline Event (Hyderabad) Tickets\n(Launch Your Funnel With AI Agents In 1 Day)\nLUNCH INCLUDED\nWHERE: Hyderabad\nTIME: 9 AM - 2 PM\nGet Tickets To Offline Scaling Program.\nPlus, I'm Giving You 4 HUGE Bonuses For TODAY:\nBonus #1: 1.6 CRORES in a DAY launch step-by-step breakdown\nBonus #2: My AI Hook Writing Software\nBonus #3: LIVE Pre-Training Party!\nBonus #4: Exclusive Workbooks & Resource-Vault.\nYou'll Get All Of This For The Low ONE-TIME Price Of Just Rs. 99/-\nContact Us:\nsupport@launchatscale.com\n7904764423\nNEXT",
+  "structured_data": {
+    "document_title": "Event Registration Page",
+    "organization": "1 PERCENT GROUP",
+    "event_name": "Launch Funnels With AI Agents - Hyderabad",
+    "event_tagline": "Launch Your Funnel With AI Agents In 1 Day",
+    "event_details": {
+      "location": "Hyderabad",
+      "time": "9 AM - 2 PM",
+      "amenities": "LUNCH INCLUDED"
+    },
+    "offer_inclusions": [
+      "Tickets To Offline Scaling Program",
+      "Bonus #1: 1.6 CRORES in a DAY launch step-by-step breakdown",
+      "Bonus #2: My AI Hook Writing Software",
+      "Bonus #3: LIVE Pre-Training Party!",
+      "Bonus #4: Exclusive Workbooks & Resource-Vault."
+    ],
+    "pricing": {
+      "amount": "99",
+      "currency": "Rs.",
+      "type": "Low ONE-TIME Price"
+    },
+    "contact_information": {
+      "email": "support@launchatscale.com",
+      "phone": "7904764423"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "url": "https://pages.razorpay.com",
+    "platform": "Instagram In-App Browser",
+    "phone_number": "7904764423",
+    "email": "support@launchatscale.com",
+    "device_status": {
+      "time": "6:13",
+      "battery": "66%",
+      "network": "5G, VoLTE"
+    }
+  }
+}

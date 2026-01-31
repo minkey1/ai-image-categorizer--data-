@@ -1,0 +1,121 @@
+{
+  "filename": "Screenshot_20251017-200857 (1).webp",
+  "tags": [
+    "screenshot",
+    "whatsapp",
+    "chat",
+    "conversation",
+    "mobile",
+    "business",
+    "service",
+    "wikipedia",
+    "payment",
+    "telugu",
+    "hindi"
+  ],
+  "raw_text": "Debobrato Akash\nHYPER MEDIA SOLUTIO...\nSame name tho vere vallu kuda already wiki lo bio undhi\n8:33 AM\nBhai inka telugu wikipedia banana hai..\n8:33 AM\nYes bhai\n11:25 AM\nBhejo details\n11:25 AM\nYou\nKomati Reddy Gopal Reddy\n...\n11:40 AM\nInka directly dekhke batane bola\n11:40 AM\nNewspaper article hai wiki data hai\n11:41 AM\nOk let me check\n12:43 PM\nbhai politician ha ??\n12:49 PM\nban jaega\n12:49 PM\nDebobrato Akash\nbhai politician ha ??\nNai nai\n12:55 PM\nSame name se koi aur hai mai abhi pata lagake aapko bhejta hu\n12:55 PM\nok\n1:11 PM\nWednesday\nHello Bhai\n11:48 AM\nBhai payment ka dekh lo\n11:48 AM\nMsg aaraha ha aage se\n11:49 AM",
+  "structured_data": {
+    "chat_contact": {
+      "name": "Debobrato Akash",
+      "company": "HYPER MEDIA SOLUTIONS"
+    },
+    "conversation_topic": "Wikipedia page creation and payment",
+    "mentioned_person": "Komati Reddy Gopal Reddy",
+    "messages": [
+      {
+        "sender": "User",
+        "text": "Same name tho vere vallu kuda already wiki lo bio undhi",
+        "time": "8:33 AM"
+      },
+      {
+        "sender": "User",
+        "text": "Bhai inka telugu wikipedia banana hai..",
+        "time": "8:33 AM"
+      },
+      {
+        "sender": "Debobrato Akash",
+        "text": "Yes bhai",
+        "time": "11:25 AM"
+      },
+      {
+        "sender": "Debobrato Akash",
+        "text": "Bhejo details",
+        "time": "11:25 AM"
+      },
+      {
+        "sender": "User",
+        "text": "Komati Reddy Gopal Reddy",
+        "time": "11:40 AM"
+      },
+      {
+        "sender": "User",
+        "text": "Inka directly dekhke batane bola",
+        "time": "11:40 AM"
+      },
+      {
+        "sender": "User",
+        "text": "Newspaper article hai wiki data hai",
+        "time": "11:41 AM"
+      },
+      {
+        "sender": "Debobrato Akash",
+        "text": "Ok let me check",
+        "time": "12:43 PM"
+      },
+      {
+        "sender": "Debobrato Akash",
+        "text": "bhai politician ha ??",
+        "time": "12:49 PM"
+      },
+      {
+        "sender": "Debobrato Akash",
+        "text": "ban jaega",
+        "time": "12:49 PM"
+      },
+      {
+        "sender": "User",
+        "text": "Nai nai",
+        "reply_to": "bhai politician ha ??",
+        "time": "12:55 PM"
+      },
+      {
+        "sender": "User",
+        "text": "Same name se koi aur hai mai abhi pata lagake aapko bhejta hu",
+        "time": "12:55 PM"
+      },
+      {
+        "sender": "Debobrato Akash",
+        "text": "ok",
+        "time": "1:11 PM"
+      },
+      {
+        "sender": "Debobrato Akash",
+        "text": "Hello Bhai",
+        "day": "Wednesday",
+        "time": "11:48 AM"
+      },
+      {
+        "sender": "Debobrato Akash",
+        "text": "Bhai payment ka dekh lo",
+        "day": "Wednesday",
+        "time": "11:48 AM"
+      },
+      {
+        "sender": "Debobrato Akash",
+        "text": "Msg aaraha ha aage se",
+        "day": "Wednesday",
+        "time": "11:49 AM"
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "languages_detected": [
+      "Telugu",
+      "Hindi (Transliterated)",
+      "English"
+    ],
+    "platform": "WhatsApp",
+    "date_separator": "Wednesday"
+  }
+}

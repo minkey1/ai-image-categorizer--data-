@@ -1,0 +1,66 @@
+{
+  "filename": "Screenshot_20251021-011854 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "profile",
+    "farming",
+    "beef",
+    "agriculture",
+    "cattle",
+    "australia",
+    "food",
+    "sustainable",
+    "nature",
+    "social media"
+  ],
+  "raw_text": "1:18\nsilverwind1880\nSilverwind Farm\n263 posts\n56K followers\n93 following\nSILVERWIND FARM ethically pasture raised beef\nPasture-raised, grass-fed beef\nRegenerative + ethical farming practices\nGippsland, VIC\nFrom our paddocks to your plate\nwww.silverwindfarm.com.au and 1 more\nSilverwind Farm\nFollow\nMessage\nShop\nSilverwind\nCattle\nBeef\nColin\n3,018\n4,994\n16.9K\nJust watched\nEthically pasture raised beef\nNow Available from our",
+  "structured_data": {
+    "profile": {
+      "username": "silverwind1880",
+      "display_name": "Silverwind Farm",
+      "post_count": "263",
+      "follower_count": "56K",
+      "following_count": "93",
+      "bio": "🥩 Pasture-raised, grass-fed beef\n🌍 Regenerative + ethical farming practices\n📍 Gippsland, VIC\n✨ From our paddocks to your plate",
+      "website": "www.silverwindfarm.com.au",
+      "external_links": [
+        "www.silverwindfarm.com.au",
+        "Silverwind Farm (Facebook)"
+      ],
+      "highlights": [
+        "Silverwind",
+        "Cattle",
+        "Beef",
+        "Colin"
+      ]
+    },
+    "reels": [
+      {
+        "view_count": "3,018"
+      },
+      {
+        "view_count": "4,994"
+      },
+      {
+        "view_count": "16.9K"
+      },
+      {
+        "overlay_text": "Ethically pasture raised beef Now Available from our"
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "urls": [
+      "www.silverwindfarm.com.au"
+    ],
+    "location_mentioned": "Gippsland, VIC",
+    "platform": "Instagram",
+    "phone_status": {
+      "time": "1:18",
+      "battery": "28%",
+      "network": "5G, VoLTE"
+    }
+  }
+}

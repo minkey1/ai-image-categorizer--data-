@@ -1,0 +1,69 @@
+{
+  "filename": "Screenshot_20251027-014848 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "socialmedia",
+    "shopping",
+    "gadgets",
+    "ecommerce",
+    "profile",
+    "reels",
+    "home",
+    "kitchen",
+    "tools",
+    "amazon",
+    "cleaning",
+    "pets"
+  ],
+  "raw_text": "1:48\n8 9.18 KB/S VoLTE 5G 43\n← cool.stuff.buys\ncool.stuff.buys\n171 posts 160K followers 4 following\nAmazon finds 📦\nproduct reviews 🤓\nBrowse all products from videos ⬇️\nlinktr.ee/Cool.Stuff.Buys\nFollow Message\npets Home bathroom kitchen\nEGG CRACKER TOOL\nJust watched\n689K\nGREEN POTION POT\n44.5K\nFINGER COVERS\n444K\nAQUA STAND\nCEILING FAN DUSTER\nMEASURING SPOONS",
+  "structured_data": {
+    "profile": {
+      "name": "cool.stuff.buys",
+      "username": "cool.stuff.buys",
+      "posts_count": 171,
+      "follower_count": "160K",
+      "following_count": 4,
+      "bio": "Amazon finds 📦 product reviews 🤓 Browse all products from videos ⬇️",
+      "website": "linktr.ee/Cool.Stuff.Buys",
+      "highlights": [
+        "pets",
+        "Home",
+        "bathroom",
+        "kitchen"
+      ]
+    },
+    "visible_reels": [
+      {
+        "title": "EGG CRACKER TOOL",
+        "views": "689K",
+        "status": "Just watched"
+      },
+      {
+        "title": "GREEN POTION POT",
+        "views": "44.5K"
+      },
+      {
+        "title": "FINGER COVERS",
+        "views": "444K"
+      },
+      {
+        "title": "AQUA STAND"
+      },
+      {
+        "title": "CEILING FAN DUSTER"
+      },
+      {
+        "title": "MEASURING SPOONS"
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "urls": [
+      "linktr.ee/Cool.Stuff.Buys"
+    ],
+    "time_visible": "1:48",
+    "network_details": "5G, VoLTE, 9.18 KB/S, 43% battery"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "filename": "Screenshot_20251018-151139 (1).webp",
+  "tags": [
+    "screenshot",
+    "advertisement",
+    "retail",
+    "electronics",
+    "promotion",
+    "xiaomi",
+    "diwali",
+    "smartphone",
+    "tablet",
+    "sale",
+    "discount",
+    "store",
+    "man"
+  ],
+  "raw_text": "3:11\n06:35\nVoLTE 5G\n61\nDIWALI WITH XIAOMI\n01ST SEP - 31ST OCT\nP1 P1 P3x P3\n15 15 15 15\nC63 C63 C63 C63\nC63 C73 80 80 80\nN61\n70 7\nNote 14\nDIWALI WITH XIAOMI\nUP TO 45% OFF ON SMARTPHONES*\nUP TO 30% OFF ON TABLETS*\n3 YEARS COMPREHENSIVE WARRANTY ON CineMagiQLED TVs*\n*T&C Apply\nShare",
+  "structured_data": {
+    "campaign": {
+      "name": "DIWALI WITH XIAOMI",
+      "period": "01ST SEP - 31ST OCT"
+    },
+    "offers": [
+      {
+        "category": "SMARTPHONES",
+        "discount": "UP TO 45% OFF"
+      },
+      {
+        "category": "TABLETS",
+        "discount": "UP TO 30% OFF"
+      },
+      {
+        "category": "CineMagiQLED TVs",
+        "benefit": "3 YEARS COMPREHENSIVE WARRANTY"
+      }
+    ],
+    "device_status": {
+      "time": "3:11",
+      "call_duration": "06:35",
+      "network": "VoLTE 5G",
+      "battery": "61%"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "brand": "Xiaomi",
+    "event": "Diwali Sale",
+    "visible_models": [
+      "P1",
+      "P3x",
+      "P3",
+      "15",
+      "C63",
+      "C73",
+      "80",
+      "N61",
+      "70",
+      "Note 14"
+    ],
+    "terms_and_conditions": "*T&C Apply"
+  }
+}

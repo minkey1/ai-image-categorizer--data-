@@ -1,0 +1,53 @@
+{
+  "filename": "Screenshot_20251011-233344 (1).webp",
+  "tags": [
+    "screenshot",
+    "android",
+    "phone",
+    "whatsapp",
+    "communication",
+    "contact",
+    "profile",
+    "multitasking",
+    "mobile"
+  ],
+  "raw_text": "11:33\n0.00 KB/S\nVoLTE\n4G\n76\nPhone\nsushree\nSushree ADHD\n+919938682829\nB WhatsA...\nSA\nSushree ADHD\n+91 9938682829\nAudio\nVideo\nBookmark it\nThu, Apr 24 at 4:57 AM\nMedia, links, and docs\nGIF\nGIF Acha\nNotifications\nMedia visibility\nStarred messages\nEncryption\nMessages and calls are end-to-end encrypted.\nTap to verify.\nDisappearing messages\nOff",
+  "structured_data": {
+    "contact_info": {
+      "name": "Sushree ADHD",
+      "phone_number": "+91 9938682829",
+      "about_or_status": "Bookmark it",
+      "about_timestamp": "Thu, Apr 24 at 4:57 AM"
+    },
+    "whatsapp_settings_visible": {
+      "notifications": "enabled",
+      "media_visibility": "default",
+      "starred_messages": "none",
+      "encryption": "end-to-end",
+      "disappearing_messages": "Off"
+    },
+    "device_status": {
+      "time": "11:33",
+      "battery": "76%",
+      "network": "4G VoLTE"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "phone_numbers": [
+      "+919938682829",
+      "+91 9938682829"
+    ],
+    "dates": [
+      "Thu, Apr 24"
+    ],
+    "times": [
+      "11:33",
+      "4:57 AM"
+    ],
+    "apps_in_recent": [
+      "Phone",
+      "WhatsApp Business"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "filename": "Screenshot_20251102-102242 (1).webp",
+  "tags": [
+    "screenshot",
+    "gmail",
+    "email",
+    "receipt",
+    "transaction",
+    "payment",
+    "finance",
+    "course",
+    "mastery",
+    "Razorpay",
+    "Indian Rupee"
+  ],
+  "raw_text": "10:22\n19.0 KB/S VOLTE 5G 86\n←\nFwd: Payment receipt for your successful transaction on Millions In Days Mastery\nAbhiesshek Chatur... 10:16 AM\nto me\nIt looks like this message is in English\nTranslate to Hindi\n---------- Forwarded message ----------\nFrom: 1 PERCENT GROUP <no-reply@razorpay.com>\nDate: Sat, 1 Nov, 2025, 3:08 pm\nSubject: Payment receipt for your successful transaction on Millions In Days Mastery\nTo: <abhiesshekchaturvedi@gmail.com>\n1 PERCENT GROUP\n₹4,999.00\nPaid Successfully\nPayment Id\npay_RaQbq0SI5R0ArY\nPaid On\n1st Nov, 2025\nMethod\ns abhishek15@okicici\nReply\nForward",
+  "structured_data": {
+    "document_type": "Forwarded Payment Receipt Email",
+    "forwarder_info": {
+      "name": "Abhiesshek Chatur...",
+      "timestamp": "10:16 AM"
+    },
+    "original_email_details": {
+      "sender": "1 PERCENT GROUP <no-reply@razorpay.com>",
+      "date": "Saturday, 1 Nov, 2025, 3:08 pm",
+      "subject": "Payment receipt for your successful transaction on Millions In Days Mastery",
+      "recipient": "abhiesshekchaturvedi@gmail.com"
+    },
+    "transaction_details": {
+      "merchant": "1 PERCENT GROUP",
+      "product_name": "Millions In Days Mastery",
+      "amount": "₹4,999.00",
+      "status": "Paid Successfully",
+      "payment_id": "pay_RaQbq0SI5R0ArY",
+      "paid_on": "1st Nov, 2025",
+      "payment_method": "s abhishek15@okicici"
+    }
+  },
+  "profile_mentions": [
+    "no-reply@razorpay.com",
+    "abhiesshekchaturvedi@gmail.com",
+    "abhishek15@okicici"
+  ],
+  "additional_metadata": {
+    "currency": "INR",
+    "payment_gateway": "Razorpay",
+    "dates": [
+      "1st Nov, 2025"
+    ],
+    "emails": [
+      "no-reply@razorpay.com",
+      "abhiesshekchaturvedi@gmail.com"
+    ],
+    "upi_id": "s abhishek15@okicici",
+    "payment_id": "pay_RaQbq0SI5R0ArY"
+  }
+}

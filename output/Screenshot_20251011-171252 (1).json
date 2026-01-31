@@ -1,0 +1,69 @@
+{
+  "filename": "Screenshot_20251011-171252 (1).webp",
+  "tags": [
+    "screenshot",
+    "poster",
+    "puppy",
+    "dog",
+    "adoption",
+    "foster",
+    "animal",
+    "rescue",
+    "hyderabad",
+    "whatsapp",
+    "appeal"
+  ],
+  "raw_text": "5:12 \n2.26 KB/S \nVoLTE 4G 52\nURGENT FOSTER APPEAL\nKulfi\nTikki\nLil Struart\nAge - approx 40 days\nGender - 2 female, 1 male\nHealthy ✅ 1st vaccine &\ndeworming done✅\nOur lil babies need a foster urgently!\n(Can be fostered together or separately).\nThey are great with other dogs and cats as well.\nP.S. THEY ARE UP FOR ADOPTION AS WELL\nThey're the most adorable, disciplined & chill pups. Please help us?\nWhatsApp 9100389009 / 8309007389\n📍 Hyderabad",
+  "structured_data": {
+    "document_type": "Urgent Foster Appeal Poster",
+    "subject": "Puppy Fostering and Adoption",
+    "puppies_mentioned": [
+      {
+        "name": "Kulfi",
+        "description": "Tan puppy with one paw raised"
+      },
+      {
+        "name": "Tikki",
+        "description": "Tan puppy lying on steps"
+      },
+      {
+        "name": "Lil Struart",
+        "description": "White puppy with brown patches on face"
+      }
+    ],
+    "details": {
+      "age": "approx 40 days",
+      "gender_count": {
+        "female": 2,
+        "male": 1
+      },
+      "health_status": "Healthy, 1st vaccine & deworming done",
+      "compatibility": "Great with other dogs and cats",
+      "traits": "Adorable, disciplined, chill"
+    },
+    "contact_information": {
+      "platform": "WhatsApp",
+      "phone_numbers": [
+        "9100389009",
+        "8309007389"
+      ],
+      "location": "Hyderabad"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "phone_numbers": [
+      "9100389009",
+      "8309007389"
+    ],
+    "locations": [
+      "Hyderabad"
+    ],
+    "status_bar_info": {
+      "time": "5:12",
+      "data_speed": "2.26 KB/S",
+      "network": "VoLTE 4G",
+      "battery_percentage": "52"
+    }
+  }
+}

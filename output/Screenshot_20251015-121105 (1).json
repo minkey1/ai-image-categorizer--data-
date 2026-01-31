@@ -1,0 +1,48 @@
+{
+  "filename": "Screenshot_20251015-121105 (1).webp",
+  "tags": [
+    "screenshot",
+    "wikipedia",
+    "google",
+    "seo",
+    "indexing",
+    "noindex",
+    "article",
+    "search-engine",
+    "information",
+    "knowledge"
+  ],
+  "raw_text": "Newly created English Wikipedia pages do not rank on Google immediately because the platform sets a \"noindex\" tag on new articles for up to 90 days. This waiting period allows volunteer editors to patrol and verify the content for quality and accuracy before it becomes visible to search engines. 🔗\n\nHow Wikipedia controls search engine indexing\n\n• Initial noindex period: New articles are automatically given a __NOINDEX__ tag to prevent search engines from indexing them right away.\n\n• Manual patrolling: During the 90-day period, a new page can be reviewed by an experienced editor with \"new page reviewer\" permissions. If the article meets Wikipedia's standards, the editor removes the __NOINDEX__ tag, making it eligible for earlier indexing.\n\n• Automated indexing: If an article has not been patrolled and reviewed by the end of 90 days, the __NOINDEX__ tag is automatically removed, and the article becomes eligible to be indexed by search engines like Google. 🔗",
+  "structured_data": {
+    "title": "How Wikipedia controls search engine indexing",
+    "overview": "Newly created English Wikipedia pages are tagged with 'noindex' for up to 90 days to allow for editor review.",
+    "process_details": [
+      {
+        "stage": "Initial noindex period",
+        "description": "Automatic application of __NOINDEX__ tag to new articles to prevent immediate indexing."
+      },
+      {
+        "stage": "Manual patrolling",
+        "description": "Review by experienced editors with 'new page reviewer' permissions; if standards are met, the tag is removed early."
+      },
+      {
+        "stage": "Automated indexing",
+        "description": "Automatic removal of the __NOINDEX__ tag after 90 days if manual review hasn't happened."
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "time_period": "90 days",
+    "key_entities": [
+      "Wikipedia",
+      "Google"
+    ],
+    "special_tags": [
+      "__NOINDEX__"
+    ],
+    "symbols": [
+      "🔗"
+    ]
+  }
+}

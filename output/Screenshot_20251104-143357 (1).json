@@ -1,0 +1,101 @@
+{
+  "filename": "Screenshot_20251104-143357 (1).webp",
+  "tags": [
+    "screenshot",
+    "mobile",
+    "wikipedia",
+    "references",
+    "actor",
+    "satish-ray",
+    "hindi",
+    "biography",
+    "filmography",
+    "web-series",
+    "media",
+    "articles"
+  ],
+  "raw_text": "2:33 \n4.65 KB/s \nVoLTE 5G \n66\nen.wikipedia.org/wiki/Satis \n+\n3\nFilmography \nYouTube \nReferences \n1. ^ \"6 साल पहले पांच हजार उधार लेके आया था...'पंचायत 2' के एक्टर ने मुंबई में बनाया आलीशान घर, शेयर की कोने-कोने की तस्वीर\". punjabkesari. 2024-09-24. Retrieved 2025-08-26.\n2. ^ \"Gutur Gu review: बचपन का प्यार और परिवार की मार! कुछ ऐसी है गुटर गूं की कहानी\". आज तक (in Hindi). 2023-04-08. Retrieved 2025-08-26.\n3. ^ Shehkawat, Meemansa. \" 'Panchayat' fame Satish Ray mimics Pakistani general to talk about Op Sindoor: 'Humne missiles intercept nahi kiye kyunki...' \". DNA India. Retrieved 2025-08-26.\n4. ^ \"BoAt & Blinkit's Mother's Day PSA with Satish Ray makes a case for sincerity – Exchange4media\". 8 May 2025.\n5. ^ \"VIDEO: Panchayat 2 actor Satish Ray opens up on the show's success\". 7 June 2022.\n6. ^ \"Panchayat 2: जानिए कौन हैं अभिषेक त्रिपाठी के अमेरिका रिटर्न नए दोस्त, जिसे मिला है करोड़ों का पैकेज\". timesnowhindi.com (in Hindi). 2022-05-11. Retrieved 2025-08-26.\n7. ^ \"श्वेता के बाद अब उसके 'बॉयफ्रेंड' का मजेदार वीडियो मैसेज वायरल, आपने देखा क्या?\". Navbharat Times (in Hindi).",
+  "structured_data": {
+    "document_type": "Wikipedia Article Section",
+    "article_subject": "Satish Ray (implied from text)",
+    "section_title": "References",
+    "collapsible_sections_visible": [
+      "Filmography",
+      "YouTube"
+    ],
+    "references_list": [
+      {
+        "index": 1,
+        "title": "6 साल पहले पांच हजार उधार लेके आया था...'पंचायत 2' के एक्टर ने मुंबई में बनाया आलीशान घर, शेयर की कोने-कोने की तस्वीर",
+        "source": "punjabkesari",
+        "date": "2024-09-24",
+        "access_date": "2025-08-26"
+      },
+      {
+        "index": 2,
+        "title": "Gutur Gu review: बचपन का प्यार और परिवार की मार! कुछ ऐसी है गुटर गूं की कहानी",
+        "source": "आज तक",
+        "language": "Hindi",
+        "date": "2023-04-08",
+        "access_date": "2025-08-26"
+      },
+      {
+        "index": 3,
+        "author": "Shehkawat, Meemansa",
+        "title": "'Panchayat' fame Satish Ray mimics Pakistani general to talk about Op Sindoor: 'Humne missiles intercept nahi kiye kyunki...'",
+        "source": "DNA India",
+        "access_date": "2025-08-26"
+      },
+      {
+        "index": 4,
+        "title": "BoAt & Blinkit's Mother's Day PSA with Satish Ray makes a case for sincerity – Exchange4media",
+        "date": "8 May 2025"
+      },
+      {
+        "index": 5,
+        "title": "VIDEO: Panchayat 2 actor Satish Ray opens up on the show's success",
+        "date": "7 June 2022"
+      },
+      {
+        "index": 6,
+        "title": "Panchayat 2: जानिए कौन हैं अभिषेक त्रिपाठी के अमेरिका रिटर्न नए दोस्त, जिसे मिला है करोड़ों का पैकेज",
+        "source": "timesnowhindi.com",
+        "language": "Hindi",
+        "date": "2022-05-11",
+        "access_date": "2025-08-26"
+      },
+      {
+        "index": 7,
+        "title": "श्वेता के बाद अब उसके 'बॉयफ्रेंड' का मजेदार वीडियो मैसेज वायरल, आपने देखा क्या?",
+        "source": "Navbharat Times",
+        "language": "Hindi"
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "url": "https://en.wikipedia.org/wiki/Satis",
+    "mentioned_entities": [
+      "Panchayat 2",
+      "Gutur Gu",
+      "Satish Ray",
+      "BoAt",
+      "Blinkit",
+      "DNA India",
+      "Exchange4media",
+      "Punjab Kesari",
+      "Aaj Tak",
+      "Times Now Hindi",
+      "Navbharat Times"
+    ],
+    "notable_dates": [
+      "2024-09-24",
+      "2025-08-26",
+      "2023-04-08",
+      "2022-05-11",
+      "8 May 2025",
+      "7 June 2022"
+    ],
+    "time_in_screenshot": "2:33"
+  }
+}

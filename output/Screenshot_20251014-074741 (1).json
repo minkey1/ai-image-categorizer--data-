@@ -1,0 +1,64 @@
+{
+  "filename": "Screenshot_20251014-074741 (1).webp",
+  "tags": [
+    "infographic",
+    "software",
+    "technology",
+    "India",
+    "apps",
+    "productivity",
+    "communication",
+    "Zoho",
+    "patriotism",
+    "marketing",
+    "socialmedia"
+  ],
+  "raw_text": "MADE IN INDIA\nSWITCH TO HOMEGROWN APPS\nBEST ZOHO APPS THAT WORKS SMOOTHLY\nInstead of:\nUse this:\nGmail\nWhatsApp\nChrome\nOffice\nZOHO Mail\nZoha Mail\nArattai\nUlaa\nZoho Workplace\nZoho Workplace\nthe.financial.boss\nSUPPORT MADE IN INDIA APPS\n1.3K",
+  "structured_data": {
+    "campaign_title": "MADE IN INDIA SWITCH TO HOMEGROWN APPS",
+    "subject": "BEST ZOHO APPS THAT WORKS SMOOTHLY",
+    "app_comparisons": [
+      {
+        "original_app": "Gmail",
+        "suggested_alternative": "Zoha Mail",
+        "brand": "Zoho"
+      },
+      {
+        "original_app": "WhatsApp",
+        "suggested_alternative": "Arattai",
+        "brand": "Zoho"
+      },
+      {
+        "original_app": "Chrome",
+        "suggested_alternative": "Ulaa",
+        "brand": "Zoho"
+      },
+      {
+        "original_app": "Office",
+        "suggested_alternative": "Zoho Workplace",
+        "brand": "Zoho"
+      }
+    ],
+    "author_watermark": "the.financial.boss",
+    "call_to_action": "SUPPORT MADE IN INDIA APPS",
+    "post_engagement": {
+      "likes": "1.3K"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "visual_elements": [
+      "Indian National Flag icon",
+      "Google Gmail logo",
+      "WhatsApp logo",
+      "Google Chrome logo",
+      "Microsoft Office logo",
+      "Zoho Mail logo",
+      "Arattai logo",
+      "Ulaa browser logo",
+      "Zoho Workplace logo"
+    ],
+    "possible_platform": "social media platform with a 'like' system (e.g., Facebook, YouTube, LinkedIn)",
+    "notable_typo": "The text below the Zoho Mail logo reads 'Zoha Mail' instead of 'Zoho Mail'."
+  }
+}

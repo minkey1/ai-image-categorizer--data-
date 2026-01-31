@@ -1,0 +1,96 @@
+{
+  "filename": "Screenshot_20251011-221204 (1).webp",
+  "tags": [
+    "screenshot",
+    "whatsapp",
+    "messaging",
+    "communication",
+    "business",
+    "electronics",
+    "mobile",
+    "reporting",
+    "tasks"
+  ],
+  "raw_text": "Bro total 12 completed 10:10 PM\n⃠ This message was deleted 10:10 PM\nSai electronic completed 10:11 PM\nMobile Mart over 10:11 PM\nNew raj mobiles completed 10:11 PM\nRaj mobiles completed 10:11 PM\nLaxmi mobiles completed 10:11 PM\nAjana MOBILES STORE 10:11 PM\nHML mobile store complete 10:11 PM\nSai sarupa moblies store 10:11 PM\nM s fuction 10:11 PM\nSri semma cell point 10:11 PM\nSri Sai Ganesh cell point 10:11 PM\nSri Rama marking 10:11 PM",
+  "structured_data": {
+    "messages": [
+      {
+        "content": "Bro total 12 completed",
+        "timestamp": "10:10 PM"
+      },
+      {
+        "content": "This message was deleted",
+        "timestamp": "10:10 PM",
+        "status": "deleted"
+      },
+      {
+        "content": "Sai electronic completed",
+        "timestamp": "10:11 PM"
+      },
+      {
+        "content": "Mobile Mart over",
+        "timestamp": "10:11 PM"
+      },
+      {
+        "content": "New raj mobiles completed",
+        "timestamp": "10:11 PM"
+      },
+      {
+        "content": "Raj mobiles completed",
+        "timestamp": "10:11 PM"
+      },
+      {
+        "content": "Laxmi mobiles completed",
+        "timestamp": "10:11 PM"
+      },
+      {
+        "content": "Ajana MOBILES STORE",
+        "timestamp": "10:11 PM"
+      },
+      {
+        "content": "HML mobile store complete",
+        "timestamp": "10:11 PM"
+      },
+      {
+        "content": "Sai sarupa moblies store",
+        "timestamp": "10:11 PM"
+      },
+      {
+        "content": "M s fuction",
+        "timestamp": "10:11 PM"
+      },
+      {
+        "content": "Sri semma cell point",
+        "timestamp": "10:11 PM"
+      },
+      {
+        "content": "Sri Sai Ganesh cell point",
+        "timestamp": "10:11 PM"
+      },
+      {
+        "content": "Sri Rama marking",
+        "timestamp": "10:11 PM"
+      }
+    ],
+    "entities_mentioned": [
+      "Sai electronic",
+      "Mobile Mart",
+      "New raj mobiles",
+      "Raj mobiles",
+      "Laxmi mobiles",
+      "Ajana MOBILES STORE",
+      "HML mobile store",
+      "Sai sarupa moblies store",
+      "M s fuction",
+      "Sri semma cell point",
+      "Sri Sai Ganesh cell point",
+      "Sri Rama marking"
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "platform": "WhatsApp",
+    "theme": "Work progress report list",
+    "timestamps_range": "10:10 PM - 10:11 PM"
+  }
+}

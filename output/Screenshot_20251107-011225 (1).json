@@ -1,0 +1,69 @@
+{
+  "filename": "Screenshot_20251107-011225 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "profile",
+    "business",
+    "entrepreneurship",
+    "marketing",
+    "reels",
+    "social-media",
+    "finance",
+    "mobile",
+    "content-creator",
+    "influencer"
+  ],
+  "raw_text": "1:12\nsamadhkhatri\nSamadh Khatri | Business\n38 posts\n4,679 followers\n35 following\nFounder: @clipsby.media\n✨ Business content made easy\n🚀 From industry news to inspiring success journeys.\nFollow\nThey filled the entire truck with cake worth lakh rupees\n3.1M\nTHIS MAN BUILT RUM EMPIRE WITH \"ZERO\" ADS\n2.1M\nHERES THE SHOCKING TRUTH BEHIND FAMILY VLOGGING\n3.9M\nThe $200 product every Indian Student would go crazy for.\nJust watched\n152K\nThey Turned A Coffee Bag Into A Billion-Dollar Shortcut.\n6,428\nInside Japan's $500M Fruit-Art Obsession That's Taking Over Instagram.\n7,270\n402 KB/S VoLTE 5G 11",
+  "structured_data": {
+    "profile": {
+      "username": "samadhkhatri",
+      "display_name": "Samadh Khatri | Business",
+      "posts_count": 38,
+      "follower_count": "4,679",
+      "following_count": 35,
+      "bio": "Founder: @clipsby.media\n✨ Business content made easy\n🚀 From industry news to inspiring success journeys.",
+      "category": "Business"
+    },
+    "reels": [
+      {
+        "title": "They filled the entire truck with cake worth lakh rupees",
+        "view_count": "3.1M",
+        "is_pinned": true
+      },
+      {
+        "title": "THIS MAN BUILT RUM EMPIRE WITH \"ZERO\" ADS",
+        "view_count": "2.1M",
+        "is_pinned": true
+      },
+      {
+        "title": "HERES THE SHOCKING TRUTH BEHIND FAMILY VLOGGING",
+        "view_count": "3.9M",
+        "is_pinned": true
+      },
+      {
+        "title": "The $200 product every Indian student would go crazy for.",
+        "view_count": "152K",
+        "status": "Just watched"
+      },
+      {
+        "title": "They Turned A Coffee Bag Into A Billion-Dollar Shortcut.",
+        "view_count": "6,428"
+      },
+      {
+        "title": "Inside Japan's $500M Fruit-Art Obsession That's Taking Over Instagram.",
+        "view_count": "7,270"
+      }
+    ]
+  },
+  "profile_mentions": [
+    "@clipsby.media"
+  ],
+  "additional_metadata": {
+    "system_time": "1:12",
+    "network_status": "5G, VoLTE",
+    "data_speed": "402 KB/S",
+    "battery_percentage": "11%",
+    "platform": "Instagram"
+  }
+}

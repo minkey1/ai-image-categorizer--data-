@@ -1,0 +1,63 @@
+{
+  "filename": "Screenshot_20251020-112226 (1).webp",
+  "tags": [
+    "obituary",
+    "memorial",
+    "invitation",
+    "Tamil",
+    "Christian",
+    "funeral",
+    "education",
+    "death",
+    "ceremony"
+  ],
+  "raw_text": "கிறிஸ்து எனக்கு ஜீவன், சாவு எனக்கு ஆதாயம்.\nபிலிப்பியர் 1: 21\nசை. சாந்தி\nM.A, B. Lit., B.Sc, B. Ed.\n16 June, 1972 - 13 Oct, 2025\nஅவரின் நினைவு ஜெபக்கூட்டம் நடைபெறும் நாள்\n25 - 10 - 2025\nசனிக்கிழமை மாலை 05:30 மணி\nஇடம் : ராஜாமணி மஹால்\nதென்னிந்திய திருச்சபை எதிரில், சித்தூர்\nசாலை சோளிங்கர்\nதொடர்புக்கு : 95004 27955\nஇப்படிக்கு\nகணவர்: J. ஸ்டேன்லி தேவபிரியம்\nமகன்: S. எபினேசர்\nமகள்: S. பிரைஸ்லின் கிஃப்டி\nகுடும்பத்தினர், உறவினர்கள் & நண்பர்கள்",
+  "structured_data": {
+    "document_type": "Memorial Service Invitation",
+    "deceased_person": {
+      "name": "சை. சாந்தி (Sai Shanthi)",
+      "qualifications": [
+        "M.A",
+        "B. Lit.",
+        "B.Sc",
+        "B. Ed."
+      ],
+      "birth_date": "16 June, 1972",
+      "death_date": "13 Oct, 2025"
+    },
+    "service_details": {
+      "event_name": "நினைவு ஜெபக்கூட்டம் (Memorial Prayer Meeting)",
+      "date": "25-10-2025",
+      "day": "Saturday (சனிக்கிழமை)",
+      "time": "05:30 PM (மாலை 05:30 மணி)",
+      "location": {
+        "venue": "ராஜாமணி மஹால் (Rajamani Mahal)",
+        "address": "Opposite South India Church (CSI), Chittoor Road, Sholingur (தென்னிந்திய திருச்சபை எதிரில், சித்தூர் சாலை சோளிங்கர்)"
+      }
+    },
+    "family_members": {
+      "husband": "J. ஸ்டேன்லி தேவபிரியம் (J. Stanley Devapriyam)",
+      "son": "S. எபினேசர் (S. Ebenezer)",
+      "daughter": "S. பிரைஸ்லின் கிஃப்டி (S. Praiseline Giftty)",
+      "others": "Family members, relatives & friends (குடும்பத்தினர், உறவினர்கள் & நண்பர்கள்)"
+    },
+    "scripture_reference": "Philippians 1:21 (பிலிப்பியர் 1: 21)"
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "phone_numbers": [
+      "95004 27955"
+    ],
+    "dates": [
+      "16 June, 1972",
+      "13 Oct, 2025",
+      "25-10-2025"
+    ],
+    "religious_motifs": [
+      "Star of David",
+      "Menorah",
+      "Cross",
+      "Olive branch"
+    ]
+  }
+}

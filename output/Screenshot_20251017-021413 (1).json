@@ -1,0 +1,78 @@
+{
+  "filename": "Screenshot_20251017-021413 (1).webp",
+  "tags": [
+    "funeral",
+    "memorial",
+    "announcement",
+    "templates",
+    "obituary",
+    "remembrance",
+    "design",
+    "graphics",
+    "cards",
+    "invitation"
+  ],
+  "raw_text": "IN LOVING MEMORY OF SEBASTIAN Bennett 23 June, 1967 - 11 June, 2024 He was a cherished father, husband, brother, and friend, and will be deeply missed by all who knew him. We invite you to join us in celebrating the life Funeral Service Details: 29 June, 2024 11:00am to 11:00pm 123 Anywhere St., Any City In Lieu of Flowers: In lieu of flowers, the family kindly requests that donations can be made online at www.reallygreatsite.com IN LOVING MEMORY OF RICHARD SANCHEZ 14 APRIL 2021 28 JUN 2024 30TH OF APRIL 2025 AT TEN O,CLOCK IN THE MORNING 123 Anywhere St., Any City, ST 12345 In Loving Memory of Korina Villanueva October 06, 1952 - May 07, 2026 PLEASE JOIN US AS WE SAY GOODBYE TO A LOVING SISTER AND FRIEND. 4TH OF AUGUST 2026 AT 10 O'CLOCK IN THE MORNING 123 ANYWHERE ST. ANY CITY IN LOVING MEMORY OF Juliana Silva Dec 12, 2021 at 7 PM 123 Anywhere St., Any City, ST 12345 IN LOVING MEMORY OF Henrietta MITCHELL OCTOBER 06, 1952 - MAY 07, 2028 MAY 09, 2028 FRIENDS AND FAMILY ARE WELCOME TO ATTEND THE MEMORIAL SERVICE. MAIN BUILDING 123 ANYWHERE ST., ANY CITY IN LOVING MEMORY OF Howard Ong 12 April. 1951 14 March. 2025 10 O'CLOCK IN THE MORNING 123 Anywhere St., Any City, ST 12345",
+  "structured_data": {
+    "memorial_templates": [
+      {
+        "name": "Sebastian Bennett",
+        "birth_date": "23 June, 1967",
+        "death_date": "11 June, 2024",
+        "service_date": "29 June, 2024",
+        "service_time": "11:00am to 11:00pm",
+        "location": "123 Anywhere St., Any City",
+        "notes": "In lieu of flowers, donations online at www.reallygreatsite.com"
+      },
+      {
+        "name": "Richard Sanchez",
+        "birth_date": "14 April 2021",
+        "death_date": "28 Jun 2024",
+        "service_date": "30th of April 2025",
+        "service_time": "Ten o'clock in the morning",
+        "location": "123 Anywhere St., Any City, ST 12345"
+      },
+      {
+        "name": "Korina Villanueva",
+        "birth_date": "October 06, 1952",
+        "death_date": "May 07, 2026",
+        "service_date": "4th of August 2026",
+        "service_time": "10 o'clock in the morning",
+        "location": "123 Anywhere St. Any City"
+      },
+      {
+        "name": "Juliana Silva",
+        "service_date_time": "Dec 12, 2021 at 7 PM",
+        "location": "123 Anywhere St., Any City, ST 12345"
+      },
+      {
+        "name": "Henrietta Mitchell",
+        "birth_date": "October 06, 1952",
+        "death_date": "May 07, 2028",
+        "service_date": "May 09, 2028",
+        "location": "Main Building 123 Anywhere St., Any City"
+      },
+      {
+        "name": "Howard Ong",
+        "birth_date": "12 April. 1951",
+        "death_date": "14 March. 2025",
+        "service_time": "10 o'clock in the morning",
+        "location": "123 Anywhere St., Any City, ST 12345"
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "websites": [
+      "www.reallygreatsite.com"
+    ],
+    "placeholders": [
+      "123 Anywhere St.",
+      "Any City"
+    ],
+    "app_features": [
+      "More options menu icon (three dots)",
+      "Premium content icon (crown)"
+    ]
+  }
+}

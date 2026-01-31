@@ -1,0 +1,61 @@
+{
+  "filename": "Screenshot_20251028-132431 (1).webp",
+  "tags": [
+    "screenshot",
+    "whatsapp",
+    "chat",
+    "messaging",
+    "conversation",
+    "medication",
+    "health",
+    "desvenlafaxine",
+    "mentalhealth",
+    "dosage",
+    "sleepiness",
+    "sideeffects"
+  ],
+  "raw_text": "Vivek Banglore\nTaking Desvenlafaxine makes me feel SO sleepy.. I could sleep all day..\n9:14 AM\n~ Meghana\n+91 89717 32677\nVivek Banglore\nTaking Desvenlafaxine makes me feel SO sleepy.. I could sleep all day..\nThat happened in the beginning - got better after I split my dosage between morning and night\n11:13 AM\nVivek Banglore\n~ Meghana\n+91 89717 32677\nThat happened in the beginning - got better after I split my dosage between morning and night\nI am currently taking 100mg\n11:14 AM\n~ Meghana\n+91 89717 32677\nWhen I started to take 100 it knocked me out - so I went down to 50 in the morning and 25 in the night\n11:15 AM",
+  "structured_data": {
+    "platform": "WhatsApp",
+    "messages": [
+      {
+        "sender": "Vivek Banglore",
+        "timestamp": "9:14 AM",
+        "text": "Taking Desvenlafaxine makes me feel SO sleepy.. I could sleep all day.."
+      },
+      {
+        "sender": "Meghana",
+        "phone_number": "+91 89717 32677",
+        "timestamp": "11:13 AM",
+        "text": "That happened in the beginning - got better after I split my dosage between morning and night",
+        "reply_to": "Vivek Banglore: Taking Desvenlafaxine makes me feel SO sleepy.. I could sleep all day.."
+      },
+      {
+        "sender": "Vivek Banglore",
+        "timestamp": "11:14 AM",
+        "text": "I am currently taking 100mg",
+        "reply_to": "Meghana: That happened in the beginning - got better after I split my dosage between morning and night"
+      },
+      {
+        "sender": "Meghana",
+        "phone_number": "+91 89717 32677",
+        "timestamp": "11:15 AM",
+        "text": "When I started to take 100 it knocked me out - so I went down to 50 in the morning and 25 in the night"
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "phone_numbers": [
+      "+91 89717 32677"
+    ],
+    "medications_mentioned": [
+      "Desvenlafaxine"
+    ],
+    "dosages_mentioned": [
+      "100mg",
+      "50mg",
+      "25mg"
+    ]
+  }
+}

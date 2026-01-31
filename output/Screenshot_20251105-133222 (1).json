@@ -1,0 +1,75 @@
+{
+  "filename": "Screenshot_20251105-133222 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "profile",
+    "socialmedia",
+    "influencer",
+    "business",
+    "philanthropy",
+    "india",
+    "e-commerce",
+    "content-creator"
+  ],
+  "raw_text": "1:32\n30.3 KB/S VOLTE 5G 76\nyounickviral\nPrem Kumar\n877 posts\n2.7M followers\n273 following\nPublic figure\n35M+ Followers on Instagram, YouTube & Facebook\nShop now 👉 www.zedif.com\nCEO: @zedifstore\nBusiness Inquiries: younickinfluxia@gmail.com\nwww.zedif.com\nyounickviral Prem Kumar AI 2 more\nFollowed by popatbhai_ahir and 4 others\nFollowing\nMessage\nSubscribe\nNo Electricity\nLove ❤️\nDream 🪦\nMission Rozgar\nTag Government of India\n19.4M\n4.1M\n87.8M",
+  "structured_data": {
+    "profile_info": {
+      "name": "Prem Kumar",
+      "username": "younickviral",
+      "verified": true,
+      "category": "Public figure",
+      "posts": "877",
+      "followers": "2.7M",
+      "following": "273",
+      "bio": "35M+ Followers on Instagram, YouTube & Facebook\nShop now 👉 www.zedif.com\nCEO: @zedifstore\nBusiness Inquiries: younickinfluxia@gmail.com",
+      "website": "www.zedif.com",
+      "mutual_followers": [
+        "popatbhai_ahir"
+      ]
+    },
+    "highlights": [
+      "No Electricity",
+      "Love ❤️",
+      "Dream 🪦",
+      "Mission Rozgar"
+    ],
+    "post_stats": [
+      {
+        "view_count": "19.4M",
+        "pinned": true
+      },
+      {
+        "view_count": "4.1M",
+        "pinned": true
+      },
+      {
+        "view_count": "87.8M",
+        "pinned": true,
+        "overlay_text": "Tag Government of India"
+      }
+    ]
+  },
+  "profile_mentions": [
+    "@zedifstore",
+    "@younickviral",
+    "@popatbhai_ahir"
+  ],
+  "additional_metadata": {
+    "urls": [
+      "www.zedif.com"
+    ],
+    "emails": [
+      "younickinfluxia@gmail.com"
+    ],
+    "status_bar": {
+      "time": "1:32",
+      "network_speed": "30.3 KB/S",
+      "connectivity": [
+        "VOLTE",
+        "5G"
+      ],
+      "battery_percentage": "76%"
+    }
+  }
+}

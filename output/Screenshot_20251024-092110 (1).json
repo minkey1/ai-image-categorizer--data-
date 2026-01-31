@@ -1,0 +1,65 @@
+{
+  "filename": "Screenshot_20251024-092110 (1).webp",
+  "tags": [
+    "screenshot",
+    "table",
+    "SEO",
+    "marketing",
+    "website",
+    "authority",
+    "metrics",
+    "domain-authority",
+    "IMDb",
+    "Fandom",
+    "Medium",
+    "Quora",
+    "Tumblr",
+    "Semrush",
+    "Moz",
+    "Ahrefs"
+  ],
+  "raw_text": "Site\nEstimated Authority Score (DA/AS)\nIMDb\n100 (Semrush AS)\nFandom\n99 (Semrush AS)\nMedium\n92-95+ (Moz/Ahrefs\nestimate)\nQuora\n93 (Moz DA)\nTumblr\n92-95+ (Moz/Ahrefs\nestimate)",
+  "structured_data": {
+    "table_info": {
+      "title": "Website Authority Scores",
+      "headers": [
+        "Site",
+        "Estimated Authority Score (DA/AS)"
+      ],
+      "rows": [
+        {
+          "site": "IMDb",
+          "estimated_authority_score": "100 (Semrush AS)"
+        },
+        {
+          "site": "Fandom",
+          "estimated_authority_score": "99 (Semrush AS)"
+        },
+        {
+          "site": "Medium",
+          "estimated_authority_score": "92-95+ (Moz/Ahrefs estimate)"
+        },
+        {
+          "site": "Quora",
+          "estimated_authority_score": "93 (Moz DA)"
+        },
+        {
+          "site": "Tumblr",
+          "estimated_authority_score": "92-95+ (Moz/Ahrefs estimate)"
+        }
+      ]
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "tools_referenced": [
+      "Semrush AS",
+      "Moz DA",
+      "Ahrefs"
+    ],
+    "metrics_mentioned": [
+      "Authority Score (AS)",
+      "Domain Authority (DA)"
+    ]
+  }
+}

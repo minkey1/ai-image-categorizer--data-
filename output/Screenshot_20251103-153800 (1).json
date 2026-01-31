@@ -1,0 +1,50 @@
+{
+  "filename": "Screenshot_20251103-153800 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "advertisement",
+    "marketing",
+    "agency",
+    "business",
+    "services",
+    "seo",
+    "webdev",
+    "advertising"
+  ],
+  "raw_text": "3:37\n2.00 KB/s VoLTE 5G 49\n24 ROX\nWeb development and marketing agency\nOUR SERVICES\nSEO (SEARCH ENGINE OPTIMIZATION)\nPPC (PAY-PER-CLICK) ADVERTISING\nCONTENT MARKETING\nSOCIAL MEDIA MARKETING\nEMAIL MARKETING\nANALYTICS AND REPORTING\nWEBSITE DEVELOPMENT\nINFLUENCER MARKETING\nONLINE REPUTATION MANAGEMENT\nCONVERSION RATE OPTIMIZATION (CRO)\nE-COMMERCE MARKETING\nAFFILIATE MARKETING\nCALL NOW\n+91 8400055716",
+  "structured_data": {
+    "agency_name": "24 ROX",
+    "agency_description": "Web development and marketing agency",
+    "services_offered": [
+      "SEO (SEARCH ENGINE OPTIMIZATION)",
+      "PPC (PAY-PER-CLICK) ADVERTISING",
+      "CONTENT MARKETING",
+      "SOCIAL MEDIA MARKETING",
+      "EMAIL MARKETING",
+      "ANALYTICS AND REPORTING",
+      "WEBSITE DEVELOPMENT",
+      "INFLUENCER MARKETING",
+      "ONLINE REPUTATION MANAGEMENT",
+      "CONVERSION RATE OPTIMIZATION (CRO)",
+      "E-COMMERCE MARKETING",
+      "AFFILIATE MARKETING"
+    ],
+    "contact_details": {
+      "phone_number": "+91 8400055716",
+      "action": "CALL NOW"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "phone_number": "+91 8400055716",
+    "platform": "Instagram",
+    "status_bar": {
+      "time": "3:37",
+      "network_type": "5G",
+      "signal_features": "VoLTE",
+      "data_speed": "2.00 KB/s",
+      "battery_level": "49%"
+    }
+  }
+}

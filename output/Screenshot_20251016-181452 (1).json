@@ -1,0 +1,81 @@
+{
+  "filename": "Screenshot_20251016-181452 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "story",
+    "graduation",
+    "convocation",
+    "ceremony",
+    "education",
+    "university",
+    "professors",
+    "academic",
+    "success",
+    "gratitude",
+    "SRMIST"
+  ],
+  "raw_text": "6:14\n1.30 MB/s\nVoLTE\n5G\n33\nThanks to my Esteemed and Beloved\nProfessors, without whom this special milestone\nis impossible.\nHOD Dr @drtpadmanabhan\nDr Rajesh\nDr @salaitamilarasanmay10\n@vasanth_chandrasekar_ sir\nDr Arokiaraj\nDr Ansu Elsa Joy\nDr Poarkodi\n@ms.smileaddiction Mam\n@pchandrapriyan sir\nDr Harikarthikeyan\nDr T. K. Saravanan\nCONVOCATION - 2023\nSRM\nSRM\nCONVOCATION - 2023\nINSTITUTE OF SCIENCE & TECHNOLOGY",
+  "structured_data": {
+    "type": "Instagram Story Post",
+    "theme": "Graduation Appreciation",
+    "institution": "SRM Institute of Science & Technology",
+    "event": "Convocation 2023",
+    "mentions_and_names": [
+      {
+        "role": "HOD",
+        "name": "Dr Padmanabhan",
+        "username": "@drtpadmanabhan"
+      },
+      {
+        "name": "Dr Rajesh"
+      },
+      {
+        "name": "Dr Tamil Arasan",
+        "username": "@salaitamilarasanmay10"
+      },
+      {
+        "name": "Vasanth Chandrasekar",
+        "username": "@vasanth_chandrasekar_",
+        "title": "sir"
+      },
+      {
+        "name": "Dr Arokiaraj"
+      },
+      {
+        "name": "Dr Ansu Elsa Joy"
+      },
+      {
+        "name": "Dr Poarkodi"
+      },
+      {
+        "username": "@ms.smileaddiction",
+        "title": "Mam"
+      },
+      {
+        "username": "@pchandrapriyan",
+        "title": "sir"
+      },
+      {
+        "name": "Dr Harikarthikeyan"
+      },
+      {
+        "name": "Dr T. K. Saravanan"
+      }
+    ]
+  },
+  "profile_mentions": [
+    "@drtpadmanabhan",
+    "@salaitamilarasanmay10",
+    "@vasanth_chandrasekar_",
+    "@ms.smileaddiction",
+    "@pchandrapriyan"
+  ],
+  "additional_metadata": {
+    "screenshot_time": "6:14",
+    "battery_percentage": "33%",
+    "network_type": "5G, VoLTE",
+    "university_logo": "SRM Institute of Science & Technology",
+    "year": "2023"
+  }
+}

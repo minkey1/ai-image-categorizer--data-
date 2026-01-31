@@ -1,0 +1,77 @@
+{
+  "filename": "Screenshot_20251024-191750 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "musician",
+    "music",
+    "services",
+    "advertisement",
+    "singer",
+    "guitar",
+    "flyer",
+    "marketing",
+    "lyrics",
+    "production",
+    "mixing",
+    "mastering",
+    "vocals",
+    "artist",
+    "composition"
+  ],
+  "raw_text": "7:17\n9.00 KB/s\nVoLTE\n5G\n44\n@yourfavoritepriyam\nMUSIC SERVICES\n• Lyrics Writing - ₹ 2500\n(Hindi, English, Bengali)\n• Music Composition - ₹ 2500\n• Music Production - ₹ 5000\n• Mixing Mastering - ₹ 3000\n• Vocals - ₹ 2000\nUnfinished song or just a scratch, we will make it radio ready!\nGet your full song at\n₹ 15K only\nDM on : +91 9874514579\nwww.yourfavoritepriyam.com\nPriyam Chakraborty Musician",
+  "structured_data": {
+    "musician_name": "Priyam Chakraborty",
+    "title": "Musician",
+    "username": "@yourfavoritepriyam",
+    "services_offered": [
+      {
+        "service": "Lyrics Writing",
+        "price": "₹ 2500",
+        "details": "Hindi, English, Bengali"
+      },
+      {
+        "service": "Music Composition",
+        "price": "₹ 2500"
+      },
+      {
+        "service": "Music Production",
+        "price": "₹ 5000"
+      },
+      {
+        "service": "Mixing Mastering",
+        "price": "₹ 3000"
+      },
+      {
+        "service": "Vocals",
+        "price": "₹ 2000"
+      }
+    ],
+    "special_offer": {
+      "description": "Unfinished song or just a scratch, we will make it radio ready!",
+      "package_price": "₹ 15K only",
+      "package_item": "Full song"
+    },
+    "contact_info": {
+      "whatsapp_dm": "+91 9874514579",
+      "website": "www.yourfavoritepriyam.com"
+    }
+  },
+  "profile_mentions": [
+    "@yourfavoritepriyam"
+  ],
+  "additional_metadata": {
+    "urls": [
+      "www.yourfavoritepriyam.com"
+    ],
+    "phone_numbers": [
+      "+91 9874514579"
+    ],
+    "status_bar_info": {
+      "time": "7:17",
+      "battery_percentage": "44%",
+      "network_type": "5G",
+      "data_speed": "9.00 KB/s"
+    }
+  }
+}

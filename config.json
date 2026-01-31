@@ -1,0 +1,25 @@
+{
+  "model": "gemini-3-flash-preview",
+  "folders": {
+    "input": "input",
+    "output": "output"
+  },
+  "supported_formats": [".jpg", ".jpeg", ".png", ".gif", ".webp", ".bmp"],
+  "processing": {
+    "verbose": true,
+    "show_preview_tags": 5,
+    "max_consecutive_failures": 3,
+    "failure_mode": "retry_every_minute"
+  },
+  "output": {
+    "json_indent": 2,
+    "ensure_ascii": false
+  },
+  "compression": {
+    "enabled": true,
+    "quality": 65,
+    "max_resolution": [1280, 1280],
+    "strip_metadata": true,
+    "output_format": "webp"
+  }
+}

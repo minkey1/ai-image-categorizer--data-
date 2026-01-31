@@ -1,0 +1,96 @@
+{
+  "filename": "Screenshot_20251106-101557 (1).webp",
+  "tags": [
+    "screenshot",
+    "whatsapp",
+    "conversation",
+    "messaging",
+    "finance",
+    "money",
+    "debt",
+    "loan",
+    "interest",
+    "repayment",
+    "communication",
+    "support"
+  ],
+  "raw_text": "10:15\n3.21 KB/s\nVoLTE\n5G\n39\nDeepika Amyu\nToday\nHii\n12:13 AM\nSorry for delay bro\n12:13 AM\nCan I sent Saturday is there ok for you??\n12:14 AM\nDeepika Amyu\nCan I sent Saturday is there ok for you??\nI didn't understand\n1:06 AM\n6k interest I will sent Saturday Mrng ??\n1:07 AM\nOk so I have a doubt.. when are you planning to pay the whole amount, if u gonna delay.. I will have to convince him so u tell me ok da?\n1:08 AM\nDeepika Amyu\n6k interest I will sent Saturday Mrng ??\nInterest is not an issue..\n1:08 AM\nYou\nOk so I have a doubt.. when are you planning to pay the whole amount, if u gonna delay.. I will have to convince him so u tell me ok da?\nBefore Feb\n1:09 AM\nOk 👌\n1:09 AM\nSuper\n1:09 AM\nBut anything not going well for you, please share with me\n1:10 AM\nI want to be a supportive friend not a burden so u tell on time ok?\n1:10 AM\nYou\nI want to be a supportive friend not a burden so u tell on time ok?\nMessage",
+  "structured_data": {
+    "app": "WhatsApp",
+    "contact_name": "Deepika Amyu",
+    "conversation_topic": "Debt/Loan repayment negotiation",
+    "chat_log": [
+      {
+        "timestamp": "12:13 AM",
+        "sender": "Deepika Amyu",
+        "message": "Hii"
+      },
+      {
+        "timestamp": "12:13 AM",
+        "sender": "Deepika Amyu",
+        "message": "Sorry for delay bro"
+      },
+      {
+        "timestamp": "12:14 AM",
+        "sender": "Deepika Amyu",
+        "message": "Can I sent Saturday is there ok for you??"
+      },
+      {
+        "timestamp": "1:06 AM",
+        "sender": "User",
+        "message": "I didn't understand"
+      },
+      {
+        "timestamp": "1:07 AM",
+        "sender": "Deepika Amyu",
+        "message": "6k interest I will sent Saturday Mrng ??"
+      },
+      {
+        "timestamp": "1:08 AM",
+        "sender": "User",
+        "message": "Ok so I have a doubt.. when are you planning to pay the whole amount, if u gonna delay.. I will have to convince him so u tell me ok da?"
+      },
+      {
+        "timestamp": "1:08 AM",
+        "sender": "User",
+        "message": "Interest is not an issue.."
+      },
+      {
+        "timestamp": "1:09 AM",
+        "sender": "Deepika Amyu",
+        "message": "Before Feb"
+      },
+      {
+        "timestamp": "1:09 AM",
+        "sender": "User",
+        "message": "Ok 👌"
+      },
+      {
+        "timestamp": "1:09 AM",
+        "sender": "User",
+        "message": "Super"
+      },
+      {
+        "timestamp": "1:10 AM",
+        "sender": "User",
+        "message": "But anything not going well for you, please share with me"
+      },
+      {
+        "timestamp": "1:10 AM",
+        "sender": "User",
+        "message": "I want to be a supportive friend not a burden so u tell on time ok?"
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "system_time": "10:15",
+    "network_status": "5G, VoLTE active",
+    "battery_level": "39%",
+    "key_terms": [
+      "6k interest",
+      "Saturday Mrng",
+      "Before Feb"
+    ]
+  }
+}

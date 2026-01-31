@@ -1,0 +1,87 @@
+{
+  "filename": "Screenshot_20251102-201832 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "profile",
+    "cinema",
+    "movies",
+    "film",
+    "social-media",
+    "phone",
+    "mobile",
+    "app",
+    "entertainment",
+    "education",
+    "amadeus",
+    "horror",
+    "psycho",
+    "raging-bull",
+    "leonardo-dicaprio"
+  ],
+  "raw_text": "8:18\n29.2 KB/S VoLTE 5G 35\nartof.cinema\nArt of Cinema\n1,107 posts 1.4M followers 673 following\nSharing my love for cinema\nartofcinemapage@gmail.com\nmubi.com/artofcinema\nartof.cinema Art of Cinema 12.4K members\nFollow Message\nFilm Reccs Wallpapers 100 K Q&A Our Letterboxd\nLife advice every parent should teach their kids\n37.8K\nThis scene from 'Amadeus' still haunts me\n220K\n494K\nBEST HORROR FILMS TO WATCH\nTHIS HALLOWEEN\nHow Hitchcock's 'Psycho' influenced Raging Bull's most brutal scene",
+  "structured_data": {
+    "profile": {
+      "username": "artof.cinema",
+      "display_name": "Art of Cinema",
+      "is_verified": true,
+      "post_count": "1,107",
+      "follower_count": "1.4M",
+      "following_count": "673",
+      "bio": "Sharing my love for cinema",
+      "contact_email": "artofcinemapage@gmail.com",
+      "website_url": "mubi.com/artofcinema",
+      "threads_username": "artof.cinema",
+      "broadcast_channel": {
+        "name": "Art of Cinema",
+        "members": "12.4K"
+      }
+    },
+    "story_highlights": [
+      "Film Reccs",
+      "Wallpapers",
+      "100 K Q&A",
+      "Our Letterboxd"
+    ],
+    "reels_feed": [
+      {
+        "caption": "Life advice every parent should teach their kids",
+        "view_count": "37.8K"
+      },
+      {
+        "caption": "This scene from 'Amadeus' still haunts me",
+        "view_count": "220K"
+      },
+      {
+        "view_count": "494K",
+        "visual_content": "Leonardo DiCaprio"
+      },
+      {
+        "caption": "BEST HORROR FILMS TO WATCH THIS HALLOWEEN"
+      },
+      {
+        "caption": "How Hitchcock's 'Psycho' influenced Raging Bull's most brutal scene"
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "urls": [
+      "mubi.com/artofcinema"
+    ],
+    "emails": [
+      "artofcinemapage@gmail.com"
+    ],
+    "time": "8:18",
+    "battery_level": "35%",
+    "network_status": [
+      "VoLTE",
+      "5G"
+    ],
+    "film_titles_mentioned": [
+      "Amadeus",
+      "Psycho",
+      "Raging Bull"
+    ]
+  }
+}

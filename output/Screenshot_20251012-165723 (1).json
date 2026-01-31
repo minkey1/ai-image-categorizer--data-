@@ -1,0 +1,83 @@
+{
+  "filename": "Screenshot_20251012-165723 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "profile",
+    "business",
+    "wholesale",
+    "clothing",
+    "fashion",
+    "warehouse",
+    "commerce",
+    "china",
+    "guangzhou",
+    "video",
+    "reels",
+    "finance",
+    "textile"
+  ],
+  "raw_text": "4:57\n142 KB/S VoLTE 5G 37\nme.nancy258103\nclothingfactory\n55 posts\n53.1K followers\n7 following\nContact me\nChina WeChat:15322825159\nWhatsApp: +86 15322825159\nme.nancy258103\nFollowed by harshdarji89\nFollow\nMessage\nI am Chinese Clothing wholesale in Guangzhou price less than $0.5\n11.5K\n21.4K\n23.1K\n22.9K\n25K\n33.2K\nEnvoyé à Tissu Congo $0.5X300pcs $150\nSend to Cambodia $0.5X 300pcs\nEnvoyé à Belgique $0.5x300pcs $150\nEnvoyé à Nekia $0.5x300pcs $150\nSend to Myanmar $0.5X300pcs $150",
+  "structured_data": {
+    "profile": {
+      "username": "me.nancy258103",
+      "display_name": "clothingfactory",
+      "post_count": "55",
+      "follower_count": "53.1K",
+      "following_count": "7",
+      "bio": "Contact me\nChina WeChat:15322825159\nWhatsApp: +86 15322825159",
+      "threads_username": "me.nancy258103",
+      "followed_by": [
+        "harshdarji89"
+      ]
+    },
+    "post_previews": [
+      {
+        "view_count": "11.5K",
+        "text_overlay": "I am Chinese Clothing wholesale in Guangzhou price less than $0.5"
+      },
+      {
+        "view_count": "21.4K",
+        "text_overlay": "Envoyé à Tissu Congo $0.5X300pcs $150"
+      },
+      {
+        "view_count": "23.1K",
+        "text_overlay": "Send to Cambodia $0.5X 300pcs"
+      },
+      {
+        "view_count": "22.9K",
+        "text_overlay": "Envoyé à Belgique $0.5x300pcs $150"
+      },
+      {
+        "view_count": "25K",
+        "text_overlay": "Envoyé à Nekia $0.5x300pcs $150"
+      },
+      {
+        "view_count": "33.2K",
+        "text_overlay": "Send to Myanmar $0.5X300pcs $150"
+      }
+    ]
+  },
+  "profile_mentions": [
+    "me.nancy258103",
+    "harshdarji89"
+  ],
+  "additional_metadata": {
+    "wechat": "15322825159",
+    "whatsapp": "+86 15322825159",
+    "location_mentioned": "Guangzhou, China",
+    "shipping_destinations": [
+      "Congo",
+      "Cambodia",
+      "Belgique",
+      "Nekia",
+      "Myanmar"
+    ],
+    "pricing": "$0.5 per piece, $150 for 300 pieces",
+    "status_bar_info": {
+      "time": "4:57",
+      "battery": "37%",
+      "network": "5G"
+    }
+  }
+}

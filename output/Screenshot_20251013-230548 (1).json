@@ -1,0 +1,67 @@
+{
+  "filename": "Screenshot_20251013-230548 (1).webp",
+  "tags": [
+    "screenshot",
+    "career",
+    "LinkedIn",
+    "recruitment",
+    "AI",
+    "prompts",
+    "professional",
+    "jobsearch",
+    "networking",
+    "advice",
+    "productivity"
+  ],
+  "raw_text": "11:05\nJust 7 prompts - and recruiters came to me:\n1/ Profile Scan, Like a Recruiter\n↳ \"Act like a hiring manager in [industry]. Review this LinkedIn profile\nsummary and tell me exactly what's weak, vague, or missing.\"\n2/ Rewrite My Headline for Discovery\n↳ \"Based on my experience in [industry/skills], write a LinkedIn\nheadline that's keyword-rich, clear, and makes me stand out —\nwithout sounding generic.\"\n3/ Summary That Actually Sells Me\n↳ \"Write a compelling LinkedIn summary that highlights my biggest\nwins, unique value, and personality - in 3 short paragraphs.\"\n4/ Experience Section Upgrade\n↳ \"Rewrite these 3 job descriptions using action verbs, measurable\nresults, and keywords recruiters in [industry] actually search for.\"\n5/ Skills Optimizer Prompt\n↳ \"List the top 10 LinkedIn skills I should add for someone trying to\nget hired as a [target role] — based on what hiring managers look\nfor.\"\n6/ Comment Strategy for Visibility\n↳ \"Give me a 7-day plan to comment on posts in my industry that\nraises my visibility, attracts profile visits, and builds credibility.\"\n7/ Turn Me Into a Thought Leader (Even If I'm New)\n↳ \" Write 5 post ideas that share insights, lessons, or tips from my\ncareer so I can show up as credible without sounding like I'm\nbragging.\nFREE (Google) Courses you will regret not taking in 2025.",
+  "structured_data": {
+    "title": "Just 7 prompts - and recruiters came to me:",
+    "content_list": [
+      {
+        "index": "1/",
+        "topic": "Profile Scan, Like a Recruiter",
+        "prompt": "Act like a hiring manager in [industry]. Review this LinkedIn profile summary and tell me exactly what’s weak, vague, or missing."
+      },
+      {
+        "index": "2/",
+        "topic": "Rewrite My Headline for Discovery",
+        "prompt": "Based on my experience in [industry/skills], write a LinkedIn headline that’s keyword-rich, clear, and makes me stand out — without sounding generic."
+      },
+      {
+        "index": "3/",
+        "topic": "Summary That Actually Sells Me",
+        "prompt": "Write a compelling LinkedIn summary that highlights my biggest wins, unique value, and personality — in 3 short paragraphs."
+      },
+      {
+        "index": "4/",
+        "topic": "Experience Section Upgrade",
+        "prompt": "Rewrite these 3 job descriptions using action verbs, measurable results, and keywords recruiters in [industry] actually search for."
+      },
+      {
+        "index": "5/",
+        "topic": "Skills Optimizer Prompt",
+        "prompt": "List the top 10 LinkedIn skills I should add for someone trying to get hired as a [target role] — based on what hiring managers look for."
+      },
+      {
+        "index": "6/",
+        "topic": "Comment Strategy for Visibility",
+        "prompt": "Give me a 7-day plan to comment on posts in my industry that raises my visibility, attracts profile visits, and builds credibility."
+      },
+      {
+        "index": "7/",
+        "topic": "Turn Me Into a Thought Leader (Even If I’m New)",
+        "prompt": "Write 5 post ideas that share insights, lessons, or tips from my career — so I can show up as credible without sounding like I’m bragging."
+      }
+    ],
+    "footer": "FREE (Google) Courses you will regret not taking in 2025."
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "year_mentioned": "2025",
+    "phone_status": {
+      "time": "11:05",
+      "battery": "66%",
+      "network": "5G, VOLTE"
+    }
+  }
+}

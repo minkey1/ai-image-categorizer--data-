@@ -1,0 +1,69 @@
+{
+  "filename": "Screenshot_20251025-122458 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "profile",
+    "pet",
+    "animal",
+    "cat",
+    "dog",
+    "rabbit",
+    "bird",
+    "reels",
+    "marketing",
+    "influencer",
+    "socialmedia",
+    "education"
+  ],
+  "raw_text": "12:24\n165 KB/S\nVoLTE\n5G\n89\nluxepetita\nLuxePet\n245 posts\n17.9K followers\n10 following\nLuxePetITA\nMaking Pet Parenting Easier & Smarter\nEducational Reels 🎬 + Premium Products 🛍️\n• Brand Collaborations Welcome\nlinktr.ee/LuxePetITA\nFollow\nMessage\nCREATURE\n11.3K\nPROVOKED\n8,108\n11.1K\nJust watched\n92.9K\n5,001\n34.8K\nIT'S YOUR",
+  "structured_data": {
+    "profile": {
+      "username": "luxepetita",
+      "display_name": "LuxePet",
+      "post_count": "245",
+      "follower_count": "17.9K",
+      "following_count": "10",
+      "bio": "LuxePetITA\nMaking Pet Parenting Easier & Smarter\nEducational Reels 🎬 + Premium Products 🛍️\n• Brand Collaborations Welcome",
+      "external_link": "linktr.ee/LuxePetITA"
+    },
+    "reels_stats": [
+      {
+        "title_overlay": "CREATURE",
+        "view_count": "11.3K"
+      },
+      {
+        "title_overlay": "PROVOKED",
+        "view_count": "8,108"
+      },
+      {
+        "title_overlay": null,
+        "view_count": "11.1K"
+      },
+      {
+        "title_overlay": "Just watched",
+        "view_count": "92.9K"
+      },
+      {
+        "title_overlay": null,
+        "view_count": "5,001"
+      },
+      {
+        "title_overlay": null,
+        "view_count": "34.8K"
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "urls": [
+      "https://linktr.ee/LuxePetITA"
+    ],
+    "hashtags": [],
+    "phone_numbers": [],
+    "emails": [],
+    "time_visible": "12:24",
+    "battery_percentage": "89%",
+    "network_status": "5G, VoLTE"
+  }
+}

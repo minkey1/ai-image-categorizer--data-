@@ -1,0 +1,47 @@
+{
+  "filename": "Screenshot_20251015-121133 (1).webp",
+  "tags": [
+    "screenshot",
+    "text",
+    "Wikipedia",
+    "article-creation",
+    "moderation",
+    "SEO",
+    "quality-control",
+    "web-governance",
+    "instructional"
+  ],
+  "raw_text": "For an average editor, it is not possible or safe to manually remove the __NOINDEX__ tag from a newly created Wikipedia article. The tag is part of a deliberate system to ensure quality control, and attempts to bypass this process are likely to be reverted and may lead to disciplinary action. 🔗\n\nWhy manual removal is not possible or safe\n\n• System-enforced: Wikipedia automatically adds the __NOINDEX__ tag to all new mainspace articles. It is not a simple template that can be deleted. While the tag can be technically edited, the system overrides any non-compliant changes.\n\n• Permissions required: Only experienced volunteer editors with \"new page reviewer\" permissions can manually remove the tag before the automated 90-day period ends. This is a trusted role within the community.\n\n• Discourages spam: The primary purpose of the waiting period is to discourage \"spammy\" or low-quality content from quickly getting high search rankings.\n\n• Risk of deletion: Attempting to force an article to be indexed by circumventing the process is a red flag. If indexed by circumventing the process is a red flag. If",
+  "structured_data": {
+    "title": "Why manual removal is not possible or safe",
+    "subject": "Removing the __NOINDEX__ tag from Wikipedia articles",
+    "key_points": [
+      {
+        "header": "System-enforced",
+        "details": "Wikipedia automatically adds the tag to new mainspace articles. The system overrides manual edits to remove it."
+      },
+      {
+        "header": "Permissions required",
+        "details": "Only 'new page reviewers' can remove the tag before the automated 90-day period ends."
+      },
+      {
+        "header": "Discourages spam",
+        "details": "The waiting period prevents low-quality or spam content from immediately achieving high search engine rankings."
+      },
+      {
+        "header": "Risk of deletion",
+        "details": "Attempting to circumvent the process is seen as a 'red flag' and can lead to article deletion or disciplinary action."
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "technical_terms": [
+      "__NOINDEX__",
+      "mainspace articles",
+      "new page reviewer"
+    ],
+    "waiting_period": "90 days",
+    "contains_link_icon": true
+  }
+}

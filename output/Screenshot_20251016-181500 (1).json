@@ -1,0 +1,51 @@
+{
+  "filename": "Screenshot_20251016-181500 (1).webp",
+  "tags": [
+    "screenshot",
+    "photo",
+    "instagram",
+    "education",
+    "graduation",
+    "certificate",
+    "award",
+    "professor",
+    "student",
+    "SRM",
+    "achievement",
+    "gratitude"
+  ],
+  "raw_text": "6:14 \n1.23 MB/s VoLTE 5G 33\nAlmost a decade of holding the position as \"Head of the department\"is not an easy job. You have helped and encouraged many students like us to get into what they are thriving for. It is such an honour and pleasure for mine. Thank you so much Dr rajesh❤️🫂\nSRM INSTITUTE OF SCIENCE AND TECHNOLOGY\nFaculty of Science and Humanities\nRank Certificate\nCONVOCATION-2022\nRANK\nSRM\nSRM",
+  "structured_data": {
+    "post_details": {
+      "platform": "Instagram Story",
+      "caption": "Almost a decade of holding the position as \"Head of the department\"is not an easy job. You have helped and encouraged many students like us to get into what they are thriving for. It is such an honour and pleasure for mine. Thank you so much Dr rajesh❤️🫂"
+    },
+    "institution_info": {
+      "university_name": "SRM Institute of Science and Technology",
+      "faculty": "Faculty of Science and Humanities"
+    },
+    "award_details": {
+      "award_type": "Rank Certificate",
+      "event": "Convocation 2022",
+      "award_level": "Rank Holder"
+    },
+    "people": {
+      "mentor": "Dr. Rajesh",
+      "mentor_title": "Head of the Department"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "phone_status_bar": {
+      "time": "6:14",
+      "network": "5G VoLTE",
+      "battery_percentage": "33%",
+      "data_speed": "1.23 MB/s"
+    },
+    "emojis": [
+      "❤️",
+      "🫂"
+    ],
+    "year_mentioned": "2022"
+  }
+}

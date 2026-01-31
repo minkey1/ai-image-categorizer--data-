@@ -1,0 +1,68 @@
+{
+  "filename": "Screenshot_20251113-051510 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "mobile",
+    "profile",
+    "socialmedia",
+    "business",
+    "startup",
+    "developer",
+    "entrepreneur",
+    "tech",
+    "marketing",
+    "sports",
+    "cricket"
+  ],
+  "raw_text": "5:15\n43.9 KB/s\nVoLTE\n5G\n48\nkartikeysinggh\nKartikey singh\n249 posts\n23.2K followers\n438 following\nPersonal blog\nBuilding MVPs for startups.\n🚀|Founder - @flutteryourway\nLearn how i get clients 👇\nwww.appdevizer.com\nkartikeysinggh\nFollow\nMessage\ncommunity\nNews\nQnA\nYou just need these 3 hobbies\n7,938\nI because used stutter to nervously in interviews\n30.5K\nVirat Kohli method\n30.7K\nFinished downloading\nHow a 2K Project\nNo skills",
+  "structured_data": {
+    "profile": {
+      "name": "Kartikey singh",
+      "username": "kartikeysinggh",
+      "is_verified": true,
+      "category": "Personal blog",
+      "stats": {
+        "posts": "249",
+        "followers": "23.2K",
+        "following": "438"
+      },
+      "bio": "Building MVPs for startups.\n🚀|Founder - @flutteryourway\nLearn how i get clients 👇",
+      "website": "www.appdevizer.com",
+      "threads_username": "kartikeysinggh"
+    },
+    "story_highlights": [
+      "community",
+      "News",
+      "QnA"
+    ],
+    "reels": [
+      {
+        "caption": "You just need these 3 hobbies",
+        "views": "7,938"
+      },
+      {
+        "caption": "I because used stutter to nervously in interviews",
+        "views": "30.5K"
+      },
+      {
+        "caption": "Virat Kohli method",
+        "views": "30.7K"
+      }
+    ]
+  },
+  "profile_mentions": [
+    "@flutteryourway"
+  ],
+  "additional_metadata": {
+    "urls": [
+      "www.appdevizer.com"
+    ],
+    "system_info": {
+      "time": "5:15",
+      "network": "5G, VoLTE",
+      "battery": "48%"
+    },
+    "notification": "Finished downloading"
+  }
+}

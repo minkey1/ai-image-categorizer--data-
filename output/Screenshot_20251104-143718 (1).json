@@ -1,0 +1,48 @@
+{
+  "filename": "Screenshot_20251104-143718 (1).webp",
+  "tags": [
+    "screenshot",
+    "wikipedia",
+    "browser",
+    "mobile",
+    "education",
+    "management",
+    "jims",
+    "wiki-editing",
+    "deletion",
+    "orphan-article"
+  ],
+  "raw_text": "2:37\n0.00 KB/s\nVoLTE\n5G\n66\nen.wikipedia.org/wiki/Jaga\n+\n4\nPage issues\nThis article is an orphan, as no other articles link to it. Please introduce links to this page from related articles. (November 2023)\nAn editor has nominated this article for deletion.\nYou are welcome to participate in the deletion discussion, which will decide whether to keep it.\nFeel free to improve the article, but do not remove this notice before the discussion is closed. For more information, see the guide to deletion.\nFind sources: \"Jagan Institute of Management Studies Rohini\" – news · newspapers · books · scholar · JSTOR",
+  "structured_data": {
+    "title": "Page issues",
+    "article_subject": "Jagan Institute of Management Studies Rohini",
+    "issues_reported": [
+      {
+        "issue_type": "Orphan",
+        "details": "No other articles link to it.",
+        "action_required": "Please introduce links to this page from related articles.",
+        "timestamp": "November 2023"
+      },
+      {
+        "issue_type": "Nomination for deletion",
+        "details": "An editor has nominated this article for deletion.",
+        "status": "Discussion ongoing",
+        "instructions": "Participate in the deletion discussion; feel free to improve the article but do not remove the notice."
+      }
+    ],
+    "resource_links": [
+      "news",
+      "newspapers",
+      "books",
+      "scholar",
+      "JSTOR"
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "url": "https://en.wikipedia.org/wiki/Jagan_Institute_of_Management_Studies_Rohini",
+    "time_in_screenshot": "2:37",
+    "battery_percentage": "66%",
+    "network_status": "5G, VoLTE"
+  }
+}

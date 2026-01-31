@@ -1,0 +1,67 @@
+{
+  "filename": "Screenshot_20251013-143422 (1).webp",
+  "tags": [
+    "screenshot",
+    "imdb",
+    "mobile",
+    "browser",
+    "entertainment",
+    "production",
+    "writers",
+    "cast",
+    "cinematographers",
+    "podcast",
+    "media",
+    "internet"
+  ],
+  "raw_text": "2:34\n17.1 KB/s\nVoLTE 4G\n69\nX\nFake Podcast (...\nm.imdb.com\nWriters\nNitesh Tiwari\n4 episodes • 2025\nPrabal Bhat\nSatish Ray\nAbhishek Singh\nCast\nSatish Ray\nSelf\nAbhishek Singh\nProducer\nCinematographers\nRajveer Shekhawat\n4 episodes • 2025\nAkshat Aman",
+  "structured_data": {
+    "page_title": "Fake Podcast (...)",
+    "source_url": "m.imdb.com",
+    "credits": {
+      "Writers": [
+        {
+          "name": "Nitesh Tiwari",
+          "details": "4 episodes • 2025"
+        },
+        {
+          "name": "Prabal Bhat"
+        },
+        {
+          "name": "Satish Ray"
+        },
+        {
+          "name": "Abhishek Singh"
+        }
+      ],
+      "Cast": [
+        {
+          "name": "Satish Ray",
+          "character_or_role": "Self"
+        },
+        {
+          "name": "Abhishek Singh"
+        }
+      ],
+      "Producer": [],
+      "Cinematographers": [
+        {
+          "name": "Rajveer Shekhawat",
+          "details": "4 episodes • 2025"
+        },
+        {
+          "name": "Akshat Aman"
+        }
+      ]
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "system_time": "2:34",
+    "battery_level": "69%",
+    "network_info": "VoLTE 4G",
+    "data_speed": "17.1 KB/s",
+    "release_year": "2025",
+    "browser": "Mobile Browser"
+  }
+}

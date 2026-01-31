@@ -1,0 +1,54 @@
+{
+  "filename": "Screenshot_20251007-201812 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "story",
+    "text",
+    "advice",
+    "communication",
+    "mentalhealth",
+    "quote",
+    "dark",
+    "support"
+  ],
+  "raw_text": "8:18\n1.90 KB/s\nVoLTE\n5G\n53\nabyssaladvice 4h\n2XS • Woops (Winter Arc)\nIf you’ve ever wanted to talk, but I missed your message reach out again.\nThe void is loud, and sometimes voices get lost in the echo.\nI read more than you think.\nI see more than you know.\nIf something sits heavy on your mind or your soul speak.\nWhether it’s a thought, a wound, or a question... my door remains open.\n- Abysiel\nSend message",
+  "structured_data": {
+    "platform": "Instagram",
+    "post_type": "Story",
+    "author_details": {
+      "username": "abyssaladvice",
+      "display_name": "abyssaladvice",
+      "timestamp": "4h"
+    },
+    "audio_info": {
+      "artist": "2XS",
+      "track": "Woops (Winter Arc)"
+    },
+    "content": {
+      "main_message": "If you’ve ever wanted to talk, but I missed your message reach out again. The void is loud, and sometimes voices get lost in the echo. I read more than you think. I see more than you know. If something sits heavy on your mind or your soul speak. Whether it’s a thought, a wound, or a question... my door remains open.",
+      "signature": "Abysiel"
+    },
+    "ui_elements": {
+      "status_bar": {
+        "time": "8:18",
+        "data_speed": "1.90 KB/s",
+        "network": "VoLTE 5G",
+        "battery": "53%"
+      },
+      "interactions": [
+        "Send message",
+        "Like",
+        "Share"
+      ]
+    }
+  },
+  "profile_mentions": [
+    "abyssaladvice"
+  ],
+  "additional_metadata": {
+    "music_track": "2XS - Woops (Winter Arc)",
+    "aesthetic_theme": "Dark, somber, supportive",
+    "message_intent": "Call to action for followers to re-engage or reach out for support."
+  }
+}

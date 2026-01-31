@@ -1,0 +1,61 @@
+{
+  "filename": "Screenshot_20251102-102300 (1).webp",
+  "tags": [
+    "screenshot",
+    "email",
+    "finance",
+    "payment",
+    "receipt",
+    "razorpay",
+    "transaction",
+    "upi",
+    "smartphone"
+  ],
+  "raw_text": "Abhiesshek Chatur... 10:16 AM\nto me\nIt looks like this message is in English\nTranslate to Hindi\n---------- Forwarded message ----------\nFrom: 1 PERCENT GROUP <no-reply@razorpay.com>\nDate: Sat, 1 Nov, 2025, 3:08 pm\nSubject: Payment receipt for your successful transaction on Millions In Days Mastery\nTo: <abhiesshekchaturvedi@gmail.com>\n1 PERCENT GROUP\n₹4,999.00\nPaid Successfully\nPayment Id\npay_RaQbq0SI5R0ArY\nPaid On\n1st Nov, 2025\nMethod\nc.abhishek15@okicici\nUPI\nMobile Number\n+917032273333\nEmail\nabhiesshekchaturvedi@g\nmail.com\nName\nAbhishek Chaturvedi\nPhone\n07032273333\nFor any product or service related queries, please contact\n1 PERCENT GROUP support.\nPowered by Razorpay\nIf you do not wish to receive such e-mail communication in the future, Click here\n1 PERCENT GROUP\nGSTIN: 08CJRPJ3017L1ZU\nRazorpay\nInvoicing and payments powered by Razorpay\nPayment Receipt Transaction Reference: pay_RaQbq0SI5R0ArY\nThis is a payment receipt for your transaction on Millions In Days Mastery\nAMOUNT PAID ₹ 4,999.00\nISSUED TO\nabhiesshekchaturvedi@gmail.com\n+917032273333\nPAID ON\n1 Nov 2025\nDESCRIPTION\nUNIT PRICE\nQTY\nAMOUNT\nAmount\n₹ 4,999.00\n1\n₹ 4,999.00\nReceipt pay_R...Paid).pdf.pdf",
+  "structured_data": {
+    "document_type": "Payment Receipt",
+    "merchant_name": "1 PERCENT GROUP",
+    "merchant_gstin": "08CJRPJ3017L1ZU",
+    "platform": "Razorpay",
+    "transaction_details": {
+      "payment_id": "pay_RaQbq0SI5R0ArY",
+      "amount_paid": "₹4,999.00",
+      "status": "Paid Successfully",
+      "date": "Sat, 1 Nov, 2025",
+      "time": "3:08 pm",
+      "payment_method": "UPI (c.abhishek15@okicici)",
+      "product_name": "Millions In Days Mastery"
+    },
+    "customer_details": {
+      "name": "Abhishek Chaturvedi",
+      "email": "abhiesshekchaturvedi@gmail.com",
+      "phone_number": "+917032273333",
+      "alternate_phone": "07032273333"
+    },
+    "email_metadata": {
+      "sender_display_name": "Abhiesshek Chaturvedi",
+      "sender_email": "no-reply@razorpay.com (via forward)",
+      "forwarded_to": "abhiesshekchaturvedi@gmail.com"
+    }
+  },
+  "profile_mentions": [
+    "c.abhishek15@okicici"
+  ],
+  "additional_metadata": {
+    "emails": [
+      "no-reply@razorpay.com",
+      "abhiesshekchaturvedi@gmail.com"
+    ],
+    "phone_numbers": [
+      "+917032273333",
+      "07032273333"
+    ],
+    "dates": [
+      "Sat, 1 Nov, 2025",
+      "1st Nov, 2025",
+      "1 Nov 2025"
+    ],
+    "gstin": "08CJRPJ3017L1ZU",
+    "attachment_name": "Receipt pay_R...Paid).pdf.pdf"
+  }
+}

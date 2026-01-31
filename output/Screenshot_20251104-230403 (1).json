@@ -1,0 +1,60 @@
+{
+  "filename": "Screenshot_20251104-230403 (1).webp",
+  "tags": [
+    "screenshot",
+    "mobile",
+    "google-meet",
+    "videocall",
+    "app",
+    "interface",
+    "ui",
+    "participants",
+    "emojis",
+    "darkmode",
+    "logo",
+    "communication"
+  ],
+  "raw_text": "11:04\n14.9 KB/S\nVoLTE\n5G\n21\nnsf-dtnn-dqe\nRudra\nMAINAK\n</LUCIFER>",
+  "structured_data": {
+    "app_name": "Google Meet",
+    "meeting_code": "nsf-dtnn-dqe",
+    "participants": [
+      {
+        "name": "Rudra",
+        "has_video": false,
+        "avatar_description": "Golden 'R' letter with a crown inside a laurel wreath"
+      },
+      {
+        "name": "MAINAK",
+        "has_video": false,
+        "avatar_description": "Circular matrix-style pattern with the text '</LUCIFER>' in the center"
+      },
+      {
+        "type": "self_or_other_minimized",
+        "microphone_status": "muted",
+        "avatar_description": "Photo of a person"
+      }
+    ],
+    "device_status": {
+      "time": "11:04",
+      "data_speed": "14.9 KB/s",
+      "network_type": "5G VoLTE",
+      "battery_level": "21%",
+      "is_charging": true
+    },
+    "available_reactions": [
+      "sparkling heart",
+      "thumbs up",
+      "party popper",
+      "clapping hands",
+      "face with tears of joy",
+      "astonished face",
+      "crying face",
+      "thinking face"
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "meeting_url_segment": "nsf-dtnn-dqe"
+  }
+}

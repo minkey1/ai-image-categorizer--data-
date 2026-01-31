@@ -1,0 +1,43 @@
+{
+  "filename": "Screenshot_20251015-231451 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "chat",
+    "dm",
+    "mobile",
+    "hindi",
+    "slang",
+    "conversation",
+    "social_media",
+    "android"
+  ],
+  "raw_text": "11:14\nV. Amru...\namruta.va...\nBhai le isse pehle block ho jaaye\n🤣 🤣\nTu series hai\nSeroha\nSeriou\nLawde\nSerious bc\nTu unseries\nUnseroha\nUnserious bc\n🤣 🤣\nA 😭😭\namruta.varshiniii turned off disappearing messages. Turn on\nAb so jaa\nByee\nGhanta, khauf aur kaafi anya reason se neend udd gyi hai\nAnyways bye\nMessage...",
+  "structured_data": {
+    "platform": "Instagram",
+    "chat_participants": [
+      {
+        "display_name": "V. Amru...",
+        "username_prefix": "amruta.va",
+        "full_username": "amruta.varshiniii"
+      },
+      {
+        "role": "current_user",
+        "name": "unknown"
+      }
+    ],
+    "system_messages": [
+      "amruta.varshiniii turned off disappearing messages."
+    ],
+    "conversation_content": "The chat features informal banter in Hindi and English, including slang terms and typo corrections. The contact 'amruta.varshiniii' ends the conversation by telling the user to sleep."
+  },
+  "profile_mentions": [
+    "amruta.varshiniii"
+  ],
+  "additional_metadata": {
+    "time_displayed": "11:14",
+    "battery_level": "86%",
+    "network_status": "4.5G, VOLTE",
+    "data_speed": "4.38 KB/s"
+  }
+}

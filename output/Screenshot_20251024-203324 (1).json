@@ -1,0 +1,40 @@
+{
+  "filename": "Screenshot_20251024-203324 (1).webp",
+  "tags": [
+    "screenshot",
+    "graphic",
+    "anniversary",
+    "jewelry",
+    "business",
+    "celebration",
+    "logo",
+    "typography",
+    "gold",
+    "maroon"
+  ],
+  "raw_text": "8:33\n319 KB/S VoLTE 5G 36\nJR\nJAI RAJENDRA\nJEWEL PALACE\n1st\nHappy Anniversary",
+  "structured_data": {
+    "business_name": "Jai Rajendra Jewel Palace",
+    "occasion": "1st Anniversary",
+    "graphic_elements": [
+      "JR Logo with crown",
+      "Large decorative '1st'",
+      "Stylized 'Happy Anniversary' text",
+      "Heart balloons",
+      "Intricate corner borders",
+      "Faded background image of stone carvings/architecture"
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "status_bar_info": {
+      "time": "8:33",
+      "data_speed": "319 KB/S",
+      "connectivity": [
+        "VoLTE",
+        "5G"
+      ],
+      "battery_percentage": "36%"
+    }
+  }
+}

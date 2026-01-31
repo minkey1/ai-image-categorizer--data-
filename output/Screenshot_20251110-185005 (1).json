@@ -1,0 +1,93 @@
+{
+  "filename": "Screenshot_20251110-185005 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "profile",
+    "education",
+    "technology",
+    "AI",
+    "startup",
+    "marketing",
+    "avatar",
+    "content-creation",
+    "social-media",
+    "mobile-app",
+    "person",
+    "video",
+    "reels",
+    "software",
+    "astronaut",
+    "horse",
+    "dog"
+  ],
+  "raw_text": "6:50\n88.9 KB/s\nVoLTE\n4G\n69\nbetheunicorn.in\nAl with Arpit\n119 posts\n6,283 followers\n263 following\nEducation\nAI Builder | Startup Founder\nScaling faceless brands with avatars\nTurning ideas -> viral short-form content\nzockto.com\nbetheunicorn.in\nFollow\nMessage\nbolt.diy\n000 plus AI application, the\nopen source platform that\nvideo and audio\nThis new open source\n2030\nby 2030\nBy twenty thirty AI will\nMarketing Solutions That Drive Results\nVeo3\nChat on WhatsApp\nVery responsive\nVeo3 to create videos",
+  "structured_data": {
+    "profile": {
+      "username": "betheunicorn.in",
+      "name": "Al with Arpit",
+      "category": "Education",
+      "posts_count": 119,
+      "followers_count": 6283,
+      "following_count": 263,
+      "bio": "AI Builder | Startup Founder\nScaling faceless brands with avatars\nTurning ideas -> viral short-form content",
+      "website": "zockto.com",
+      "threads_link": "betheunicorn.in"
+    },
+    "grid_content": [
+      {
+        "type": "video",
+        "is_pinned": true,
+        "text_overlay": "bolt.diy",
+        "description": "open source platform that"
+      },
+      {
+        "type": "image_grid",
+        "is_pinned": true,
+        "text_overlay": "000 plus AI application, the"
+      },
+      {
+        "type": "reel",
+        "visuals": "astronaut on moon/mars",
+        "text_overlay": "video and audio"
+      },
+      {
+        "type": "reel",
+        "visuals": "man on horse",
+        "text_overlay": "This new open source"
+      },
+      {
+        "type": "video",
+        "visuals": "dog running through poles"
+      },
+      {
+        "type": "reel",
+        "text_overlay": "2030 by 2030 By twenty thirty AI will"
+      },
+      {
+        "type": "reel",
+        "text_overlay": "Marketing Solutions That Drive Results"
+      },
+      {
+        "type": "reel",
+        "text_overlay": "Veo3 Veo3 to create videos"
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "urls": [
+      "zockto.com",
+      "betheunicorn.in"
+    ],
+    "phone_status": {
+      "time": "6:50",
+      "network_speed": "88.9 KB/s",
+      "battery_level": "69%",
+      "signal_type": "4G VoLTE"
+    },
+    "ad_overlays": [
+      "Chat on WhatsApp - Very responsive"
+    ]
+  }
+}

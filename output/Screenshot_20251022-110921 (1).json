@@ -1,0 +1,61 @@
+{
+  "filename": "Screenshot_20251022-110921 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "profile",
+    "social",
+    "media",
+    "stories",
+    "youtube",
+    "reels",
+    "videos",
+    "posts",
+    "followers",
+    "following",
+    "account",
+    "interface",
+    "app",
+    "mobile",
+    "digital"
+  ],
+  "raw_text": "11:09\n176 KB/S\nVoLTE 4.5G\n87\nareyouinthestory\nDade\n1,031 posts\n13.3K followers\n405 following\nI Tell Epic Stories.\nMy YouTube Channel 👇\nyoutube.com/@dade1\nFollowed by arpitbala19\nFollowing\nMessage\nJust watched\n2,668\n7,299\n6.6M\n21.6K\n15.5K\n8,301\nSTYLISH RAJNIKANT SUN GLASSES\nSTD ISD PCO",
+  "structured_data": {
+    "profile": {
+      "username": "areyouinthestory",
+      "display_name": "Dade",
+      "post_count": "1,031",
+      "follower_count": "13.3K",
+      "following_count": "405",
+      "bio": "I Tell Epic Stories. My YouTube Channel 👇",
+      "external_link": "youtube.com/@dade1",
+      "followed_by": [
+        "arpitbala19"
+      ],
+      "following_status": "Following"
+    },
+    "grid_preview_view_counts": [
+      "2,668",
+      "7,299",
+      "6.6M",
+      "21.6K",
+      "15.5K",
+      "8,301"
+    ]
+  },
+  "profile_mentions": [
+    "@dade1",
+    "arpitbala19"
+  ],
+  "additional_metadata": {
+    "urls": [
+      "youtube.com/@dade1"
+    ],
+    "system_stats": {
+      "time": "11:09",
+      "data_speed": "176 KB/S",
+      "network": "VoLTE 4.5G",
+      "battery_percentage": "87"
+    }
+  }
+}

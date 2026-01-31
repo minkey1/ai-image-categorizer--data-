@@ -1,0 +1,52 @@
+{
+  "filename": "Screenshot_20251016-181510 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "profile",
+    "photography",
+    "fashion",
+    "modeling",
+    "actor",
+    "branding",
+    "event",
+    "leather",
+    "motorcycle",
+    "suit",
+    "lifestyle"
+  ],
+  "raw_text": "6:15\nan_instinct\nBELFORD ENGLAND SINCE 1989 GENUINE LEATHER\nIRIS 25 ENCHANTED\nface of TAMIL NADU\n14TH EDITION OF IRIS FACE OF CHENNAI\nMEET OUR SPECIAL GUEST\nMR. K N MANIKANDAN ACTOR, WRITER, MODEL AND FILMMAKER\nJoin us for a Star-Studded Evening as we crown the stars of tomorrow!\n27TH SEPTEMBER, 2023 | 6 PM THE ROYAL BALLROOM Radisson Blu by GRT GST Road, Meenambakkam, Chennai\nROYAL ENFIELD\nENFIELD",
+  "structured_data": {
+    "profile_info": {
+      "username": "an_instinct"
+    },
+    "event_details": {
+      "event_name": "14th Edition of Iris Face of Chennai",
+      "special_guest": "Mr. K N Manikandan",
+      "date": "27th September, 2023",
+      "time": "6 PM",
+      "location": "The Royal Ballroom, Radisson Blu by GRT, GST Road, Meenambakkam, Chennai"
+    },
+    "brands_featured": [
+      "Belford England",
+      "Royal Enfield",
+      "Naturals",
+      "Radisson Blu"
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "phone_status": {
+      "time": "6:15",
+      "network": "5G",
+      "battery": "33%"
+    },
+    "dates": [
+      "27TH SEPTEMBER, 2023"
+    ],
+    "locations": [
+      "Chennai",
+      "Radisson Blu by GRT"
+    ]
+  }
+}

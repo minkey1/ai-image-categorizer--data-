@@ -1,0 +1,58 @@
+{
+  "filename": "Screenshot_20251021-094006 (1).webp",
+  "tags": [
+    "memorial",
+    "obituary",
+    "document",
+    "flyer",
+    "christian",
+    "sholinghur",
+    "prayer",
+    "shanthi",
+    "family",
+    "education"
+  ],
+  "raw_text": "For to me to live is Christ, and to die is gain..\nPhilippians 1: 21\nIN LOVING MEMORY OF\nShanthi\nB.Sc, B. Lit., M.A, B. Ed.\n16 June, 1972 - 13 Oct, 2025\nPrayer for the departed soul will be held on:\n25 Oct, 2025\nSaturday, 05.30 pm\nRAJAMANI MAHAL, OPP. C.S.I CHURCH,\nCHITTOOR ROAD, SHOLINGHUR.\nCONTACT : 9500427955\nFondly Remembered by:\nHusband: J. Stanley Deva Priyam\nSon: S. Ebenezer\nDaughter: S. Praislin Gifty\nFamily Members, friends and Relatives..",
+  "structured_data": {
+    "deceased_info": {
+      "name": "Shanthi",
+      "qualifications": "B.Sc, B. Lit., M.A, B. Ed.",
+      "birth_date": "16 June, 1972",
+      "death_date": "13 Oct, 2025"
+    },
+    "event_info": {
+      "event_type": "Prayer for the departed soul",
+      "date": "25 Oct, 2025",
+      "day": "Saturday",
+      "time": "05.30 pm",
+      "venue": "RAJAMANI MAHAL, OPP. C.S.I CHURCH, CHITTOOR ROAD, SHOLINGHUR.",
+      "contact": "9500427955"
+    },
+    "family_members": {
+      "husband": "J. Stanley Deva Priyam",
+      "son": "S. Ebenezer",
+      "daughter": "S. Praislin Gifty",
+      "others": "Family Members, friends and Relatives.."
+    },
+    "religious_reference": {
+      "verse_text": "For to me to live is Christ, and to die is gain..",
+      "citation": "Philippians 1: 21"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "phone_number": "9500427955",
+    "dates": [
+      "16 June, 1972",
+      "13 Oct, 2025",
+      "25 Oct, 2025"
+    ],
+    "location": "Sholinghur, Tamil Nadu, India",
+    "symbols_visible": [
+      "Star of David",
+      "Menorah",
+      "Olive branches",
+      "Cross (background)"
+    ]
+  }
+}

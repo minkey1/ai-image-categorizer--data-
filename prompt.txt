@@ -1,0 +1,26 @@
+Analyze this image comprehensively and provide a structured JSON response with the following:
+
+1. **tags**: A list of one-word descriptive tags that categorize this image. Include tags like:
+   - Type of content (screenshot, photo, selfie, meme, etc.)
+   - Platform if visible (instagram, twitter, facebook, etc.)
+   - Visible objects (dog, cat, computer, phone, etc.)
+   - Activities or themes visible in the image or text
+   - Any topics mentioned in text (finance, gaming, sports, etc.)
+   - Be thorough and extract tags from ALL visible content
+
+2. **raw_text**: Extract ALL readable text from the image verbatim. Include everything you can read.
+
+3. **structured_data**: If this is a social media profile, post, or document with structured information, extract key details like:
+   - For profiles: name, username, bio, follower count, following count, post count, etc.
+   - For posts: author, caption, likes, comments, timestamp, etc.
+   - For documents: title, headers, important fields, etc.
+   - Use descriptive keys and organize logically
+
+4. **profile_mentions**: A list of all profile mentions found (like @username format). Extract all @ mentions.
+
+5. **additional_metadata**: Any other relevant information like URLs, hashtags, phone numbers, emails, dates, etc.
+
+Return ONLY a valid JSON object with these exact keys: tags, raw_text, structured_data, profile_mentions, additional_metadata.
+If a section has no data, use an empty list [] or empty object {}.
+
+Be thorough and extract as much information as possible from the image.

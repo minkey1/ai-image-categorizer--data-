@@ -1,0 +1,31 @@
+{
+  "filename": "Screenshot_20251029-110953 (1).webp",
+  "tags": [
+    "screenshot",
+    "social media",
+    "comment",
+    "movie",
+    "malayalam",
+    "cinema",
+    "entertainment",
+    "text"
+  ],
+  "raw_text": "Movie name ~ Odum kuthira chadum kuthira 🤌 ❤️🩹\nReply\nView 25 more replies",
+  "structured_data": {
+    "post_type": "comment",
+    "comment_content": "Movie name ~ Odum kuthira chadum kuthira 🤌 ❤️🩹",
+    "actions": [
+      "Reply"
+    ],
+    "reply_count_text": "View 25 more replies",
+    "reply_count": 25
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "movie_title_mentioned": "Odum kuthira chadum kuthira",
+    "emojis": [
+      "🤌",
+      "❤️🩹"
+    ]
+  }
+}

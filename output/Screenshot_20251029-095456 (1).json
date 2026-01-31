@@ -1,0 +1,35 @@
+{
+  "filename": "Screenshot_20251029-095456 (1).webp",
+  "tags": [
+    "advertisement",
+    "infographic",
+    "googlemaps",
+    "apple",
+    "yandex",
+    "facebook",
+    "instagram",
+    "whatsapp",
+    "marketing",
+    "technology",
+    "service",
+    "turkish"
+  ],
+  "raw_text": "Google Maps\nGoogle Harita Kayıt Servisi\nGoogle'ın istediği kalite politikalarına uygun harita yapıyoruz. Güvensiz doğrulama yöntemleri ( Yerel Rehber, Sms, Mail, Telefon araması ) ile doğrulama yapmıyoruz.\nG Google Konum Hizmeti\nApple Konum Hizmeti\nY Yandex Konum Hizmeti\nf Facebook Konum Hizmeti\nInstagram Konum Hizmeti\nWhatsapp Konum Hizmeti\ni Bu bir paket hizmettir. Paketi toplu olarak ve ya isteğiniz konumu seçerek hizmeti alabilirsiniz.",
+  "structured_data": {
+    "service_title": "Google Harita Kayıt Servisi",
+    "description": "Google'ın istediği kalite politikalarına uygun harita yapıyoruz. Güvensiz doğrulama yöntemleri ( Yerel Rehber, Sms, Mail, Telefon araması ) ile doğrulama yapmıyoruz.",
+    "offered_location_services": [
+      "Google Konum Hizmeti",
+      "Apple Konum Hizmeti",
+      "Yandex Konum Hizmeti",
+      "Facebook Konum Hizmeti",
+      "Instagram Konum Hizmeti",
+      "Whatsapp Konum Hizmeti"
+    ],
+    "service_details": "Bu bir paket hizmettir. Paketi toplu olarak ve ya isteğiniz konumu seçerek hizmeti alabilirsiniz."
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "language": "Turkish"
+  }
+}

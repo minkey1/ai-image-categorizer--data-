@@ -1,0 +1,70 @@
+{
+  "filename": "Screenshot_20251015-134522 (1).webp",
+  "tags": [
+    "screenshot",
+    "map",
+    "navigation",
+    "route",
+    "travel",
+    "location",
+    "banking",
+    "electronics",
+    "mobile",
+    "stores",
+    "india",
+    "telugu",
+    "mahbubnagar",
+    "nagarkurnool",
+    "wanaparthy",
+    "atmakur"
+  ],
+  "raw_text": "KBS Bank Atmakur Branch,...\nDream Mobiles & Electroni...\nBalaji Electronics & Mobiles...\nMi store Nagarkurnool, NP...\nPAVAN MOBILES (multi Bra...\nTotal trip: 5 hr (207 km)\nDone\nMahbubnagar\nమహబూబ్ నగర్\nJadcherla\nజడ్చర్ల\nDevarkadra\nదేవరకద్ర\nBijinapalle\nబిజినపల్లి\nNagarkur...\nకర్నూల్\nKothakota\nకొత్తకోట\nWanaparthy\nవనపర్తి\nPebbair\nపెబ్బేర్\nBeechupalli\nబీచుపల్లి\nadwal\nద్వాల్",
+  "structured_data": {
+    "trip_summary": {
+      "total_time": "5 hr",
+      "total_distance": "207 km"
+    },
+    "waypoints": [
+      {
+        "id": "A",
+        "name": "KBS Bank Atmakur Branch,..."
+      },
+      {
+        "id": "B",
+        "name": "Dream Mobiles & Electroni..."
+      },
+      {
+        "id": "C",
+        "name": "Balaji Electronics & Mobiles..."
+      },
+      {
+        "id": "D",
+        "name": "Mi store Nagarkurnool, NP..."
+      },
+      {
+        "id": "E",
+        "name": "PAVAN MOBILES (multi Bra..."
+      }
+    ],
+    "map_locations": [
+      "Mahbubnagar",
+      "Jadcherla",
+      "Devarkadra",
+      "Bijinapalle",
+      "Nagarkurnool",
+      "Kothakota",
+      "Wanaparthy",
+      "Pebbair",
+      "Beechupalli",
+      "Gadwal"
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "languages": [
+      "English",
+      "Telugu"
+    ],
+    "platform": "Google Maps"
+  }
+}

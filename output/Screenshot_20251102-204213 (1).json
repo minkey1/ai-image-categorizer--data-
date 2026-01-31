@@ -1,0 +1,71 @@
+{
+  "filename": "Screenshot_20251102-204213 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "profile",
+    "robotics",
+    "company",
+    "ai",
+    "cgi",
+    "vfx",
+    "animation",
+    "dubai",
+    "uae",
+    "music",
+    "art",
+    "anime",
+    "technology"
+  ],
+  "raw_text": "8:42\n120 KB/s\nVOLTE\n5G\n32\naicanfeel\nAICANFEEL\n268 posts\n248K followers\n1,255 following\nRobotics Company\nCGI+VFX+AI w/ Elite Clubs~DJs~Musicians\nDm for custom 4K Music Videos/Animation\nTrained from our own AI MODEL ©\n@2ndmuseum\nDubai, United Arab Emirates\nExperience • Ludovico Einaudi, Daniel Hope, I ... 1 more\nFollowed by d.pavanram\nFollow\nMessage\nSubscribe\nDUBAI 📍\nCLICK HERE TO LEARN AND EARN\nChat on WhatsApp\nVery responsive",
+  "structured_data": {
+    "profile": {
+      "username": "aicanfeel",
+      "display_name": "AICANFEEL",
+      "is_verified": true,
+      "category": "Robotics Company",
+      "post_count": "268",
+      "follower_count": "248K",
+      "following_count": "1,255",
+      "bio": "CGI+VFX+AI w/ Elite Clubs~DJs~Musicians\nDm for custom 4K Music Videos/Animation\nTrained from our own AI MODEL ©\n@2ndmuseum\nDubai, United Arab Emirates",
+      "location": "Dubai, United Arab Emirates",
+      "audio_track": "Experience • Ludovico Einaudi, Daniel Hope, I ... 1 more",
+      "followed_by": "d.pavanram"
+    },
+    "story_highlights": [
+      "globe icon",
+      "globe icon",
+      "globe icon",
+      "DUBAI 📍"
+    ],
+    "tabs": [
+      "Posts",
+      "Crown/Exclusive Content",
+      "Reels",
+      "Tagged Posts"
+    ],
+    "visible_posts": [
+      "Attack on Titan inspired artwork (pinned)",
+      "Galaxy/Alien X inspired artwork (pinned)",
+      "Galaxy/Alien X inspired character design (pinned)",
+      "CLICK HERE TO LEARN AND EARN video",
+      "Woman with diamond earrings video",
+      "Purple robotic/creature figure video"
+    ]
+  },
+  "profile_mentions": [
+    "@2ndmuseum",
+    "d.pavanram"
+  ],
+  "additional_metadata": {
+    "platform": "Instagram",
+    "whatsapp_status": "Very responsive",
+    "device_status": {
+      "time": "8:42",
+      "battery": "32%",
+      "network": "5G",
+      "connection_speed": "120 KB/s"
+    },
+    "call_to_action": "Chat on WhatsApp"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "filename": "Screenshot_20251013-040308 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "profile",
+    "smartphone",
+    "motorcycle",
+    "technology",
+    "gadgets",
+    "navigation",
+    "business",
+    "ecommerce",
+    "automotive",
+    "accessories",
+    "electronics"
+  ],
+  "raw_text": "4:03\n2.67 KB/S\nVoLTE\n4G\n93\naoocciindia\nAOOCCI\n45 posts\n3,541 followers\n0 following\nCreated for Indian Customers. Shipping World Wide\n25% Off - FIRST30\nDM FOR BEST OFFERS\naoocci.com/?ref=eyttfzx and 2 more\nFollow\nMessage\nBuyers Zone\nMost Affordable Motorcycle Screen\nJust watched\n5.4M\nNUEVO AOOCCI U6\nINSTALAR APPS\n3,870\n59.7K\nBMW Cradle Mount Screen\nMOTORCYCLE CAR-PLAY INTELLIGENT NAVIGATION\n@prakashparadisee\nBMW Riders group waiting for something crazy",
+  "structured_data": {
+    "profile": {
+      "platform": "Instagram",
+      "username": "aoocciindia",
+      "name": "AOOCCI",
+      "posts": 45,
+      "followers": 3541,
+      "following": 0,
+      "bio": "Created for Indian Customers. Shipping World Wide\n25% Off - FIRST30\nDM FOR BEST OFFERS",
+      "website": "aoocci.com/?ref=eyttfzx",
+      "highlights": [
+        "Buyers Zone"
+      ]
+    },
+    "reels_grid": [
+      {
+        "views": "5.4M",
+        "text_overlay": "Most Affordable Motorcycle Screen",
+        "status": "Just watched"
+      },
+      {
+        "views": "3,870",
+        "text_overlay": "NUEVO AOOCCI U6 INSTALAR APPS"
+      },
+      {
+        "views": "59.7K"
+      },
+      {
+        "text_overlay": "BMW Cradle Mount Screen"
+      },
+      {
+        "text_overlay": "MOTORCYCLE CAR-PLAY INTELLIGENT NAVIGATION",
+        "mention": "@prakashparadisee"
+      },
+      {
+        "text_overlay": "BMW Riders group waiting for something crazy"
+      }
+    ]
+  },
+  "profile_mentions": [
+    "@prakashparadisee"
+  ],
+  "additional_metadata": {
+    "urls": [
+      "aoocci.com/?ref=eyttfzx"
+    ],
+    "promo_codes": [
+      "FIRST30"
+    ],
+    "discounts": [
+      "25% Off"
+    ],
+    "device_status": {
+      "time": "4:03",
+      "battery": "93%",
+      "network": "4G",
+      "data_speed": "2.67 KB/S"
+    }
+  }
+}

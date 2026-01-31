@@ -1,0 +1,71 @@
+{
+  "filename": "Screenshot_20251012-164602 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "profile",
+    "digital-creator",
+    "gardening",
+    "plants",
+    "agriculture",
+    "finance",
+    "trading",
+    "entrepreneurship",
+    "social-media",
+    "dog",
+    "reels"
+  ],
+  "raw_text": "4:46\n1.03 MB/s\nVoLTE\n5G\n39\nnatures__root\nNature's Roots\n119 posts\n123K followers\n13 following\nDigital creator\n130K+ on YouTube | 60K on Facebook\n@rshankar020\nIITian | Entrepreneur | Investor | Derivatives Trader | Trading is Passion, Gardening is Hobby\nyoutube.com/@natures_root?si=NLCSheWqYDtQQHIP and 4 ...\nnatures__root\nPlants Caring Help?\nNature's Roots\nFollow\nMessage\nEmail\nHarvesting\nSheera\nLifeline\nShop 🛒🛍️\n5,497\n22.8K\n30.3K",
+  "structured_data": {
+    "profile": {
+      "username": "natures__root",
+      "display_name": "Nature's Roots",
+      "category": "Digital creator",
+      "follower_count": "123K",
+      "following_count": "13",
+      "post_count": "119",
+      "bio": "130K+ on YouTube | 60K on Facebook\n@rshankar020\nIITian | Entrepreneur | Investor | Derivatives Trader | Trading is Passion, Gardening is Hobby",
+      "highlights": [
+        "Harvesting",
+        "Sheera",
+        "Lifeline",
+        "Shop 🛒🛍️"
+      ],
+      "social_links": {
+        "youtube": "youtube.com/@natures_root?si=NLCSheWqYDtQQHIP",
+        "threads": "natures__root",
+        "facebook": "Nature's Roots"
+      },
+      "additional_info": "Plants Caring Help?"
+    },
+    "reels_feed": [
+      {
+        "views": "5,497",
+        "description": "Man with black dog in a garden"
+      },
+      {
+        "views": "22.8K",
+        "description": "Man tending to a potted plant"
+      },
+      {
+        "views": "30.3K",
+        "description": "Man harvesting a long green vegetable"
+      }
+    ]
+  },
+  "profile_mentions": [
+    "@rshankar020",
+    "@natures_root"
+  ],
+  "additional_metadata": {
+    "urls": [
+      "youtube.com/@natures_root?si=NLCSheWqYDtQQHIP"
+    ],
+    "device_status": {
+      "time": "4:46",
+      "battery_level": "39%",
+      "network_type": "5G",
+      "data_speed": "1.03 MB/s"
+    }
+  }
+}

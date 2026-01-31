@@ -1,0 +1,58 @@
+{
+  "filename": "Screenshot_20251018-151015 (1).webp",
+  "tags": [
+    "screenshot",
+    "video",
+    "advertisement",
+    "promotion",
+    "smartphone",
+    "diwali",
+    "xiaomi",
+    "discount",
+    "retail",
+    "tech",
+    "india",
+    "sale"
+  ],
+  "raw_text": "05:10\nN14 Diwali (Siva Sai Mobiles) (AP).MP4\nDIWALI WITH XIAOMI\n01ST SEP - 31ST OCT\nוח\nA3x moto g moto g V50s\n67% C61 73 C75 80\nVolume\nUP TO 45% OFF ON SMARTPHONES\nUP TO 30% OFF ON TABLETS\n3 YEARS COMPREHENSIVE WARRANTY ON CineMagiQLED TVs\n*T&C Apply\n0:00 0:57",
+  "structured_data": {
+    "video_player": {
+      "file_name": "N14 Diwali (Siva Sai Mobiles) (AP).MP4",
+      "current_playback_time": "0:00",
+      "total_duration": "0:57",
+      "volume_level": "67%"
+    },
+    "promotional_campaign": {
+      "title": "Diwali with Xiaomi",
+      "validity": "01st September - 31st October",
+      "offers": [
+        {
+          "category": "Smartphones",
+          "discount": "Up to 45% OFF"
+        },
+        {
+          "category": "Tablets",
+          "discount": "Up to 30% OFF"
+        },
+        {
+          "category": "CineMagiQLED TVs",
+          "benefit": "3 Years Comprehensive Warranty"
+        }
+      ]
+    },
+    "retail_information": {
+      "shop_name": "Siva Sai Mobiles",
+      "region": "AP (Andhra Pradesh)"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "brands_featured": [
+      "Xiaomi",
+      "Motorola (moto g)",
+      "Realme (C series)",
+      "Redmi"
+    ],
+    "sale_dates": "01ST SEP - 31ST OCT"
+  }
+}

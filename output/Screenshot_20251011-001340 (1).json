@@ -1,0 +1,111 @@
+{
+  "filename": "Screenshot_20251011-001340 (1).webp",
+  "tags": [
+    "screenshot",
+    "document",
+    "meeting",
+    "videocall",
+    "fashion",
+    "finance",
+    "budget",
+    "payment",
+    "team",
+    "event",
+    "man",
+    "smartphone",
+    "browser",
+    "luxe-magazine-house"
+  ],
+  "raw_text": "12:13\n336 KB/s\nVoLTE\n5G\n91\nhbf-hzht-vbo\nLUXE MAGAZINE HOUSE\nPNGB ST., 153, GUWAHATI, ASSAM\nWWW.LUXEMAGAZINE.IN | +91-8876889978\nOverview\nEvent Type: Cultural Fashion Showcase - Sneak Peek into Luxe National Tour\nDays: 3 (2 Rehearsal + 1 Show Day)\nTeam Size: 8 Core Member Team\nVibe: Cinematic coverage + high-end styling + premium Luxe branding\nTEAM PAYMENT STRUCTURE\nDepartment Role No Rate Total\nCore LUXE team Show Director 3 30,000 30,000 * 3 = 90,000\nMentor Trainer | Jury Head 1 80,000 80,000 * 3 = 2,40,000\nVideographer BTS/ Reels 1 15,000 15,000 * 3 = 45,000\nPhotographer Editorial/ Backstage 1 15,000 15,000 * 3 = 45,000\nMakeup Artist ---- 1 20,000 20,000 * 3 = 60,000\nAssistants ---- 1 15,000 30,000 * 3 = 90,000\nManagement & Event Curation Fee ---- ---- 3,50,000 3,50,000\nTOTAL : INR 9,20,000/-\nLuxe is presenting\nLuxe\nHARDIK",
+  "structured_data": {
+    "document_info": {
+      "company_name": "LUXE MAGAZINE HOUSE",
+      "address": "PNGB ST., 153, GUWAHATI, ASSAM",
+      "website": "WWW.LUXEMAGAZINE.IN",
+      "contact_number": "+91-8876889978",
+      "title": "TEAM PAYMENT STRUCTURE"
+    },
+    "event_overview": {
+      "event_type": "Cultural Fashion Showcase – Sneak Peek into Luxe National Tour",
+      "duration": "3 Days (2 Rehearsal + 1 Show Day)",
+      "team_size": "8 Core Member Team",
+      "vibe": "Cinematic coverage + high-end styling + premium Luxe branding"
+    },
+    "payment_breakdown": [
+      {
+        "department": "Core LUXE team",
+        "role": "Show Director",
+        "no": "3",
+        "rate": "30,000",
+        "calculation": "30,000 * 3",
+        "total": "90,000"
+      },
+      {
+        "department": "Mentor",
+        "role": "Trainer | Jury Head",
+        "no": "1",
+        "rate": "80,000",
+        "calculation": "80,000 * 3",
+        "total": "2,40,000"
+      },
+      {
+        "department": "Videographer",
+        "role": "BTS/ Reels",
+        "no": "1",
+        "rate": "15,000",
+        "calculation": "15,000 * 3",
+        "total": "45,000"
+      },
+      {
+        "department": "Photographer",
+        "role": "Editorial/ Backstage",
+        "no": "1",
+        "rate": "15,000",
+        "calculation": "15,000 * 3",
+        "total": "45,000"
+      },
+      {
+        "department": "Makeup Artist",
+        "role": "----",
+        "no": "1",
+        "rate": "20,000",
+        "calculation": "20,000 * 3",
+        "total": "60,000"
+      },
+      {
+        "department": "Assistants",
+        "role": "----",
+        "no": "1",
+        "rate": "15,000",
+        "calculation": "30,000 * 3",
+        "total": "90,000"
+      },
+      {
+        "department": "Management & Event Curation Fee",
+        "role": "----",
+        "no": "----",
+        "rate": "3,50,000",
+        "total": "3,50,000"
+      }
+    ],
+    "grand_total": "INR 9,20,000/-",
+    "meeting_context": {
+      "platform": "Google Meet",
+      "meeting_id": "hbf-hzht-vbo",
+      "participants": [
+        "Luxe",
+        "HARDIK",
+        "Unknown male participant"
+      ]
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "phone_number": "+91-8876889978",
+    "website": "WWW.LUXEMAGAZINE.IN",
+    "time_stamp": "12:13",
+    "connectivity": "5G VoLTE",
+    "battery_percentage": "91%",
+    "meeting_url_slug": "hbf-hzht-vbo"
+  }
+}

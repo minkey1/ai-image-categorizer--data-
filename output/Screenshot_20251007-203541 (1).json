@@ -1,0 +1,39 @@
+{
+  "filename": "Screenshot_20251007-203541 (1).webp",
+  "tags": [
+    "screenshot",
+    "payment",
+    "finance",
+    "transaction",
+    "UPI",
+    "banking",
+    "error",
+    "limit",
+    "app",
+    "currency"
+  ],
+  "raw_text": "S\nSuma Latha\nBanking name: KONTHAM SUMALATHA\nUPI ID: sumaammulu12-1@okaxis\n₹ 10,000|\nAmount cannot be more than ₹2,000 for an uploaded QR image\nAdd a note",
+  "structured_data": {
+    "payment_recipient": {
+      "display_name": "Suma Latha",
+      "banking_name": "KONTHAM SUMALATHA",
+      "upi_id": "sumaammulu12-1@okaxis"
+    },
+    "transaction_attempt": {
+      "amount_entered": "₹ 10,000",
+      "currency": "INR",
+      "status": "error",
+      "error_message": "Amount cannot be more than ₹2,000 for an uploaded QR image",
+      "restriction_limit": "₹ 2,000",
+      "restriction_condition": "uploaded QR image"
+    }
+  },
+  "profile_mentions": [
+    "sumaammulu12-1@okaxis"
+  ],
+  "additional_metadata": {
+    "payment_platform_hint": "Google Pay (indicated by UI style and 'okaxis' VPA)",
+    "banking_provider": "Axis Bank (via okaxis extension)",
+    "transaction_limit_reason": "Security measure for payments made via uploaded QR code images"
+  }
+}

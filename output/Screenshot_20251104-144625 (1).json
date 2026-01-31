@@ -1,0 +1,84 @@
+{
+  "filename": "Screenshot_20251104-144625 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "profile",
+    "reels",
+    "community",
+    "events",
+    "engineering",
+    "startup",
+    "business",
+    "lifestyle",
+    "india",
+    "unemployment",
+    "youth",
+    "entrepreneurship"
+  ],
+  "raw_text": "2:46\n1.22 MB/s VoLTE 4G 65\nnakabandi09\nNakaBandi\n13 posts\n33.6K followers\n7 following\nWe host fun events and you meet fun peeps✨\nCommunity | Events | Hang Outs | Experiences 🫧\nStarted by 7 unemployed engineers 🎓\nFollowed by ayushman.pandita\nFollow\nMessage\nContact\nDay 10 of 7 berozgaar dost building a business\nPOSSESSION BY EARLY 2026\nभाई, दोस्तों के साथ बिजनेस कभी मत\n54.7K\nREMOTE COFFEE\nCAFE AN\nDay 9 of 7 berozgaar dost starting a business\n80.3K\n\"Don't party with strangers, its awkward\"\n77.6K\nDay 8 of 7 berozgaar dost starting a business\n79.5K\nDay 7 of 7 berozgaar dost building a business\nAgar 7 engineers ko\n123K\nRun if its your type\n112K\nDay 5 of 7 berozgaar dost starting a business",
+  "structured_data": {
+    "profile": {
+      "username": "nakabandi09",
+      "display_name": "NakaBandi",
+      "post_count": 13,
+      "follower_count": "33.6K",
+      "following_count": 7,
+      "bio": "We host fun events and you meet fun peeps Community | Events | Hang Outs | Experiences Started by 7 unemployed engineers",
+      "followed_by_mention": "ayushman.pandita"
+    },
+    "visible_posts": [
+      {
+        "type": "reel",
+        "title": "Day 10 of 7 berozgaar dost building a business",
+        "view_count": "54.7K"
+      },
+      {
+        "type": "reel",
+        "title": "Day 9 of 7 berozgaar dost starting a business",
+        "view_count": "80.3K"
+      },
+      {
+        "type": "reel",
+        "title": "Don't party with strangers, its awkward",
+        "view_count": "77.6K"
+      },
+      {
+        "type": "reel",
+        "title": "Day 8 of 7 berozgaar dost starting a business",
+        "view_count": "79.5K"
+      },
+      {
+        "type": "reel",
+        "title": "Day 7 of 7 berozgaar dost building a business",
+        "view_count": "123K"
+      },
+      {
+        "type": "reel",
+        "title": "Run if its your type",
+        "view_count": "112K"
+      }
+    ]
+  },
+  "profile_mentions": [
+    "@nakabandi09",
+    "@ayushman.pandita"
+  ],
+  "additional_metadata": {
+    "status_bar_info": {
+      "time": "2:46",
+      "internet_speed": "1.22 MB/s",
+      "network": "VoLTE 4G",
+      "battery": "65%"
+    },
+    "recurring_series": "7 berozgaar dost building a business",
+    "visible_businesses": [
+      "REMOTE COFFEE",
+      "CAFE AN"
+    ],
+    "language": [
+      "English",
+      "Hindi"
+    ]
+  }
+}

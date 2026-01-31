@@ -1,0 +1,64 @@
+{
+  "filename": "Screenshot_20251016-153408 (1).webp",
+  "tags": [
+    "screenshot",
+    "spreadsheet",
+    "googlesheets",
+    "data",
+    "status",
+    "links",
+    "drive",
+    "organization"
+  ],
+  "raw_text": "42 Completed\n43 Completed https://drive.google.com/drive/folders/14l\n44 Completed https://drive.google.com/drive/folders/1kx\n45 Completed https://drive.google.com/drive/folders/15j\n46 Completed 1 & 2 https://drive.google.com/drive/folders/1h1\n47 Completed 1 & 2 https://drive.google.com/drive/folders/1H",
+  "structured_data": {
+    "spreadsheet_rows": [
+      {
+        "row_number": "42",
+        "status": "Completed",
+        "notes": null,
+        "folder_link": null
+      },
+      {
+        "row_number": "43",
+        "status": "Completed",
+        "notes": null,
+        "folder_link": "https://drive.google.com/drive/folders/14l"
+      },
+      {
+        "row_number": "44",
+        "status": "Completed",
+        "notes": null,
+        "folder_link": "https://drive.google.com/drive/folders/1kx"
+      },
+      {
+        "row_number": "45",
+        "status": "Completed",
+        "notes": null,
+        "folder_link": "https://drive.google.com/drive/folders/15j"
+      },
+      {
+        "row_number": "46",
+        "status": "Completed",
+        "notes": "1 & 2",
+        "folder_link": "https://drive.google.com/drive/folders/1h1"
+      },
+      {
+        "row_number": "47",
+        "status": "Completed",
+        "notes": "1 & 2",
+        "folder_link": "https://drive.google.com/drive/folders/1H"
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "urls": [
+      "https://drive.google.com/drive/folders/14l",
+      "https://drive.google.com/drive/folders/1kx",
+      "https://drive.google.com/drive/folders/15j",
+      "https://drive.google.com/drive/folders/1h1",
+      "https://drive.google.com/drive/folders/1H"
+    ]
+  }
+}

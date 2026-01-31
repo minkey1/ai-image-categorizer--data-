@@ -1,0 +1,85 @@
+{
+  "filename": "Screenshot_20251103-101652 (1).webp",
+  "tags": [
+    "screenshot",
+    "wikipedia",
+    "mobile",
+    "user",
+    "contributions",
+    "editing",
+    "history",
+    "profile",
+    "internet",
+    "history",
+    "sati",
+    "browser",
+    "education"
+  ],
+  "raw_text": "10:16\n1.40 KB/s VoLTE 5G 83\nen.wikipedia.org/wiki/Spec\n+\n2\nWIKIPEDIA\nUser contributions for Zalaraz\nResults for Zalaraz (talk | block log | uploads | logs | global block log | global account | filter log)\nA user with 9,148 edits. Account created on 22 January 2021.\nSearch for contributions\n(newest | oldest) View (newer 50 | older 50) (20 | 50 | 100 | 250 | 500)\n3 November 2025\n03:00, 3 November 2025 (diff | hist) +771\nCharles James Napier\n→Sati practice: include a citation for quote current\n02:52, 3 November 2025 (diff | hist) +222\nTalk:Sati (practice)\n→Which editors have consented to the second and third lead paragraphs?: Reply\ncurrent\nTag: Reply\n02:35, 3 November 2025 (diff | hist) +1,232\nTalk:Sati (practice)\nClosed Jagan Institute of Management Studies Rohini: Difference between revisions\nUndo",
+  "structured_data": {
+    "page_title": "User contributions for Zalaraz",
+    "user_profile": {
+      "username": "Zalaraz",
+      "edit_count": 9148,
+      "account_created": "22 January 2021",
+      "links": [
+        "talk",
+        "block log",
+        "uploads",
+        "logs",
+        "global block log",
+        "global account",
+        "filter log"
+      ]
+    },
+    "edit_log": [
+      {
+        "timestamp": "03:00, 3 November 2025",
+        "article": "Charles James Napier",
+        "byte_change": "+771",
+        "summary": "→Sati practice: include a citation for quote",
+        "status": "current"
+      },
+      {
+        "timestamp": "02:52, 3 November 2025",
+        "article": "Talk:Sati (practice)",
+        "byte_change": "+222",
+        "summary": "→Which editors have consented to the second and third lead paragraphs?: Reply",
+        "status": "current",
+        "tags": [
+          "Reply"
+        ]
+      },
+      {
+        "timestamp": "02:35, 3 November 2025",
+        "article": "Talk:Sati (practice)",
+        "byte_change": "+1,232"
+      }
+    ],
+    "ui_notifications": {
+      "snackbar": "Closed Jagan Institute of Management Studies Rohini: Difference between revisions",
+      "action": "Undo"
+    },
+    "device_status": {
+      "time": "10:16",
+      "network": "5G VoLTE",
+      "battery": "83%",
+      "data_speed": "1.40 KB/s"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "urls": [
+      "https://en.wikipedia.org/wiki/Special:Contributions/Zalaraz"
+    ],
+    "dates": [
+      "22 January 2021",
+      "3 November 2025"
+    ],
+    "topics": [
+      "Charles James Napier",
+      "Sati (practice)",
+      "Jagan Institute of Management Studies Rohini"
+    ]
+  }
+}

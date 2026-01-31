@@ -1,0 +1,33 @@
+{
+  "filename": "Screenshot_20251013-040303 (1).webp",
+  "tags": [
+    "screenshot",
+    "smartphone",
+    "interface",
+    "power",
+    "menu",
+    "button",
+    "emergency",
+    "options"
+  ],
+  "raw_text": "Power Off\nRestart\nSOS",
+  "structured_data": {
+    "interface_type": "Power Menu",
+    "options": [
+      {
+        "label": "Power Off",
+        "icon_type": "Power Symbol"
+      },
+      {
+        "label": "Restart",
+        "icon_type": "Refresh Arrow"
+      },
+      {
+        "label": "SOS",
+        "position": "bottom"
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {}
+}

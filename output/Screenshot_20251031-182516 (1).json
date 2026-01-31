@@ -1,0 +1,83 @@
+{
+  "filename": "Screenshot_20251031-182516 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "profile",
+    "self-development",
+    "mindset",
+    "therapy",
+    "brand",
+    "business",
+    "mobile",
+    "app",
+    "reels",
+    "socialmedia",
+    "productivity",
+    "video-call"
+  ],
+  "raw_text": "6:25\n61.2 KB/S\nVoLTE 5G\n35\nmindset.therapy\nMINDSET THERAPY™\n10.9K posts\n11.2M followers\n149 following\nThe #1 Best Self Development Brand\nPartnerships ✉️ info@mindsettherapy.com\nGrow Your IG 👉 @viralspot.ai\nmindsettherapy.com/\nmindset.therapy\nThe Mindsetters ☀️ 120K members\nFollow\nMessage\nFan Love\nQ & A\nYou\nMAINAK\n+2\nJust watched\n2025 is 75.00% complete\nAct now, time won't wait!\nOctober November December 274/365\n1.9M\nDon't Chase\n52.8K\nConfidence Ego\n1.2M\nGood Days Bad Days @mindset.therapy\nBREATHE IN AND OUT\n93% Of People 6% Of People",
+  "structured_data": {
+    "profile": {
+      "username": "mindset.therapy",
+      "display_name": "MINDSET THERAPY™",
+      "posts": "10.9K",
+      "followers": "11.2M",
+      "following": "149",
+      "bio": "The #1 Best Self Development Brand\nPartnerships ✉️ info@mindsettherapy.com\nGrow Your IG 👉 @viralspot.ai",
+      "website": "mindsettherapy.com/",
+      "threads_username": "mindset.therapy",
+      "broadcast_channel": {
+        "name": "The Mindsetters",
+        "member_count": "120K"
+      },
+      "verified_status": true
+    },
+    "visible_posts": [
+      {
+        "type": "reel",
+        "views": "1.9M",
+        "text_content": "2025 is 75.00% complete Act now, time won't wait!"
+      },
+      {
+        "type": "reel",
+        "views": "52.8K",
+        "text_content": "Don't Chase",
+        "status": "Just watched"
+      },
+      {
+        "type": "reel",
+        "views": "1.2M",
+        "text_content": "Confidence vs Ego"
+      }
+    ],
+    "overlay_ui": {
+      "type": "video call bubble",
+      "participants": [
+        "You",
+        "MAINAK",
+        "+2 more"
+      ]
+    }
+  },
+  "profile_mentions": [
+    "@viralspot.ai",
+    "@mindset.therapy"
+  ],
+  "additional_metadata": {
+    "urls": [
+      "mindsettherapy.com/"
+    ],
+    "emails": [
+      "info@mindsettherapy.com"
+    ],
+    "status_bar_info": {
+      "time": "6:25",
+      "network": "5G VoLTE",
+      "battery_percentage": "35",
+      "data_speed": "61.2 KB/S"
+    },
+    "date_referenced": "2025",
+    "year_progress_stat": "274/365 days"
+  }
+}

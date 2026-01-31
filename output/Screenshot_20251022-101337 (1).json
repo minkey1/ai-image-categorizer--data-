@@ -1,0 +1,68 @@
+{
+  "filename": "Screenshot_20251022-101337 (1).webp",
+  "tags": [
+    "screenshot",
+    "Flipkart",
+    "ecommerce",
+    "shopping",
+    "smartphone",
+    "finance",
+    "discounts",
+    "offers",
+    "EMI",
+    "exchange",
+    "technology",
+    "mobile",
+    "Motorola"
+  ],
+  "raw_text": "10:13 \n50:28 \nVoLTE 4G 94\nX \nFlipkart flipkart.com \nSearch for products \nEdge 50 Fusion 5G (PANTONE Mykonos Blue, 256 GB) (8 GB RAM) \nTop Discount of the Sale \n↓23% 25,999 ₹19,999 \n+₹79 Protect Promise Fee > \nWOW! DEAL Apply offers for maximum savings \n₹18,999 \nLowest price for you \nOR \n₹3,334 x 6m \nPay ₹19,999 • No Cost EMI \nExchange offer Pincode not Serviceable \nUp to ₹15,100 \nChange pincode to exchange item > \nEMI offers View non-EMI offers \nBest value for you \nBajaj Finserv \n₹3,334/m (6 months) Apply \nCredit Card • No Cost EMI > \nFlipkart Axis Bank \n₹6,667/m (3 months) Apply \nCredit Card • No Cost EMI > \nICICI B \n₹6,66... \nCredit Card • \n₹975... \nFlipkar \nCredit Card \nDelivery details \nBuy with EMI From ₹3,334/m \nBuy now at ₹19,999",
+  "structured_data": {
+    "product_details": {
+      "name": "Edge 50 Fusion 5G",
+      "color": "PANTONE Mykonos Blue",
+      "storage": "256 GB",
+      "ram": "8 GB RAM"
+    },
+    "pricing": {
+      "original_price": "₹25,999",
+      "sale_price": "₹19,999",
+      "discount_percentage": "23%",
+      "lowest_price_with_offers": "₹18,999",
+      "additional_fees": "₹79 Protect Promise Fee"
+    },
+    "offers": {
+      "exchange_offer": "Up to ₹15,100",
+      "no_cost_emi_starting_at": "₹3,334/m",
+      "emi_options": [
+        {
+          "bank": "Bajaj Finserv",
+          "amount": "₹3,334/m",
+          "tenure": "6 months",
+          "type": "No Cost EMI"
+        },
+        {
+          "bank": "Flipkart Axis Bank",
+          "amount": "₹6,667/m",
+          "tenure": "3 months",
+          "type": "No Cost EMI"
+        }
+      ]
+    },
+    "platform_info": {
+      "website": "flipkart.com",
+      "status_bar_info": {
+        "time": "10:13",
+        "battery": "94%",
+        "connectivity": "VoLTE 4G",
+        "active_call_duration": "50:28"
+      }
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "urls": [
+      "https://www.flipkart.com"
+    ],
+    "pincode_status": "Pincode not Serviceable for exchange"
+  }
+}

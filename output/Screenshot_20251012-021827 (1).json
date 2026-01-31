@@ -1,0 +1,147 @@
+{
+  "filename": "Screenshot_20251012-021827 (1).webp",
+  "tags": [
+    "screenshot",
+    "android",
+    "homescreen",
+    "icons",
+    "widgets",
+    "productivity",
+    "socialmedia",
+    "tools",
+    "finance",
+    "google",
+    "todo",
+    "calendar",
+    "routine",
+    "apps",
+    "mobile"
+  ],
+  "raw_text": "2:18\n18.2 KB/S\nVOLTE\n4G\n59\n81%\nCleaner\nTo-dos\n+\nSuresh Enquiry\nCreate a new Routine\nView all\nTo-dos\nCalculator\nToday\n+\n<\n>\n09:15 AM\nBrushing and Oral hygiene. 0/2\n09:40 AM\nFINANCE 💰💰\nInstagram Updates 0/4\nUNOFTEN APPS\nWATER INTAKE\nGoogle\n2\nJUNK\nTools\nSOCIAL MEDIA\nPRODUCTIVITY\npop\nB\nPOVA",
+  "structured_data": {
+    "status_bar": {
+      "time": "2:18",
+      "network_speed": "18.2 KB/S",
+      "network_type": "VOLTE, 4G",
+      "battery_percentage": "59%"
+    },
+    "widgets": [
+      {
+        "type": "To-dos",
+        "title": "To-dos",
+        "items": [
+          "Suresh Enquiry",
+          "Create a new Routine"
+        ],
+        "footer_action": "View all"
+      },
+      {
+        "type": "Schedule/Habit Tracker",
+        "title": "Today",
+        "events": [
+          {
+            "time": "09:15 AM",
+            "task": ""
+          },
+          {
+            "time": "09:40 AM",
+            "task": "Brushing and Oral hygiene.",
+            "progress": "0/2"
+          },
+          {
+            "task": "Instagram Updates",
+            "progress": "0/4"
+          },
+          {
+            "task": "WATER INTAKE"
+          }
+        ]
+      },
+      {
+        "type": "Google Search",
+        "features": [
+          "Voice search",
+          "Google Lens"
+        ]
+      }
+    ],
+    "app_folders": [
+      {
+        "name": "FINANCE 💰💰",
+        "contained_apps": [
+          "PhonePe",
+          "slice",
+          "yono SBI",
+          "one score"
+        ]
+      },
+      {
+        "name": "UNOFTEN APPS",
+        "contained_apps": [
+          "Rapido",
+          "Zomato",
+          "Swiggy"
+        ]
+      },
+      {
+        "name": "JUNK",
+        "notification_count": 2,
+        "contained_apps": [
+          "Hotstar",
+          "Zee5",
+          "Facebook"
+        ]
+      },
+      {
+        "name": "Tools",
+        "contained_apps": [
+          "Calendar",
+          "Clock",
+          "Settings"
+        ]
+      },
+      {
+        "name": "SOCIAL MEDIA",
+        "contained_apps": [
+          "Facebook",
+          "Instagram",
+          "LinkedIn",
+          "Zoom"
+        ]
+      },
+      {
+        "name": "PRODUCTIVITY",
+        "contained_apps": [
+          "Google Docs",
+          "Google Sheets",
+          "Google Drive"
+        ]
+      },
+      {
+        "name": "Google",
+        "contained_apps": [
+          "Gmail",
+          "Maps",
+          "Drive",
+          "Photos",
+          "YouTube"
+        ]
+      }
+    ],
+    "dock_icons": [
+      "Phone",
+      "QR Code/Pop",
+      "B (Browser/App)",
+      "POVA Camera",
+      "Media Player"
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "device_hint": "POVA (likely Tecno Pova)",
+    "system_features": [
+      "System Cleaner showing 81%",
+      "Calculator app"
+    ]
+  }
+}

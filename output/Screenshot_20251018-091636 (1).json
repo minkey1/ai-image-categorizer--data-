@@ -1,0 +1,66 @@
+{
+  "filename": "Screenshot_20251018-091636 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "reels",
+    "photography",
+    "tutorial",
+    "portrait",
+    "focal-length",
+    "black-and-white",
+    "comparison",
+    "lens",
+    "education"
+  ],
+  "raw_text": "9:16\n0.00 KB/s\nVoLTE\n5G\n96\nReels\nFriends\n20mm\n24mm\n28mm\n35mm\n50mm\n70mm\n105mm\n150mm\n200mm\nFollow for more tips\nlike this 🙌\nLikes\n53\n56\ngiovannii.jpeg\nFollow\nCore fundamentals of Photography 👇🚨...\nFollowed by john_paulpj",
+  "structured_data": {
+    "platform": "Instagram",
+    "content_type": "Reel",
+    "author": {
+      "username": "giovannii.jpeg",
+      "followed_by": [
+        "john_paulpj"
+      ]
+    },
+    "post_details": {
+      "caption": "Core fundamentals of Photography 👇🚨...",
+      "overlay_text": "Follow for more tips like this 🙌",
+      "engagement": {
+        "comments": "53",
+        "shares": "56"
+      }
+    },
+    "subject_matter": {
+      "topic": "Photography focal length comparison",
+      "focal_lengths_shown": [
+        "20mm",
+        "24mm",
+        "28mm",
+        "35mm",
+        "50mm",
+        "70mm",
+        "105mm",
+        "150mm",
+        "200mm"
+      ]
+    },
+    "status_bar": {
+      "time": "9:16",
+      "battery_percentage": "96",
+      "network": "5G"
+    }
+  },
+  "profile_mentions": [
+    "@giovannii.jpeg",
+    "@john_paulpj"
+  ],
+  "additional_metadata": {
+    "visual_style": "Black and white portrait grid",
+    "emojis": [
+      "🙌",
+      "👇",
+      "🚨"
+    ]
+  }
+}

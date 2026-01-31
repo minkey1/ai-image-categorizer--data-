@@ -1,0 +1,77 @@
+{
+  "filename": "Screenshot_20251018-091618 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "infographic",
+    "photography",
+    "education",
+    "tutorial",
+    "exposure",
+    "aperture",
+    "shutter speed",
+    "iso",
+    "camera settings",
+    "guide"
+  ],
+  "raw_text": "9:16 7.04 KB/S VoLTE 5G 96 Reels Friends EXPOSURE KEEP THE LIGHT METER AT \"0\" FOR A BALANCED EXPOSURE EXPOSE FOR THE LIGHTS TO NOT BLOWN OUT THE WHITES SHUTTER APERTURE ISO THIS IS ALL YOU NEED TO KNOW OPTIMAL EXPOSURE UNDEREXPOSED OVEREXPOSED APERTURE SMALLER f/STOPS REPRESENT LARGER APERTURES, MORE LIGHT THROUGH THE LENS AND SHALLOWER DOF f/1.4 f/2 f/2.8 f/4 f/5.6 f/8 f/11 f/16 SHALLOW DEPTH OF FIELD DEEP DEPTH OF FIELD BRIGHTER DARKER SHUTTER SPEED THE LENGHT OF TIME WHEN THE DIGITAL SENSOR INSIDE THE CAMERA IS EXPOSED TO LIGHT 1\" 1/4 1/15 1/60 1/125 1/250 1/500 1/1000 LONGER EXPOSURE SHORTER EXPOSURE BLUR ACTION / BRIGHTER DARKER / FREEZE ACTION ISO THE SENSITIVITY OF THE IMAGE SENSOR OR THE FILM TO THE LIGHT LOW ISO TO USE DURING DAY TIME - HIGH ISO DURING NIGHT TIME 100 200 400 800 1600 3200 6400 12800 LOW SENSITIVE TO LIGHT HIGH SENSITIVITY TO LIGHT LOW NOISE / HIGHER QUALITY LOWER QUALITY / HIGH NOISE giovannii.jpeg Follow 53 53 56 Core fundamentals of Photography 👇🚨 ... Followed by john_paulpj",
+  "structured_data": {
+    "platform": "Instagram",
+    "content_type": "Reel",
+    "author_info": {
+      "username": "giovannii.jpeg",
+      "action": "Follow"
+    },
+    "post_details": {
+      "caption": "Core fundamentals of Photography 👇🚨 ...",
+      "engagement_metrics": {
+        "comments": "53",
+        "shares": "53",
+        "more_options": "56"
+      },
+      "social_context": "Followed by john_paulpj"
+    },
+    "infographic_content": {
+      "main_topic": "Photography Fundamentals",
+      "sections": [
+        {
+          "title": "EXPOSURE",
+          "concept": "Exposure Triangle",
+          "components": [
+            "SHUTTER",
+            "APERTURE",
+            "ISO"
+          ],
+          "instructions": "Keep light meter at '0' for balanced exposure; expose for highlights."
+        },
+        {
+          "title": "APERTURE",
+          "description": "F-stop scale (f/1.4 to f/16), Depth of Field (DOF), and brightness levels."
+        },
+        {
+          "title": "SHUTTER SPEED",
+          "description": "Exposure time (1\" to 1/1000), motion blur versus frozen action."
+        },
+        {
+          "title": "ISO",
+          "description": "Sensor sensitivity (100 to 12800), relationship between noise and image quality."
+        }
+      ]
+    },
+    "device_info": {
+      "status_bar_time": "9:16",
+      "network": "5G VoLTE",
+      "battery": "96%"
+    }
+  },
+  "profile_mentions": [
+    "@giovannii.jpeg",
+    "@john_paulpj"
+  ],
+  "additional_metadata": {
+    "noted_typos": [
+      "LENGHT (should be LENGTH)",
+      "BLOWN OUT (in the context 'to not blown out', should be 'to not blow out')"
+    ]
+  }
+}

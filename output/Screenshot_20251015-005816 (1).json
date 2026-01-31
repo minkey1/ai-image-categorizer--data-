@@ -1,0 +1,36 @@
+{
+  "filename": "Screenshot_20251015-005816 (1).webp",
+  "tags": [
+    "screenshot",
+    "telegram",
+    "video",
+    "file",
+    "messaging",
+    "communication",
+    "telangana",
+    "india",
+    "business"
+  ],
+  "raw_text": "Phani Kumar\nIMG_9849.MP4\n79 MB • MP4\nNandini Communications - Telangana\n10:56 PM",
+  "structured_data": {
+    "sender_name": "Phani Kumar",
+    "file_details": {
+      "filename": "IMG_9849.MP4",
+      "size": "79 MB",
+      "format": "MP4"
+    },
+    "caption": "Nandini Communications - Telangana",
+    "timestamp": "10:56 PM",
+    "reaction": "👍"
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "locations": [
+      "Telangana"
+    ],
+    "entities": [
+      "Nandini Communications"
+    ],
+    "platform": "Telegram (inferred from background pattern)"
+  }
+}

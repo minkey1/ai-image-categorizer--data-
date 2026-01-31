@@ -1,0 +1,73 @@
+{
+  "filename": "Screenshot_20251018-150918 (1).webp",
+  "tags": [
+    "screenshot",
+    "video",
+    "smartphone",
+    "mobile",
+    "electronics",
+    "store",
+    "advertisement",
+    "diwali",
+    "xiaomi",
+    "sales",
+    "discount",
+    "man",
+    "shopkeeper",
+    "retail",
+    "technology"
+  ],
+  "raw_text": "3:09\n04:13\nVoLTE 4G 62\nN14 Diwali (SN Mobiles & Electronics) (AP).MP4\nDIWALI WITH XIAOMI\n01st SEP - 31st OCT\nוח\nV112\nV230\nV211\nACE 3\n0:00\n0:56\nUP TO 45% OFF ON SMARTPHONES*\nUP TO 30% OFF ON TABLETS*\n3 YEARS COMPREHENSIVE WARRANTY ON CineMagiQLED TVs*\n*T&C Apply",
+  "structured_data": {
+    "video_metadata": {
+      "filename": "N14 Diwali (SN Mobiles & Electronics) (AP).MP4",
+      "current_time": "0:00",
+      "total_duration": "0:56"
+    },
+    "store_information": {
+      "name": "SN Mobiles & Electronics",
+      "region_code": "AP"
+    },
+    "promotional_campaign": {
+      "title": "DIWALI WITH XIAOMI",
+      "brand": "Xiaomi",
+      "validity_period": "01st SEP - 31st OCT",
+      "offers": [
+        {
+          "category": "SMARTPHONES",
+          "discount": "UP TO 45% OFF"
+        },
+        {
+          "category": "TABLETS",
+          "discount": "UP TO 30% OFF"
+        },
+        {
+          "category": "CineMagiQLED TVs",
+          "offer": "3 YEARS COMPREHENSIVE WARRANTY"
+        }
+      ]
+    },
+    "device_status_bar": {
+      "time": "3:09",
+      "active_call_duration": "04:13",
+      "network": "VoLTE 4G",
+      "battery_percentage": "62%"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "dates": [
+      "01st SEP - 31st OCT"
+    ],
+    "visible_brands": [
+      "Xiaomi",
+      "Nokia"
+    ],
+    "product_models": [
+      "V112",
+      "V230",
+      "V211",
+      "ACE 3"
+    ]
+  }
+}

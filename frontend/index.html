@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Image Categorizer - Gallery</title>
+    <link rel="stylesheet" href="/frontend/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-content">
+                <div>
+                    <h1>🖼️ AI Image Categorizer Gallery</h1>
+                    <p class="subtitle">Browse and filter your categorized images</p>
+                </div>
+                <button id="darkModeToggle" class="dark-mode-toggle" title="Toggle dark mode">
+                    <span class="light-icon">☀️</span>
+                    <span class="dark-icon">🌙</span>
+                </button>
+            </div>
+        </header>
+
+        <div class="controls">
+            <div class="control-group">
+                <label for="searchText">🔍 Search Text:</label>
+                <input type="text" id="searchText" placeholder="Search in raw text, filenames, or structured data...">
+            </div>
+
+            <div class="control-group">
+                <label for="tagFilterMode">🔗 Tag Match Mode:</label>
+                <select id="tagFilterMode" class="select-input">
+                    <option value="or" selected>OR (any tag)</option>
+                    <option value="and">AND (all tags)</option>
+                </select>
+            </div>
+
+            <div class="control-group">
+                <label for="tagFilter">🏷️ Filter by Tags:</label>
+                <div id="tagButtons" class="tag-buttons"></div>
+            </div>
+
+            <div class="control-group">
+                <label for="selectedTags">Selected Tags:</label>
+                <div id="selectedTags" class="selected-tags">
+                    <span class="no-selection">No tags selected</span>
+                </div>
+            </div>
+
+            <div class="control-group">
+                <button id="clearFilters" class="btn-clear">Clear All Filters</button>
+                <button id="refreshData" class="btn-refresh">🔄 Refresh</button>
+            </div>
+
+            <div class="stats">
+                <span id="imageCount">0 images</span> | 
+                <span id="filterCount">0 filtered</span>
+            </div>
+        </div>
+
+        <div id="gallery" class="gallery">
+            <p class="loading">Loading images...</p>
+        </div>
+
+        <div id="pagination" class="pagination">
+            <button id="prevPage" class="btn-pagination" title="Previous page">← Previous</button>
+            <span id="pageInfo" class="page-info">Page 1</span>
+            <button id="nextPage" class="btn-pagination" title="Next page">Next →</button>
+        </div>
+    </div>
+
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div class="modal-body">
+                <img id="modalImage" src="" alt="Full size image">
+                <div class="modal-info">
+                    <h2 id="modalFilename"></h2>
+                    
+                    <div class="info-section">
+                        <h3>Tags</h3>
+                        <div id="modalTags" class="tag-list"></div>
+                    </div>
+
+                    <div class="info-section">
+                        <h3>Raw Text</h3>
+                        <pre id="modalRawText"></pre>
+                    </div>
+
+                    <div class="info-section">
+                        <h3>Structured Data</h3>
+                        <pre id="modalStructuredData"></pre>
+                    </div>
+
+                    <div class="info-section">
+                        <h3>Profile Mentions</h3>
+                        <div id="modalMentions"></div>
+                    </div>
+
+                    <div class="info-section">
+                        <h3>Additional Metadata</h3>
+                        <pre id="modalAdditionalMetadata"></pre>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/frontend/filter.js"></script>
+    <script src="/frontend/app.js"></script>
+</body>
+</html>

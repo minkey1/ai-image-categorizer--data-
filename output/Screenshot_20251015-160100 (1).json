@@ -1,0 +1,97 @@
+{
+  "filename": "Screenshot_20251015-160100 (1).webp",
+  "tags": [
+    "screenshot",
+    "whatsapp",
+    "messaging",
+    "chat",
+    "locations",
+    "mobile",
+    "electronics",
+    "stores",
+    "addresses",
+    "phone numbers",
+    "travel",
+    "distances"
+  ],
+  "raw_text": "4:00\n307 KB/S\nVoLTE\n5G R\n82\n←\nHrithik Photographer\nAddress: OLD KBS BANK KESHAV NAGAR AMARCHINTHA ROAD ATMAKUR\nPhone: 8341752854\nPoint B: DREAM MOBILES & ELECTRONICS (ATMAKUR)\nAddress: PLOT NO 10- ATMAKUR- NEAR BUSSTAND- WANAPARTHY.\nPhone: 9949406316\nDistance from Point A: 1 km (Same town)\nPoint C: BALAJI ELECTRONICS & MOBILE S (PEBBAIR)\nAddress: SHOP NO.5-42/2A- BESIDE KOLLAPUR CHOWRASTA- Pebbair- Wanaparthy\nPhone: 9966049535\nDistance from Point B: 30 km\nPoint D: PAVAN MOBILES AND ELECTRONICS (NAGARKURNOOL)\nAddress: 15-4-STU COMPLEX-MAIN ROAD-NAGARKURNOOL\nPhone: 9010449090\nDistance from Point C: 49 km\nPoint E: Sri Sai Datta Marketers - TG - New Mi Store (NAGARKURNOOL)\nAddress: 14 - 3- MIG- Housing Board Colony- Nagar Kurnool\nPhone: 9948006765\nDistan... Read more\n2:19 PM\nYou\nPoint A: SHIVA SAI DIGITAL & HOME NEEDS (ATMAKUR)\nAddress: OLD KBS BANK KESHAV NAGAR ...\n5 locations within 95kms\n2:20 PM\nBhai 3:56 PM\nNo one is willing to go 3:56 PM\nFaak 4:00 PM\nMessage",
+  "structured_data": {
+    "chat_context": {
+      "contact_name": "Hrithik Photographer",
+      "messages": [
+        {
+          "sender": "Self",
+          "content": "List of store locations with addresses and contact numbers.",
+          "locations": [
+            {
+              "point": "Point A",
+              "name": "SHIVA SAI DIGITAL & HOME NEEDS (ATMAKUR)",
+              "address": "OLD KBS BANK KESHAV NAGAR AMARCHINTHA ROAD ATMAKUR",
+              "phone": "8341752854"
+            },
+            {
+              "point": "Point B",
+              "name": "DREAM MOBILES & ELECTRONICS (ATMAKUR)",
+              "address": "PLOT NO 10- ATMAKUR- NEAR BUSSTAND- WANAPARTHY",
+              "phone": "9949406316",
+              "distance": "1 km from Point A"
+            },
+            {
+              "point": "Point C",
+              "name": "BALAJI ELECTRONICS & MOBILES (PEBBAIR)",
+              "address": "SHOP NO.5-42/2A- BESIDE KOLLAPUR CHOWRASTA- Pebbair- Wanaparthy",
+              "phone": "9966049535",
+              "distance": "30 km from Point B"
+            },
+            {
+              "point": "Point D",
+              "name": "PAVAN MOBILES AND ELECTRONICS (NAGARKURNOOL)",
+              "address": "15-4-STU COMPLEX-MAIN ROAD-NAGARKURNOOL",
+              "phone": "9010449090",
+              "distance": "49 km from Point C"
+            },
+            {
+              "point": "Point E",
+              "name": "Sri Sai Datta Marketers - TG - New Mi Store (NAGARKURNOOL)",
+              "address": "14 - 3- MIG- Houseing Board Colony- Nagar Kurnool",
+              "phone": "9948006765"
+            }
+          ],
+          "timestamp": "2:19 PM"
+        },
+        {
+          "sender": "Hrithik Photographer",
+          "content": "No one is willing to go",
+          "timestamp": "3:56 PM"
+        },
+        {
+          "sender": "Self",
+          "content": "Faak",
+          "timestamp": "4:00 PM"
+        }
+      ]
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "phone_numbers": [
+      "8341752854",
+      "9949406316",
+      "9966049535",
+      "9010449090",
+      "9948006765"
+    ],
+    "timestamps": [
+      "2:19 PM",
+      "2:20 PM",
+      "3:56 PM",
+      "4:00 PM"
+    ],
+    "device_status": {
+      "time": "4:00",
+      "battery_percentage": "82%",
+      "network_type": "5G",
+      "data_speed": "307 KB/S"
+    }
+  }
+}

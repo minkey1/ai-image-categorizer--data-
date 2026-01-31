@@ -1,0 +1,41 @@
+{
+  "filename": "Screenshot_20251111-181628 (1).webp",
+  "tags": [
+    "screenshot",
+    "story",
+    "advertisement",
+    "PR",
+    "marketing",
+    "Turkish",
+    "media",
+    "news",
+    "television",
+    "magazine"
+  ],
+  "raw_text": "Enes Köseler Turkey\nToday, 4:12 PM\nAMA BİRLİKTE GÜÇLÜYÜZ!\nPR ve reklam desteğimizle yanınızdayız:\nFIRSAT PAKETİ\n3 Ulusal gazete haberi,\n3 ulusal televizyon reklamı,\n2 ulusal dergi röportajı,\nNEWS\nReply",
+  "structured_data": {
+    "profile_name": "Enes Köseler Turkey",
+    "post_timestamp": "Today, 4:12 PM",
+    "advertisement_details": {
+      "headline": "AMA BİRLİKTE GÜÇLÜYÜZ!",
+      "sub_headline": "PR ve reklam desteğimizle yanınızdayız:",
+      "package_name": "FIRSAT PAKETİ",
+      "package_contents": [
+        "3 Ulusal gazete haberi",
+        "3 ulusal televizyon reklamı",
+        "2 ulusal dergi röportajı"
+      ]
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "language": "Turkish",
+    "visual_elements": [
+      "Satellite dish icon",
+      "Globe icon",
+      "Newspaper icon",
+      "Red lightning bolt",
+      "Red star"
+    ]
+  }
+}

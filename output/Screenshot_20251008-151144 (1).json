@@ -1,0 +1,57 @@
+{
+  "filename": "Screenshot_20251008-151144 (1).webp",
+  "tags": [
+    "screenshot",
+    "wikipedia",
+    "telugu",
+    "references",
+    "bibliography",
+    "web",
+    "education",
+    "literature",
+    "citation",
+    "digital-library"
+  ],
+  "raw_text": "మూలాలు\n1. ↑ https://books.google.co.in/books?id=sqBjpV9OzcsC&pg=PA532&lpg=PA532&dq=bhogaraju+narayanamurthi&source=bl&ots=Db6dF2ifLn&sig=4nEVEzv8JrczMhv-gEnSpyavsws&hl=te&sa=X&ved=0ahUKEwjbh96T9O7WAhXJuY8KHYMnCTkQ6AEIWzAI#v=onepage&q=bhogaraju%20narayanamurthi&f=false\n2. ↑ https://archive.org/details/in.ernet.dli.2015.497375/mode/2up\n3. ↑ భారత డిజిటల్ లైబ్రరీలో పుస్తక ప్రతి.\n4. ↑ భారత డిజిటల్ లైబ్రరీలో లక్షణ పుస్తక ప్రతి.",
+  "structured_data": {
+    "section_header": "మూలాలు (References)",
+    "citations_count": 4,
+    "citations_list": [
+      {
+        "index": 1,
+        "type": "External Link - Google Books",
+        "url": "https://books.google.co.in/books?id=sqBjpV9OzcsC&pg=PA532&lpg=PA532&dq=bhogaraju+narayanamurthi&source=bl&ots=Db6dF2ifLn&sig=4nEVEzv8JrczMhv-gEnSpyavsws&hl=te&sa=X&ved=0ahUKEwjbh96T9O7WAhXJuY8KHYMnCTkQ6AEIWzAI#v=onepage&q=bhogaraju%20narayanamurthi&f=false",
+        "keywords": [
+          "bhogaraju",
+          "narayanamurthi"
+        ]
+      },
+      {
+        "index": 2,
+        "type": "External Link - Internet Archive",
+        "url": "https://archive.org/details/in.ernet.dli.2015.497375/mode/2up"
+      },
+      {
+        "index": 3,
+        "type": "Text with Link",
+        "text_telugu": "భారత డిజిటల్ లైబ్రరీలో పుస్తక ప్రతి.",
+        "translation": "Book copy in the Digital Library of India."
+      },
+      {
+        "index": 4,
+        "type": "Text with Link",
+        "text_telugu": "భారత డిజిటల్ లైబ్రరీలో లక్షణ పుస్తక ప్రతి.",
+        "translation": "Descriptive/Characteristics book copy in the Digital Library of India."
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "language": "Telugu",
+    "source_platform": "Wikipedia Mobile",
+    "links": [
+      "https://books.google.co.in/books?id=sqBjpV9OzcsC&pg=PA532&lpg=PA532&dq=bhogaraju+narayanamurthi&source=bl&ots=Db6dF2ifLn&sig=4nEVEzv8JrczMhv-gEnSpyavsws&hl=te&sa=X&ved=0ahUKEwjbh96T9O7WAhXJuY8KHYMnCTkQ6AEIWzAI#v=onepage&q=bhogaraju%20narayanamurthi&f=false",
+      "https://archive.org/details/in.ernet.dli.2015.497375/mode/2up"
+    ]
+  }
+}

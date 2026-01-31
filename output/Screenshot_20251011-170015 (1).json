@@ -1,0 +1,36 @@
+{
+  "filename": "Screenshot_20251011-170015 (1).webp",
+  "tags": [
+    "screenshot",
+    "transportation",
+    "travel",
+    "train",
+    "railway",
+    "schedule",
+    "app",
+    "india"
+  ],
+  "raw_text": "VSKP - Visakhapatnam Junction → AD - Adoni\n18111 8:55 AM — 17h44m — 2:39 AM\nYesvantpur Weekly Express S M T W T F S",
+  "structured_data": {
+    "origin_station": "Visakhapatnam Junction (VSKP)",
+    "destination_station": "Adoni (AD)",
+    "train_number": "18111",
+    "train_name": "Yesvantpur Weekly Express",
+    "departure_time": "8:55 AM",
+    "duration": "17h44m",
+    "arrival_time": "2:39 AM",
+    "operating_days": {
+      "Sunday": false,
+      "Monday": false,
+      "Tuesday": false,
+      "Wednesday": false,
+      "Thursday": false,
+      "Friday": true,
+      "Saturday": false
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "train_id": "18111"
+  }
+}

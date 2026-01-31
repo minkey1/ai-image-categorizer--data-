@@ -1,0 +1,45 @@
+{
+  "filename": "Screenshot_20251019-115710 (1).webp",
+  "tags": [
+    "screenshot",
+    "linkedin",
+    "mobile",
+    "notification",
+    "invitation",
+    "networking",
+    "college",
+    "ashoka",
+    "music",
+    "concert",
+    "travis_scott",
+    "ticket_sale",
+    "message",
+    "social_media",
+    "meme"
+  ],
+  "raw_text": "11:57\n1.17 KB/S\nVoLTE\n5G\n89\nInvitations (1)\nPrivate Markets | Secon...\n2 mutual connections\nToday\nHey Omkar, I noticed you're from Ashoka and thought I'd reach out. I am actually looking to sell my Travis Scott, Gold Right Tickets at 10k for tomorrows show. Pls lmk if you're interested or know someone who might be. Thanks\ni hate ashoka and linkedin",
+  "structured_data": {
+    "platform": "LinkedIn",
+    "invitation_details": {
+      "sender_headline": "Private Markets | Secon...",
+      "mutual_connections": "2",
+      "timestamp": "Today",
+      "message_content": "Hey Omkar, I noticed you're from Ashoka and thought I'd reach out. I am actually looking to sell my Travis Scott, Gold Right Tickets at 10k for tomorrows show. Pls lmk if you're interested or know someone who might be. Thanks"
+    },
+    "recipient_name": "Omkar",
+    "overlay_text": "i hate ashoka and linkedin",
+    "device_status_bar": {
+      "time": "11:57",
+      "data_speed": "1.17 KB/S",
+      "network": "5G VoLTE",
+      "battery": "89%"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "event_mentioned": "Travis Scott show",
+    "price_mentioned": "10k",
+    "organization_mentioned": "Ashoka (University)",
+    "ticket_type": "Gold Right Tickets"
+  }
+}

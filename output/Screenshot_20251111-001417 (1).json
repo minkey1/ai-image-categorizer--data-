@@ -1,0 +1,78 @@
+{
+  "filename": "Screenshot_20251111-001417 (1).webp",
+  "tags": [
+    "screenshot",
+    "video-call",
+    "google-meet",
+    "mobile",
+    "people",
+    "birthday",
+    "group",
+    "communication",
+    "emojis"
+  ],
+  "raw_text": "12:14\n218 KB/S VoLTE 5G 56\nddm-vjaf-rsk\nSiddhesh\nHAPPY BDAY\nKhushi\nDishi\nRinson\nSakshi\nYou\nprince9305",
+  "structured_data": {
+    "platform": "Google Meet",
+    "meeting_details": {
+      "meeting_code": "ddm-vjaf-rsk",
+      "participants": [
+        {
+          "name": "Siddhesh",
+          "notes": "Birthday background visible"
+        },
+        {
+          "name": "Khushi",
+          "status": "Speaking"
+        },
+        {
+          "name": "Dishi"
+        },
+        {
+          "name": "Rinson"
+        },
+        {
+          "name": "Sakshi"
+        },
+        {
+          "name": "You",
+          "status": "Self"
+        },
+        {
+          "name": "prince9305"
+        }
+      ]
+    },
+    "device_info": {
+      "time": "12:14",
+      "network": "5G VoLTE",
+      "data_speed": "218 KB/S",
+      "battery": "56%"
+    },
+    "interface_elements": {
+      "reactions": [
+        "heart eyes",
+        "thumbs up",
+        "party popper",
+        "clapping hands",
+        "laughing with tears",
+        "surprised",
+        "crying",
+        "thinking"
+      ],
+      "controls": [
+        "camera toggle",
+        "microphone toggle",
+        "emoji menu",
+        "more options",
+        "end call"
+      ]
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "meeting_id": "ddm-vjaf-rsk",
+    "theme": "Birthday celebration",
+    "app": "Google Meet mobile application"
+  }
+}

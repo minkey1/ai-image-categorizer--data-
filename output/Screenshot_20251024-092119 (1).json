@@ -1,0 +1,33 @@
+{
+  "filename": "Screenshot_20251024-092119 (1).webp",
+  "tags": [
+    "screenshot",
+    "table",
+    "data",
+    "SEO",
+    "websites",
+    "metrics",
+    "comparison"
+  ],
+  "raw_text": "Site\nEstimated Domain Authority (DA)\nEverybodywiki\n~60-70 (Estimate)\nWikiflux\n~40-60 (Estimate)\nKnowlepedia\n~40-60 (Estimate)",
+  "structured_data": {
+    "table_data": [
+      {
+        "site": "Everybodywiki",
+        "estimated_domain_authority_da": "~60-70 (Estimate)"
+      },
+      {
+        "site": "Wikiflux",
+        "estimated_domain_authority_da": "~40-60 (Estimate)"
+      },
+      {
+        "site": "Knowlepedia",
+        "estimated_domain_authority_da": "~40-60 (Estimate)"
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "topic": "Website SEO Metrics (Domain Authority)"
+  }
+}

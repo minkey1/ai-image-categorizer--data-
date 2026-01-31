@@ -1,0 +1,91 @@
+{
+  "filename": "Screenshot_20251105-113523 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "profile",
+    "ecommerce",
+    "dropshipping",
+    "marketing",
+    "finance",
+    "business",
+    "automation",
+    "reels",
+    "video-grid",
+    "products"
+  ],
+  "raw_text": "11:35\n533 KB/s VOLTE 5G 88\ntradelle\nFind winning products to sell, and automate your store\nTry Tradelle for free\ntradelle.io/start\nFollowed by maihucameraman and 6 others\nFollow\nMessage\nPOV: She can smell you 24/7\n6.4M\nBuy for $4.87 Sell for $24.99\nGross profit: $20.12 per sale\n44.8K\nBuy for $2.11 Sell for $14.99\nGross profit: $12.88 per sale\n49.7K\nBuy for $1.06 Sell for $14.99\nGross profit: $13.93 per sale\n54.3K\nJust watched\nBuy for $12.87 Sell for $39.99\nGross profit: $27.12 per sale\n292K\nBuy for $7.36 Sell for $24.99\nGross profit: $17.63 per sale\n49.6K",
+  "structured_data": {
+    "profile": {
+      "username": "tradelle",
+      "is_verified": true,
+      "bio": "Find winning products to sell, and automate your store 👇 Try Tradelle for free",
+      "link": "tradelle.io/start",
+      "followed_by": [
+        "maihucameraman",
+        "6 others"
+      ]
+    },
+    "posts_grid": [
+      {
+        "type": "video",
+        "is_pinned": true,
+        "views": "6.4M",
+        "caption": "POV: She can smell you 24/7"
+      },
+      {
+        "type": "product_showcase",
+        "buy_price": "$4.87",
+        "sell_price": "$24.99",
+        "gross_profit": "$20.12 per sale",
+        "views": "44.8K"
+      },
+      {
+        "type": "product_showcase",
+        "buy_price": "$2.11",
+        "sell_price": "$14.99",
+        "gross_profit": "$12.88 per sale",
+        "views": "49.7K"
+      },
+      {
+        "type": "product_showcase",
+        "buy_price": "$1.06",
+        "sell_price": "$14.99",
+        "gross_profit": "$13.93 per sale",
+        "views": "54.3K"
+      },
+      {
+        "type": "product_showcase",
+        "status": "Just watched",
+        "buy_price": "$12.87",
+        "sell_price": "$39.99",
+        "gross_profit": "$27.12 per sale",
+        "views": "292K"
+      },
+      {
+        "type": "product_showcase",
+        "buy_price": "$7.36",
+        "sell_price": "$24.99",
+        "gross_profit": "$17.63 per sale",
+        "views": "49.6K"
+      }
+    ]
+  },
+  "profile_mentions": [
+    "@maihucameraman"
+  ],
+  "additional_metadata": {
+    "urls": [
+      "tradelle.io/start"
+    ],
+    "hashtags": [],
+    "phone_numbers": [],
+    "emails": [],
+    "device_info": {
+      "time": "11:35",
+      "battery_level": "88%",
+      "network": "5G",
+      "data_speed": "533 KB/s"
+    }
+  }
+}

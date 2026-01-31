@@ -1,0 +1,40 @@
+{
+  "filename": "Screenshot_20251015-010207 (1).webp",
+  "tags": [
+    "screenshot",
+    "video",
+    "file",
+    "attachment",
+    "communication",
+    "internal",
+    "mp4",
+    "Telangana"
+  ],
+  "raw_text": "N14 & PAD 2 South Edits internal\n8/22/25\nPhani Kumar: 📃 Nandini Communications - Telangana\nIMG_9849.MP4\n79 MB • MP4\nMP4",
+  "structured_data": {
+    "title": "N14 & PAD 2 South Edits internal",
+    "timestamp": "8/22/25",
+    "sender": {
+      "name": "Phani Kumar",
+      "organization": "Nandini Communications",
+      "location": "Telangana"
+    },
+    "attachment": {
+      "filename": "IMG_9849.MP4",
+      "file_size": "79 MB",
+      "file_type": "MP4"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "dates": [
+      "8/22/25"
+    ],
+    "file_info": {
+      "extension": ".MP4",
+      "size": "79 MB"
+    },
+    "location": "Telangana",
+    "organization": "Nandini Communications"
+  }
+}

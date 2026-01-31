@@ -1,0 +1,77 @@
+{
+  "filename": "Screenshot_20251017-021318 (1).webp",
+  "tags": [
+    "screenshot",
+    "template",
+    "funeral",
+    "memorial",
+    "invitation",
+    "announcement",
+    "floral",
+    "obituary",
+    "remembrance",
+    "death",
+    "cards",
+    "design",
+    "graphic"
+  ],
+  "raw_text": "Celebrating\nTHE LIFE OF\nJamie Chastain\nJANUARY 3, 1998 - AUGUST 14, 2025\nSERVICE\nSUNDAY SEPTEMBER 2025 AT 10:30AM\nMAIN BUILDING\n123 ANYWHERE ST.,ANY CITY,\nST 12345\n\nIn loving\nMEMORY OF\nOlivia Wilson\nOctober 06, 1952 - May 07, 2023\n4TH OF AUGUST 2023\n10 o'clock in the morning\n123 Anywhere st., Any City\n\nYOU ARE INVITED TO\nAlexander Aronowitz\n13.12.1950 - 11.01.2025\nJUNE 3, 2025 | AT 2:00 PM\nFUNERAL SERVICE:\n123 ANYWHERE ST., ANY CITY,\nST 12345\n\nTHE BENNETT FAMILY REGRETS TO ANNOUNCE THE PASSING OF\nSEBASTIAN BENNETT\nA SERVICE WILL BE HELD ON\n24 NOVEMBER 2024\n3 PM\n123 ANYWHERE ST., ANY CITY\n123-456-7890",
+  "structured_data": {
+    "templates": [
+      {
+        "type": "Memorial Card",
+        "subject": "Jamie Chastain",
+        "birth_death_dates": "JANUARY 3, 1998 - AUGUST 14, 2025",
+        "event_type": "SERVICE",
+        "event_date": "SUNDAY SEPTEMBER 2025",
+        "event_time": "10:30AM",
+        "location": "MAIN BUILDING, 123 ANYWHERE ST., ANY CITY, ST 12345"
+      },
+      {
+        "type": "In Loving Memory Card",
+        "subject": "Olivia Wilson",
+        "birth_death_dates": "October 06, 1952 - May 07, 2023",
+        "event_date": "4TH OF AUGUST 2023",
+        "event_time": "10 o'clock in the morning",
+        "location": "123 Anywhere st., Any City"
+      },
+      {
+        "type": "Funeral Service Invitation",
+        "subject": "Alexander Aronowitz",
+        "birth_death_dates": "13.12.1950 - 11.01.2025",
+        "event_type": "FUNERAL SERVICE",
+        "event_date": "JUNE 3, 2025",
+        "event_time": "2:00 PM",
+        "location": "123 ANYWHERE ST., ANY CITY, ST 12345"
+      },
+      {
+        "type": "Passing Announcement",
+        "subject": "SEBASTIAN BENNETT",
+        "family": "THE BENNETT FAMILY",
+        "event_type": "SERVICE",
+        "event_date": "24 NOVEMBER 2024",
+        "event_time": "3 PM",
+        "location": "123 ANYWHERE ST., ANY CITY",
+        "phone": "123-456-7890"
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "phone_numbers": [
+      "123-456-7890"
+    ],
+    "dates": [
+      "JANUARY 3, 1998",
+      "AUGUST 14, 2025",
+      "SUNDAY SEPTEMBER 2025",
+      "October 06, 1952",
+      "May 07, 2023",
+      "4TH OF AUGUST 2023",
+      "13.12.1950",
+      "11.01.2025",
+      "JUNE 3, 2025",
+      "24 NOVEMBER 2024"
+    ]
+  }
+}

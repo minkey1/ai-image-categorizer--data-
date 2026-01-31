@@ -1,0 +1,53 @@
+{
+  "filename": "Screenshot_20251012-184031 (1).webp",
+  "tags": [
+    "screenshot",
+    "text",
+    "photo",
+    "food",
+    "plant",
+    "snack",
+    "India",
+    "botany",
+    "mystery",
+    "Ram Kand Mool",
+    "Agave sisalana",
+    "culture",
+    "tuber"
+  ],
+  "raw_text": "Ram Kand Mool is a mysterious plant whose drum-shaped tuber is sold as a refreshing, cooling street snack in India, particularly in states like Karnataka, Andhra Pradesh, and Maharashtra. Though associated with Lord Rama's exile, its true identity has long been a subject of scientific mystery, but recent DNA analysis suggests it is the core of the Century Plant (Agave sisalana). In Tamil Nadu its known as, Boomi Sakkaraivalli kizhangu!\n\nIt is served with all sorts of seasonings, from chili and salt, to lime and sugar. It’s cut and served as very thin slices out of tubers\n\nIt remains a mystery to scientists, as no one can figure out what plant produces it.\n\nIndian botanists developed an interest in ram kand mool in the 1980s, after trying and failing to find out the origins of the almost paper-thin snacks cut out of giant reddish tubers by street vendors.\n\nNone of them were willing to reveal the plant that produced it, and those that did gave conflicting answers. Some claimed that it was a root, others that it was the stem of a plant, but most either refused to answer or claimed that they bought the tubers from third parties and genuinely didn’t know the source.\n\nStranger still was the fact that not even science could provide a clear answer to the botanists’ questions.",
+  "structured_data": {
+    "subject": "Ram Kand Mool",
+    "description": "A mysterious plant with a drum-shaped tuber sold as a street snack in India.",
+    "geographic_regions": [
+      "Karnataka",
+      "Andhra Pradesh",
+      "Maharashtra",
+      "Tamil Nadu"
+    ],
+    "local_names": {
+      "Tamil Nadu": "Boomi Sakkaraivalli kizhangu"
+    },
+    "mythological_connection": "Associated with Lord Rama's exile",
+    "scientific_identity": "Suggested to be the core of the Century Plant (Agave sisalana) via DNA analysis",
+    "preparation_method": "Cut into very thin, paper-thin slices from large reddish tubers",
+    "seasonings": [
+      "chili",
+      "salt",
+      "lime",
+      "sugar"
+    ],
+    "history": "Botanists have been interested since the 1980s but faced secrecy from vendors."
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "scientific_names_mentioned": [
+      "Agave sisalana"
+    ],
+    "common_names_mentioned": [
+      "Ram Kand Mool",
+      "Century Plant",
+      "Boomi Sakkaraivalli kizhangu"
+    ]
+  }
+}

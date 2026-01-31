@@ -1,0 +1,71 @@
+{
+  "filename": "Screenshot_20251107-011049 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "profile",
+    "social-media",
+    "finance",
+    "business",
+    "marketing",
+    "influencer",
+    "content-creator",
+    "luxury",
+    "cars",
+    "retail",
+    "lifestyle"
+  ],
+  "raw_text": "1:10\n104 KB/S\nVoLTE\n5G\n12\ndiwanmayur\nMayur Diwan\n302 posts\n165K followers\n159 following\nFinance, Business & Marketing.\nCrafting impactful narratives to elevate your understanding!\nManaged by @onocreators\ndiwanmayur 1 New\nFollowed by ca.pranavg and 7 others\nFollow\nMessage\nEmail\nUltimate gift wrapping hack\nLUXURY PRODUCTS\nLOS ANGELES\nBMW\nAudi\nShop now\nGo to website\nFARMERS FRIDGE",
+  "structured_data": {
+    "profile": {
+      "name": "Mayur Diwan",
+      "username": "diwanmayur",
+      "verification_status": "verified",
+      "post_count": "302",
+      "follower_count": "165K",
+      "following_count": "159",
+      "bio": "Finance, Business & Marketing. Crafting impactful narratives to elevate your understanding! Managed by @onocreators",
+      "threads_username": "diwanmayur",
+      "mutual_followers": "ca.pranavg and 7 others"
+    },
+    "post_thumbnails": [
+      {
+        "content_type": "video",
+        "text_overlay": "Ultimate gift wrapping hack"
+      },
+      {
+        "content_type": "video",
+        "text_overlay": "LUXURY PRODUCTS"
+      },
+      {
+        "content_type": "video",
+        "text_overlay": "BMW vs Audi"
+      },
+      {
+        "content_type": "video",
+        "text_overlay": "Fruit salads"
+      }
+    ]
+  },
+  "profile_mentions": [
+    "@onocreators",
+    "ca.pranavg"
+  ],
+  "additional_metadata": {
+    "status_bar": {
+      "time": "1:10",
+      "network": "5G",
+      "battery": "12%",
+      "data_speed": "104 KB/S"
+    },
+    "action_buttons": [
+      "Follow",
+      "Message",
+      "Email"
+    ],
+    "ad_banner": {
+      "text": "Shop now Go to website",
+      "profile_image": "Mayur Diwan"
+    }
+  }
+}

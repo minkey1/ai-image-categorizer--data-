@@ -1,0 +1,84 @@
+{
+  "filename": "Screenshot_20251018-091633 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "reel",
+    "infographic",
+    "design",
+    "photography",
+    "art",
+    "education",
+    "color-theory",
+    "diagram",
+    "chart"
+  ],
+  "raw_text": "9:16\n5.88 KB/S\nVoLTE\n5G\n96\nReels\nFriends\nCOLOUR THEORY\nCOLOUR MIXING\nCMYK\nCyan, Magenta, Yellow, Black\nPrint Process Model\nMEANINGS\nLOVE, BLOOD, FIRE, ENERGY, STRONG, INTENSE.\nPOWER, WEALTH, AMBITION, NOBLE, ROYALTY.\nSEA, TRUST, SKY, STABILITY, TRANQUIL, DEPTH.\nFRESHNESS, NATURE, MONEY, GROWTH, SAFETY.\nENERGY, SUNSHINE, BRIGHT, CHEERFUL, JOY.\nWARM, HAPPINESS, SUCCESS, AUTUMN, CREATIVE.\nRGB\nRed, Green, Blue\nLight Generated Model\nCOOL\nWARM\nGREY SCALE\nBlack and white only\nHSB\nHue (color), Saturation (how much color), Black (tint and shade)\nCOLOUR PROPERTIES\nCOOL\nWARM\nBRIGHT\nDARK\nSATURATED\nDESATURATED\nCOLOUR RELATIONSHIPS\nPRIMARY\nSQUARE\nCOMPLEMENTARY\nTRIAD\nANALOGOUS\nTETRADIC\nLikes\n56\n53\ngiovannii.jpeg\nFollow\nCore fundamentals of Photography 👇🚨 ...\nFollowed by john_paulpj",
+  "structured_data": {
+    "instagram_post": {
+      "author_username": "giovannii.jpeg",
+      "author_follow_status": "Follow",
+      "caption": "Core fundamentals of Photography 👇🚨 ...",
+      "followed_by_context": "john_paulpj",
+      "shares_count": 56,
+      "comments_count": 53
+    },
+    "infographic_content": {
+      "title": "COLOUR THEORY",
+      "sections": [
+        {
+          "header": "COLOUR MIXING",
+          "models": [
+            "CMYK (Print Process Model)",
+            "RGB (Light Generated Model)",
+            "GREY SCALE",
+            "HSB (Hue, Saturation, Black)"
+          ]
+        },
+        {
+          "header": "MEANINGS",
+          "color_symbolism": {
+            "Red": "LOVE, BLOOD, FIRE, ENERGY, STRONG, INTENSE.",
+            "Purple": "POWER, WEALTH, AMBITION, NOBLE, ROYALTY.",
+            "Blue": "SEA, TRUST, SKY, STABILITY, TRANQUIL, DEPTH.",
+            "Green": "FRESHNESS, NATURE, MONEY, GROWTH, SAFETY.",
+            "Yellow": "ENERGY, SUNSHINE, BRIGHT, CHEERFUL, JOY.",
+            "Orange": "WARM, HAPPINESS, SUCCESS, AUTUMN, CREATIVE."
+          }
+        },
+        {
+          "header": "COLOUR PROPERTIES",
+          "properties": [
+            "COOL",
+            "WARM",
+            "BRIGHT",
+            "DARK",
+            "SATURATED",
+            "DESATURATED"
+          ]
+        },
+        {
+          "header": "COLOUR RELATIONSHIPS",
+          "relationships": [
+            "PRIMARY",
+            "SQUARE",
+            "COMPLEMENTARY",
+            "TRIAD",
+            "ANALOGOUS",
+            "TETRADIC"
+          ]
+        }
+      ]
+    }
+  },
+  "profile_mentions": [
+    "giovannii.jpeg",
+    "john_paulpj"
+  ],
+  "additional_metadata": {
+    "system_time": "9:16",
+    "network_status": "5G, VoLTE",
+    "battery_level": "96%",
+    "data_speed": "5.88 KB/s"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "filename": "Screenshot_20251026-170336 (1).webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "reel",
+    "video",
+    "man",
+    "chicken",
+    "reality",
+    "food",
+    "health",
+    "restaurant",
+    "socialmedia",
+    "actor",
+    "logo",
+    "meme"
+  ],
+  "raw_text": "5:03\n151 KB/S\nVoLTE\n5G\n58\nSuggested\nShare video please 🙏\nReality\nTAMI ADU AND\n383K\n857\n3,757\n295K\nAdultGlam\nadult_glam\nFollow\nCheap food, costly health! 🛢 Many restaurants reuse ...\nSend to chat\nStart a blend",
+  "structured_data": {
+    "platform": "Instagram",
+    "post_type": "Reel",
+    "author": {
+      "username": "adult_glam",
+      "is_followed": false
+    },
+    "interaction_stats": {
+      "likes": "383K",
+      "comments": "857",
+      "reposts": "3,757",
+      "shares": "295K"
+    },
+    "caption": "Cheap food, costly health! 🛢 Many restaurants reuse ...",
+    "visual_content": {
+      "main_figure": "A man in a light blue shirt (Actor Siddharth)",
+      "background_elements": [
+        "A chicken",
+        "Signage with 'TAMI ADU' and 'AND'"
+      ],
+      "overlay_text": [
+        "Share video please 🙏",
+        "Reality"
+      ]
+    },
+    "branding": {
+      "logo_text": "AdultGlam",
+      "logo_description": "Pyramid with an eye and a flame"
+    }
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "system_time": "5:03",
+    "battery_percentage": "58%",
+    "network_info": "5G, VoLTE",
+    "data_speed": "151 KB/S",
+    "emojis_found": [
+      "🙏",
+      "🛢"
+    ]
+  }
+}

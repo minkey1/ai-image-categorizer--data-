@@ -1,0 +1,53 @@
+{
+  "filename": "Screenshot_20251015-121153 (1).webp",
+  "tags": [
+    "screenshot",
+    "text",
+    "wikipedia",
+    "editing",
+    "documentation",
+    "guide",
+    "indexing",
+    "policy",
+    "web",
+    "instruction"
+  ],
+  "raw_text": "Risk of deletion: Attempting to force an article to be indexed by circumventing the process is a red flag. If the article does not meet Wikipedia's standards, an editor is likely to nominate it for deletion, making it impossible to index.\n\nPenalties for paid editing: If an undisclosed paid editor attempts to remove the tag, the article is even more likely to be flagged for deletion.\n\nThe correct and safe way to expedite indexing\n\nThe only way to have the __NOINDEX__ tag removed early is to create a high-quality article that can be approved by a volunteer editor during the patrol process.\n\n1. Write a high-quality article: Adhere strictly to Wikipedia's notability, neutrality, and sourcing policies. Provide high-quality, reliable, third-party sources to back up all claims.\n\n2. Wait for a new page reviewer: Experienced reviewers with the proper permissions will review the article. If it meets all of Wikipedia's standards, they will remove the __NOINDEX__ tag, and the page will become eligible for indexing.",
+  "structured_data": {
+    "document_title": "The correct and safe way to expedite indexing",
+    "key_points": [
+      {
+        "topic": "Risk of deletion",
+        "description": "Attempting to circumvent indexing processes for articles that don't meet standards can lead to deletion nomination."
+      },
+      {
+        "topic": "Penalties for paid editing",
+        "description": "Undisclosed paid editors removing tags increase the likelihood of deletion flagging."
+      }
+    ],
+    "steps_to_expedite_indexing": [
+      {
+        "step_number": 1,
+        "title": "Write a high-quality article",
+        "details": "Adhere to Wikipedia's notability, neutrality, and sourcing policies with reliable third-party sources."
+      },
+      {
+        "step_number": 2,
+        "title": "Wait for a new page reviewer",
+        "details": "Experienced reviewers will remove the __NOINDEX__ tag if the article meets all standards."
+      }
+    ]
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "platform_mentioned": "Wikipedia",
+    "special_tags_mentioned": [
+      "__NOINDEX__"
+    ],
+    "policy_areas": [
+      "notability",
+      "neutrality",
+      "sourcing"
+    ]
+  }
+}
