@@ -1,0 +1,79 @@
+{
+  "filename": "Screenshot_20251113-103123.webp",
+  "tags": [
+    "screenshot",
+    "instagram",
+    "social_media_profile",
+    "reels",
+    "person",
+    "content_creation",
+    "video_editing",
+    "marketing",
+    "filmmaking",
+    "smm",
+    "waitlist",
+    "ads",
+    "makeup",
+    "fashion"
+  ],
+  "raw_text": "10:31\n243 KB/s VOLTE 5G 37\ndaniel.does.ads\nDaniel Chursin | SMM him\n24 posts\n89.8K followers\n333 following\nReel creator\n🎬 Helping creators spread their passion\n🎞️ Lights, camera, action for your reels\n📬 Not taking new clients - DM to join wait list\nstan.store/danieldoesads\nFollowed by faheem_sait, drandremarinho and 10 others\nFollow\nMessage\nPART 5\n33.8K\nMAKES YOUR VIDEO LOOK THREE DIMENSIONAL\n38.5K\nCAPTIONS CHASE YOU\n28.3K\n19.1K\nDid you notice how in the movies\n173K\nMASKING TRANSITIONS\n141K",
+  "structured_data": {
+    "profile": {
+      "username": "daniel.does.ads",
+      "name": "Daniel Chursin | SMM",
+      "pronouns": "him",
+      "is_verified": true,
+      "post_count": "24",
+      "follower_count": "89.8K",
+      "following_count": "333",
+      "category": "Reel creator",
+      "bio": "🎬 Helping creators spread their passion\n🎞️ Lights, camera, action for your reels\n📬 Not taking new clients - DM to join wait list",
+      "external_link": "stan.store/danieldoesads",
+      "mutual_followers": [
+        "faheem_sait",
+        "drandremarinho"
+      ]
+    },
+    "reels_grid": [
+      {
+        "overlay_text": "PART 5",
+        "view_count": "33.8K"
+      },
+      {
+        "overlay_text": "MAKES YOUR VIDEO LOOK THREE DIMENSIONAL",
+        "view_count": "38.5K"
+      },
+      {
+        "overlay_text": "CAPTIONS CHASE YOU",
+        "view_count": "28.3K"
+      },
+      {
+        "overlay_text": "N/A",
+        "view_count": "19.1K"
+      },
+      {
+        "overlay_text": "Did you notice how in the movies",
+        "view_count": "173K"
+      },
+      {
+        "overlay_text": "MASKING TRANSITIONS",
+        "view_count": "141K"
+      }
+    ]
+  },
+  "profile_mentions": [
+    "faheem_sait",
+    "drandremarinho"
+  ],
+  "additional_metadata": {
+    "urls": [
+      "stan.store/danieldoesads"
+    ],
+    "status_bar": {
+      "time": "10:31",
+      "data_speed": "243 KB/s",
+      "network": "5G",
+      "battery_percentage": "37"
+    }
+  }
+}
