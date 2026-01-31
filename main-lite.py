@@ -4,12 +4,17 @@ import shutil
 import time
 import base64
 import requests
+import argparse
+import sys
 from pathlib import Path
 from dotenv import load_dotenv
 from PIL import Image
 
 # Load environment variables
 load_dotenv()
+
+# Global flag for verbose API output
+VERBOSE_API = False
 
 # Load configuration
 def load_config(config_path='config.json'):
@@ -133,11 +138,35 @@ def process_image(image_path, api_key, model_name):
             "Content-Type": "application/json"
         }
         
+        # Print verbose API output if enabled
+        if VERBOSE_API:
+            print("\n" + "="*60)
+            print("VERBOSE API OUTPUT")
+            print("="*60)
+            print(f"URL: {api_url}")
+            print(f"\nRequest Headers:")
+            print(json.dumps(headers, indent=2))
+            print(f"\nRequest Payload:")
+            # Create a copy of payload for display, truncating base64 data
+            display_payload = json.loads(json.dumps(payload))
+            if display_payload['contents'][0]['parts'][0]['inline_data']['data']:
+                display_payload['contents'][0]['parts'][0]['inline_data']['data'] = f"[BASE64_DATA_{len(image_base64)} chars]"
+            print(json.dumps(display_payload, indent=2))
+            print("="*60 + "\n")
+        
         response = requests.post(api_url, json=payload, headers=headers)
         response.raise_for_status()
         
         # Parse the response
         response_json = response.json()
+        
+        # Print verbose API response if enabled
+        if VERBOSE_API:
+            print("\n" + "="*60)
+            print("VERBOSE API RESPONSE")
+            print("="*60)
+            print(json.dumps(response_json, indent=2))
+            print("="*60 + "\n")
         
         # Extract text from response
         if 'candidates' not in response_json or len(response_json['candidates']) == 0:
@@ -488,10 +517,20 @@ def categorize_images():
 
 
 if __name__ == "__main__":
+    # Parse command-line arguments
+    parser = argparse.ArgumentParser(description='AI Image Categorizer - Lite Version')
+    parser.add_argument('--verbose-api', action='store_true', help='Show full API request and response details')
+    args = parser.parse_args()
+    
+    # Set global verbose API flag
+    VERBOSE_API = args.verbose_api
+    
     if CONFIG['processing']['verbose']:
         print("=" * 50)
         print("AI Image Categorizer (Lite Version)")
         print("=" * 50)
+        if VERBOSE_API:
+            print("🔍 Verbose API output enabled")
         print()
     
     categorize_images()
