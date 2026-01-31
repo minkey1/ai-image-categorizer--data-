@@ -46,7 +46,7 @@ wheels/
 Thumbs.db
 *.lnk
 
-# Project-specific
+# Project-specific  
 logs/
 *.log
 
