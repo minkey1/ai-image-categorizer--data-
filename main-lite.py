@@ -72,17 +72,30 @@ def process_image(image_path, api_key, model_name):
             image_bytes = f.read()
         image_base64 = base64.b64encode(image_bytes).decode('utf-8')
         
-        # Determine mime type based on file extension
-        ext = Path(image_path).suffix.lower()
-        mime_types = {
-            '.jpg': 'image/jpeg',
-            '.jpeg': 'image/jpeg',
-            '.png': 'image/png',
-            '.gif': 'image/gif',
-            '.webp': 'image/webp',
-            '.bmp': 'image/bmp'
-        }
-        mime_type = mime_types.get(ext, 'image/jpeg')
+        # Determine mime type by detecting actual image format with PIL
+        try:
+            img = Image.open(image_path)
+            format_to_mime = {
+                'JPEG': 'image/jpeg',
+                'JPG': 'image/jpeg',
+                'PNG': 'image/png',
+                'GIF': 'image/gif',
+                'WEBP': 'image/webp',
+                'BMP': 'image/bmp'
+            }
+            mime_type = format_to_mime.get(img.format, 'image/jpeg')
+        except Exception:
+            # Fallback to extension-based detection if PIL fails
+            ext = Path(image_path).suffix.lower()
+            mime_types = {
+                '.jpg': 'image/jpeg',
+                '.jpeg': 'image/jpeg',
+                '.png': 'image/png',
+                '.gif': 'image/gif',
+                '.webp': 'image/webp',
+                '.bmp': 'image/bmp'
+            }
+            mime_type = mime_types.get(ext, 'image/jpeg')
         
         # Load prompt from file
         prompt_path = os.path.join(os.path.dirname(__file__), 'prompt.txt')
