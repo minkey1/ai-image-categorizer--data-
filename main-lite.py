@@ -4,6 +4,7 @@ import shutil
 import time
 import base64
 import io
+import hashlib
 import requests
 import argparse
 import sys
@@ -77,6 +78,10 @@ def process_image(image_path, api_key, model_name):
         with open(image_path, 'rb') as f:
             image_bytes = f.read()
         image_base64 = base64.b64encode(image_bytes).decode('ascii').replace("\n", "").replace("\r", "")
+        # Ensure proper base64 padding
+        if len(image_base64) % 4 != 0:
+            image_base64 += "=" * (4 - (len(image_base64) % 4))
+        image_sha256 = hashlib.sha256(image_bytes).hexdigest()
         
         # Determine mime type by detecting actual image format with PIL
         try:
@@ -145,6 +150,7 @@ def process_image(image_path, api_key, model_name):
             print("VERBOSE API OUTPUT")
             print("="*60)
             print(f"URL: {api_url}")
+            print(f"Image bytes: {len(image_bytes)} | SHA256: {image_sha256[:16]}...")
             print(f"\nRequest Headers:")
             print(json.dumps(headers, indent=2))
             print(f"\nRequest Payload:")
@@ -172,6 +178,19 @@ def process_image(image_path, api_key, model_name):
         try:
             response.raise_for_status()
         except requests.exceptions.HTTPError as e:
+            if VERBOSE_API:
+                print("\n" + "="*60)
+                print("VERBOSE API ERROR")
+                print("="*60)
+                print(f"Status Code: {response.status_code}")
+                print("Response Text:")
+                print(response.text)
+                try:
+                    print("Response JSON:")
+                    print(json.dumps(response.json(), indent=2))
+                except Exception:
+                    pass
+                print("="*60 + "\n")
             # Retry once with a resized JPEG if we hit a 400 (common for invalid/too-large image payloads)
             if response is not None and response.status_code == 400:
                 try:
@@ -184,6 +203,9 @@ def process_image(image_path, api_key, model_name):
                     buffer.seek(0)
                     fallback_bytes = buffer.read()
                     fallback_base64 = base64.b64encode(fallback_bytes).decode('ascii').replace("\n", "").replace("\r", "")
+                    if len(fallback_base64) % 4 != 0:
+                        fallback_base64 += "=" * (4 - (len(fallback_base64) % 4))
+                    fallback_sha256 = hashlib.sha256(fallback_bytes).hexdigest()
                     payload['contents'][0]['parts'] = [
                         {"text": prompt},
                         {"inline_data": {"mime_type": "image/jpeg", "data": fallback_base64}}
@@ -193,7 +215,7 @@ def process_image(image_path, api_key, model_name):
                         print("\n" + "="*60)
                         print("VERBOSE API RETRY (JPEG RESIZE)")
                         print("="*60)
-                        print(f"Retrying with resized JPEG payload. Size: {len(fallback_bytes)} bytes")
+                        print(f"Retrying with resized JPEG payload. Size: {len(fallback_bytes)} bytes | SHA256: {fallback_sha256[:16]}...")
                         preview_len = min(120, len(fallback_base64))
                         preview = fallback_base64[:preview_len]
                         print(f"Base64 preview: {preview}{'...' if len(fallback_base64) > preview_len else ''}")
