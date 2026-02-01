@@ -1,0 +1,36 @@
+{
+  "filename": "Screenshot_20251113-104400.webp",
+  "tags": [
+    "screenshot",
+    "map",
+    "geotag",
+    "location",
+    "address",
+    "GPS",
+    "Chennai",
+    "India",
+    "TamilNadu"
+  ],
+  "raw_text": "Nov 13, 2025 10:43:35 AM\n294° NW\nIndia\nNo.9, 22, S Park St, Venkatapuram,\nAmbattur, Chennai, Tamil Nadu 600053\nGoogle\nSri Sai...",
+  "structured_data": {
+    "timestamp": "Nov 13, 2025 10:43:35 AM",
+    "bearing": "294° NW",
+    "location": {
+      "country": "India",
+      "address_line_1": "No.9, 22, S Park St",
+      "neighborhood": "Venkatapuram",
+      "area": "Ambattur",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600053"
+    },
+    "map_provider": "Google"
+  },
+  "profile_mentions": [],
+  "additional_metadata": {
+    "dates": [
+      "Nov 13, 2025"
+    ],
+    "pincode": "600053"
+  }
+}

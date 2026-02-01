@@ -3,6 +3,7 @@ import json
 import shutil
 import time
 import base64
+import io
 import requests
 import argparse
 import sys
@@ -75,7 +76,7 @@ def process_image(image_path, api_key, model_name):
         # Read image bytes and encode to base64
         with open(image_path, 'rb') as f:
             image_bytes = f.read()
-        image_base64 = base64.b64encode(image_bytes).decode('utf-8')
+        image_base64 = base64.b64encode(image_bytes).decode('ascii').replace("\n", "").replace("\r", "")
         
         # Determine mime type by detecting actual image format with PIL
         try:
@@ -120,13 +121,13 @@ def process_image(image_path, api_key, model_name):
                 {
                     "parts": [
                         {
+                            "text": prompt
+                        },
+                        {
                             "inline_data": {
                                 "mime_type": mime_type,
                                 "data": image_base64
                             }
-                        },
-                        {
-                            "text": prompt
                         }
                     ]
                 }
@@ -149,13 +150,61 @@ def process_image(image_path, api_key, model_name):
             print(f"\nRequest Payload:")
             # Create a copy of payload for display, truncating base64 data
             display_payload = json.loads(json.dumps(payload))
-            if display_payload['contents'][0]['parts'][0]['inline_data']['data']:
-                display_payload['contents'][0]['parts'][0]['inline_data']['data'] = f"[BASE64_DATA_{len(image_base64)} chars]"
+            # Find the inline_data part (order may vary)
+            inline_part = None
+            for part in display_payload['contents'][0]['parts']:
+                if isinstance(part, dict) and 'inline_data' in part:
+                    inline_part = part
+                    break
+            if inline_part and inline_part['inline_data'].get('data'):
+                preview_len = min(120, len(image_base64))
+                preview = image_base64[:preview_len]
+                inline_part['inline_data']['data'] = (
+                    f"[BASE64_DATA_{len(image_base64)} chars | preview: {preview}{'...' if len(image_base64) > preview_len else ''}]"
+                )
             print(json.dumps(display_payload, indent=2))
             print("="*60 + "\n")
-        
-        response = requests.post(api_url, json=payload, headers=headers)
-        response.raise_for_status()
+
+        def _post_request(request_payload):
+            return requests.post(api_url, json=request_payload, headers=headers)
+
+        response = _post_request(payload)
+        try:
+            response.raise_for_status()
+        except requests.exceptions.HTTPError as e:
+            # Retry once with a resized JPEG if we hit a 400 (common for invalid/too-large image payloads)
+            if response is not None and response.status_code == 400:
+                try:
+                    img = Image.open(image_path)
+                    if img.mode in ("RGBA", "P"):
+                        img = img.convert("RGB")
+                    img.thumbnail((2048, 2048), Image.LANCZOS)
+                    buffer = io.BytesIO()
+                    img.save(buffer, format="JPEG", quality=85, optimize=True)
+                    buffer.seek(0)
+                    fallback_bytes = buffer.read()
+                    fallback_base64 = base64.b64encode(fallback_bytes).decode('ascii').replace("\n", "").replace("\r", "")
+                    payload['contents'][0]['parts'] = [
+                        {"text": prompt},
+                        {"inline_data": {"mime_type": "image/jpeg", "data": fallback_base64}}
+                    ]
+
+                    if VERBOSE_API:
+                        print("\n" + "="*60)
+                        print("VERBOSE API RETRY (JPEG RESIZE)")
+                        print("="*60)
+                        print(f"Retrying with resized JPEG payload. Size: {len(fallback_bytes)} bytes")
+                        preview_len = min(120, len(fallback_base64))
+                        preview = fallback_base64[:preview_len]
+                        print(f"Base64 preview: {preview}{'...' if len(fallback_base64) > preview_len else ''}")
+                        print("="*60 + "\n")
+
+                    response = _post_request(payload)
+                    response.raise_for_status()
+                except Exception:
+                    raise e
+            else:
+                raise e
         
         # Parse the response
         response_json = response.json()
